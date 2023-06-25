@@ -1,0 +1,349 @@
+1 ¿Cuál es la capacidad máxima de transmisión de un cable categoría 5e?
+A) 10MB/s
+B) 100MB/s
+C) 1000MB/s
+D) 10GB/s
+ANSWER: B
+
+2 ¿Que problemas pueden sufrir los cables de fibra óptica dentro del nivel físico?
+A) Desalineación
+B) Control de enlace lógico
+C) Control de acceso a medios
+D) Método de corte
+ANSWER: A
+
+3 ¿Que es el ancho de banda en una conexión Ethernet dentro del nivel físico?
+A) El grosor de los cables de Ethernet
+B) Capacidad de transferir datos en bits
+C) Velocidad de la electricidad
+D) IPv4
+ANSWER: B
+
+4 ¿Qué tipo de cable es más vulnerable contra interferencias electromagnéticas?
+A) UTP
+B) STP
+C) FTP
+D) S/FTP
+ANSWER: A
+
+5 ¿Cuál NO es una ventaja de los cables de fibra óptica?
+A) Bajo precio
+B) Gran ancho de banda
+C) Inmunidad a interferencias
+D) Velocidad de transmisión
+ANSWER: A
+
+6 Nombra una topología WAN
+A) Bus
+B) Hub
+C) Estrella Extendida
+D) Malla
+ANSWER: C
+
+7 ¿Cuándo se cruzan los pares en un cable?
+A) Cuando se quiere más velocidad de transmisión.
+B) Cuando el cable esta deteriorado.
+C) Cuando se quieren conectar dos dispositivos del mismo tipo.
+D) Cuando solo se quiere recibir datos.
+ANSWER: C
+
+8 ¿Cuántos láseres utiliza la fibra monomodo?
+A) 5
+B) 10
+C) 1
+D) Mas de 100
+ANSWER: C
+
+9 ¿Qué método de transmisión utiliza ondas de radio para transmitir datos?
+A) Eléctrico
+B) Óptico
+C) Subacuático
+D) Inalámbrico
+ANSWER: D
+
+10 ¿Qué conector es el más usado en las redes LAN?
+A) RJ45
+B) SC
+C) BNC
+D) RJ11
+ANSWER: A
+
+11 ¿Cuál NO es un conector de fibra óptica?
+A) BC
+B) ST
+C) SC
+D) LC
+ANSWER: A
+
+12 ¿Cuál es la distancia máxima que se puede usar con cables de fibra óptica sin necesitar repetidores?
+A) 100m
+B) 40km
+C) 10km
+D) 1km
+ANSWER: B
+
+13 ¿Que herramienta NO es necesaria en la instalación física de una red?
+A) Engrimpadora
+B) Destornillador
+C) Alicates
+D) Bridas
+ANSWER: B
+
+14 ¿Cuál es el tipo de cable más caro?
+A) Coaxial
+B) UTP
+C) Fibra óptica
+D) FTP
+ANSWER: A
+
+15 ¿Cuál es el tipo de red de mayor alcance?
+A) MAN
+B) LAN
+C) WAN
+D) SAN
+ANSWER: C
+
+16 ¿Cuál es el cable que soporta más distancia?
+A) Coaxial
+B) Fibra óptica
+C) UTP cat5e
+D) FTP
+ANSWER: B
+
+17 ¿Cuántos contactos tiene un conector RJ45?
+A) 4
+B) 6
+C) 11
+D) 8
+ANSWER: D
+
+18 ¿Cómo se codifican los datos en un cable de fibra óptica?
+A) Usando proteínas
+B) Con ondas de radio
+C) Con pulsos de luz
+D) Con sonidos en una frecuencia que no podemos oír
+ANSWER: C
+
+19 ¿De qué material suele estar hecho el núcleo de cable de fibra óptica?
+A) Vidrio
+B) Aluminio
+C) Cobre
+D) Estaño
+ANSWER: A
+
+20 La capa física del es responsable de
+A) Establecer conexiones de red
+B) Enrutamiento de paquetes
+C) Conversión de señales digitales a analógicas
+D) Transmisión de bits a través de un medio
+ANSWER: D
+
+21 ¿Cuál de los siguientes es un medio de transmisión guiado?
+A) Fibra óptica
+B) Ondas de radio
+C) Infrarrojo
+D) Microondas
+ANSWER: A
+
+22 ¿Que conector utilizan las tarjetas de red?
+A) USB-C
+B) RJ45
+C) HDMI
+D) Thudenbolt
+ANSWER: B
+
+23 ¿Qué es la codificación Manchester?
+A) Un método de modulación digital
+B) Un método de modulación analógica
+C) Una técnica de codificación de línea
+D) Una técnica de multiplexación
+ANSWER: C
+
+24 ¿Cuál de los siguientes es un tipo de cable de par trenzado?
+A) UTP
+B) STP
+C) Ambos (a) y (b)
+D) Ninguno de los anteriores
+ANSWER: C
+
+25 El ancho de banda se mide en
+A) Hertzios
+B) Bits por segundo
+C) Decibelios
+D) Metros
+ANSWER: A
+
+26 ¿Cuál de los siguientes es un ejemplo de medio de transmisión no guiado?
+A) Cable coaxial
+B) Fibra óptica
+C) Par trenzado
+D) Ondas de radio
+ANSWER: D
+
+27 ¿Que dispositivo permite crear una red local sin que tenga porque tener acceso a internet?
+A) Router
+B) Switch
+C) Conmutador
+D) Repetidor
+ANSWER: B
+
+28 ¿Cual es el tipo de red que se usaria en una oficina?
+A) WAN
+B) MAN
+C) LAN
+D) TAN
+ANSWER: C
+
+29 ¿Cual es el metodo de codificación en un cable de par trenzado?
+A) Ondas de radio
+B) Pulsos electricos
+C) Señales de luz
+D) Pulsos de luz infrarrojo
+ANSWER: B
+
+30 ¿Cual es la velocidad de transmisión de un cable utp categoría 6?
+A) 1Gbps
+B) 5Gbps
+C) 10Gbps
+D) 100MBps
+ANSWER: C
+
+31 Cual es una topología LAN
+A) Topología de bus
+B) Topología anarquista
+C) Topología en estrella estendida
+D) Topología en arco
+ANSWER: A
+
+32 ¿Que metoodo de transmisión no necesita una instalación previa en las terminales?
+A) Fibra óptica
+B) Par trenzado
+C) Inalámbrica
+D) Cable coaxial
+ANSWER: C
+
+33 La técnica de multiplexación WDM se basa en:
+A) Frecuencia
+B) Longitud de onda
+C) Tiempo
+D) Amplitud
+ANSWER: B
+
+34 El término "latencia" se refiere a:
+A) La velocidad de transmisión de datos
+B) El tiempo que tarda un bit en viajar desde el emisor al receptor
+C) La cantidad de errores en una transmisión
+D) La cantidad de datos que se pueden transmitir simultáneamente
+ANSWER: B
+
+35 La atenuación se mide en:
+A) Hertz
+B) Bits por segundo
+C) Decibelios
+D) Metros
+ANSWER: C
+
+36 El término "jitter" se refiere a:
+A) La velocidad de transmisión de datos
+B) El tiempo que tarda un bit en viajar desde el emisor al receptor
+C) La variación en el tiempo de llegada de los bits en una transmisión
+D) La cantidad de errores en una transmisión
+ANSWER: C
+
+37 La técnica de modulación FM se utiliza para:
+A) Señales analógicas
+B) Señales digitales
+C) Ambas (a) y (b)
+D) Ninguna de las anteriores
+ANSWER: A
+
+38 El término "throughput" se refiere a:
+A) La velocidad de transmisión de datos
+B) El tiempo que tarda un bit en viajar desde el emisor al receptor
+C) La cantidad de datos que se pueden transmitir con éxito en un período de tiempo determinado
+D) La cantidad de errores en una transmisión
+ANSWER: C
+
+39 La modulación en amplitud (AM) es:
+A) Un método de modulación de señales analógicas
+B) Un método de modulación de señales digitales
+C) Una técnica de codificación de línea
+D) Una técnica de multiplexación
+ANSWER: A
+
+40 El cable coaxial se utiliza comúnmente en:
+A) Redes de área local (LAN)
+B) Sistemas de televisión por cable
+C) Redes de telefonía
+D) Redes inalámbricas
+ANSWER: B
+
+41 ¿Cual de los siguientes cables NO es usado en instalaciones fisicas?
+A) UTP
+B) FTP
+C) USB
+D) fibra óptica
+ANSWER: C
+
+42 ¿Cual de estas no es una función de la capa fisica?
+A) Codificación de datos
+B) Conectar dispositivos
+C) Encapsulación de datos
+D) Control de flujo de datos
+ANSWER: D
+
+43 ¿Cual es el metodo de transmisión mas vulnerable a interferencia?
+A) Inalambrico
+B) Cable de par trenzado sin apantallar
+C) Fibra óptica
+D) Cable de par trenzado apantallado
+ANSWER: A
+
+44 ¿Cual es la topología de red mas usada?
+A) Bús
+B) Estrella
+C) Estrella extendida
+D) Arbol
+ANSWER: B
+
+45 ¿Que metodo de transmisión utiliza pulsos de luz?
+A) Cable coaxial
+B) Fibra óptica
+C) Conexiçon inalambrica
+D) Cable de par trenzado
+ANSWER: B
+
+46 ¿Cual es el cable de par trenzado con mayor protección?
+A) UTP
+B) FTP
+C) S/FTP
+D) STP
+ANSWER: C
+
+47 ¿Que dispositivo se utiliza para aumentar la longitud de una red?
+A) Switch
+B) Enrutador
+C) Repetidor
+D) Conmutador
+ANSWER: C
+
+48 ¿Cual es el medio de transmisión inalambrico con menor alacnce?
+A) Wi-Fi
+B) Radiofrecuencia
+C) Bluetooth
+D) Microondas
+ANSWER: C
+
+49 ¿Cual es el tipo cable mas usado?
+A) Par trenzado
+B) Coaxial
+C) Fibra óptica
+D) Cable paralelo
+ANSWER: A
+
+50 Cual es la velocidad de transmisión de un cable UTP cat7
+A) 10 Gbps
+B) 30 GBps
+C) 40 GBps
+D) 40 Gbps
+ANSWER: D

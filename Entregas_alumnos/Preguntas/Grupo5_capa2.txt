@@ -1,0 +1,349 @@
+﻿1.    ¿Cuál es la función principal de la capa de enlaces de datos?
+a) Establecer y mantener la conexión física entre dispositivos.
+b) Controlar el flujo de datos entre dispositivos.
+c) Proporcionar seguridad y privacidad de los datos transmitidos.
+d) Ninguna de las anteriores.
+Respuesta correcta: b) Controlar el flujo de datos entre dispositivos.
+
+2. ¿Cuáles son las dos subcapas que conforman la capa de enlaces de datos?
+a) Control de acceso al medio y control de errores.
+b) Control de flujo y control de congestión.
+c) Control de acceso al medio y control de flujo.
+d) Control de errores y control de congestión.
+Respuesta correcta: c) Control de acceso al medio y control de flujo.
+
+3. ¿Cuál es el protocolo más comúnmente utilizado en la capa de enlaces de datos para redes locales?
+a) TCP/IP.
+b) HTTP.
+c) Ethernet.
+d) SMTP.
+Respuesta correcta: c) Ethernet.
+
+4. ¿Cuál es la función de la técnica de detección de errores CRC (Cyclic Redundancy Check)?
+a) Detectar errores en la transmisión de datos.
+b) Corregir errores en la transmisión de datos.
+c) Asegurar la autenticidad de los datos transmitidos.
+d) Ninguna de las anteriores.
+Respuesta correcta: a) Detectar errores en la transmisión de datos.
+
+5. ¿Cuál es la función principal de la capa de enlace de datos en el modelo OSI?
+a) Encapsular los datos en paquetes.
+b) Establecer y mantener sesiones entre aplicaciones.
+c) Proporcionar acceso al medio físico y control de errores.
+d) Administrar la comunicación entre hosts en diferentes redes.
+Respuesta correcta:  c) Proporcionar acceso al medio físico y control de errores.
+
+6. ¿Qué protocolo de la capa de enlace de datos se utiliza comúnmente para redes inalámbricas?
+a) ARP.
+b) TCP.
+c) Ethernet.
+d) Wi-Fi.
+Respuesta correcta: d) Wi-Fi.
+
+7. ¿Qué dispositivo opera en la capa de enlace de datos del modelo OSI?
+a) Switch.
+b) Router.
+c) Hub.
+d) Firewall.
+Respuesta correcta: a) Switch.
+
+8. ¿Cuál es la función de la trama en la capa de enlace de datos?
+a) Identificar los dispositivos en la red.
+b) Proporcionar la dirección IP de destino.
+c) Establecer la conexión entre dispositivos.
+d) Encapsular los datos y agregar información de control.
+Respuesta correcta: d) Encapsular los datos y agregar información de control.
+
+9. ¿Qué tecnología de red de área local (LAN) utiliza la capa de enlace de datos del modelo OSI?
+a) Token Ring.
+b) SONET.
+c) ATM.
+d) Frame Relay.
+Respuesta correcta: a) Token Ring.
+
+10.  ¿Qué campo en la trama de Ethernet indica el tipo de protocolo de la capa superior?
+a) Dirección MAC de origen.
+b) Dirección MAC de destino.
+c) Longitud de datos.
+d) Tipo de protocolo.
+Respuesta correcta: d) Tipo de protocolo.
+
+11.  ¿Qué tipo de dirección se utiliza en la capa de enlace de datos para identificar un dispositivo específico en la red?
+a) Dirección IP.
+b) Dirección MAC.
+c) Dirección de red.
+d) Dirección de broadcast.
+Respuesta correcta: b) Dirección MAC.
+
+12.  ¿Cuál es el propósito del protocolo ARP en la capa de enlace de datos?
+a) Convertir direcciones MAC en direcciones IP.
+b) Convertir direcciones IP en direcciones MAC.
+c) Identificar la mejor ruta para enviar paquetes en la red.
+d) Proporcionar un servicio de entrega de paquetes sin conexión.
+Respuesta correcta: b) Convertir direcciones IP en direcciones MAC.
+
+13.  ¿Cuál es el propósito del campo de comprobación de redundancia cíclica (CRC) en la trama de Ethernet?
+a) Identificar el tipo de protocolo de la capa superior.
+b) Proporcionar la dirección MAC de destino.
+c) Detectar errores de transmisión en la trama.
+d) Controlar la velocidad de la transmisión.
+Respuesta correcta: c) Detectar errores de transmisión en la trama.
+
+14.  ¿Cuál es el papel del control de flujo en la capa de enlace de datos?
+a) Identificar los dispositivos en la red.
+b) Proporcionar acceso al medio físico.
+c) Establecer y mantener sesiones entre aplicaciones.
+d) Controlar la velocidad de la transmisión de datos.
+Respuesta correcta: d) Controlar la velocidad de la transmisión de datos.
+
+15.  ¿Cuál es el propósito de la dirección MAC (Media Access Control) en la capa de enlaces de datos?
+a) Identificar el destino del paquete de datos.
+b) Identificar el origen del paquete de datos.
+c) Controlar el flujo de datos en la red.
+d) Ninguna de las anteriores.
+Respuesta correcta: b) Identificar el origen del paquete de datos.
+
+16.  ¿Qué es la técnica de multiplexación estadística en la capa de enlaces de datos?
+a) Una técnica para combinar múltiples flujos de datos en un solo canal de transmisión.
+b) Una técnica para garantizar la calidad de servicio de los datos transmitidos.
+c) Una técnica para prevenir colisiones de datos en la red.
+d) Ninguna de las anteriores.
+Respuesta correcta: a) Una técnica para combinar múltiples flujos de datos en un solo canal de transmisión.
+
+17.  ¿Qué es la trama (frame) en la capa de enlaces de datos?
+a) Un conjunto de bytes que contiene los datos a transmitir.
+b) Un conjunto de bytes que contiene información de control y dirección de los datos a transmitir.
+c) Un conjunto de bytes que contiene información de la ruta a seguir para los datos a transmitir.
+d) Ninguna de las anteriores.
+Respuesta correcta: b) Un conjunto de bytes que contiene información de control y dirección de los datos a transmitir.
+
+18.  ¿Qué es la técnica de detección de colisiones CSMA/CD en la capa de enlaces de datos?
+a) Una técnica para detectar y corregir errores en la transmisión de datos.
+b) Una técnica para controlar el flujo de datos en la red.
+c) Una técnica para prevenir colisiones de datos en la red.
+d) Ninguna de las anteriores.
+Respuesta correcta: c) Una técnica para prevenir colisiones de datos en la red.
+
+19.  ¿Cuál es la función de la capa de enlace de datos?
+a) Proporcionar acceso al medio físico.
+b) Establecer y mantener sesiones entre aplicaciones.
+c) Encapsular los datos en paquetes.
+d) Administrar la comunicación entre diferentes redes.
+Respuesta correcta: a) Proporcionar acceso al medio físico.
+
+20.  ¿Qué es una dirección MAC?
+a) Una dirección IP única para cada dispositivo en la red.
+b) Una dirección física única para cada dispositivo en la red.
+c) Una dirección lógica utilizada para establecer sesiones entre aplicaciones.
+d) Una dirección de broadcast utilizada para enviar mensajes a todos los dispositivos en la red.
+Respuesta correcta: b) Una dirección física única para cada dispositivo en la red.
+
+21. ¿Qué dispositivo opera en la capa de enlace de datos?
+a) Switch.
+b) Router.
+c) Hub.
+d) Modem.
+Respuesta correcta: a) Switch.
+
+22.  ¿Qué protocolo se utiliza para controlar el acceso al medio físico en una red Ethernet?
+a) CSMA/CD.
+b) IP.
+c) TCP.
+d) UDP.
+Respuesta correcta: a)CSMA/CD.
+
+23.  ¿Qué es una trama en la capa de enlace de datos?
+a) Un paquete de datos encapsulado en la capa de transporte.
+b) Un mensaje de aplicación enviado a través de la red.
+c) Una unidad de datos en la capa de enlace de datos que contiene información de control y de dirección.
+d) Un conjunto de paquetes de datos enviados de forma simultánea.
+Respuesta correcta: c)Una unidad de datos en la capa de enlace de datos que contiene información de control y de dirección.
+
+24.  ¿Cuál es el propósito del protocolo ARP?
+a) Asignar direcciones IP a los dispositivos en la red.
+b) Convertir direcciones MAC en direcciones IP.
+c) Identificar la mejor ruta para enviar paquetes en la red.
+d) Proporcionar un servicio de entrega de paquetes sin conexión.
+Respuesta correcta: b)Convertir direcciones MAC en direcciones IP.
+
+25. ¿Qué tipo de trama se utiliza para enviar mensajes a todos los dispositivos en una red Ethernet?
+a) Trama de unicast.
+b) Trama de multicast.
+c) Trama de broadcast.
+d) Trama de difusión.
+Respuesta correcta: c)Trama de broadcast.
+
+26. ¿Cuál es el propósito del campo de dirección MAC de destino en la trama de Ethernet?
+a) Identificar el dispositivo emisor de la trama.
+b) Identificar el tipo de protocolo de la capa superior.
+c) Proporcionar la dirección IP de destino.
+d) Identificar el dispositivo receptor de la trama.
+Respuesta correcta: d) Identificar el dispositivo receptor de la trama.
+
+27. ¿Qué es el control de errores en la capa de enlace de datos?
+a) Un proceso para controlar la velocidad de transmisión de datos en la red.
+b) Un proceso para detectar y corregir errores de transmisión de datos en la red.
+c) Un proceso para establecer y mantener sesiones entre aplicaciones en la red.
+d) Un proceso para identificar los dispositivos en la red.
+Respuesta correcta: b) Un proceso para detectar y corregir errores de transmisión de datos en la red.
+
+28. ¿Qué tecnología de red de área local (LAN) utiliza el protocolo de capa de enlace de datos Token Ring?
+a) Ethernet.
+b) FDDI.
+c) Wi-Fi.
+d) InfiniBand.
+Respuesta correcta: b)FDDI.
+
+29. ¿Qué función tiene el control de flujo en la capa de enlace de datos?
+a) Garantizar que los datos se transmitan sin errores.
+b) Detectar y corregir errores en los datos.
+c) Controlar la velocidad de transmisión de datos.
+d) Identificar el dispositivo receptor de los datos.
+Respuesta correcta: c)Controlar la velocidad de transmisión de datos.
+
+30. ¿Qué es una colisión en la capa de enlace de datos?
+a) Un error en la transmisión de datos que resulta en la pérdida de información.
+b) El proceso de enviar paquetes de datos a través de la red.
+c) La situación en la que dos o más dispositivos intentan transmitir datos al mismo tiempo.
+d) El proceso de encapsular los datos en paquetes.
+Respuesta correcta: c)La situación en la que dos o más dispositivos intentan transmitir datos al mismo tiempo.
+
+31. ¿Cuál es el propósito del campo de control en la trama de Ethernet?
+a) Identificar el dispositivo emisor de la trama.
+b) Identificar el tipo de protocolo de la capa superior.
+c) Proporcionar la dirección IP de origen.
+d) Proporcionar información de control para la transmisión de datos.
+Respuesta correcta: d) Proporcionar información de control para la transmisión de datos.
+
+32. ¿Qué es la detección de errores en la capa de enlace de datos?
+a) Un proceso para controlar la velocidad de transmisión de datos en la red.
+b) Un proceso para detectar y corregir errores de transmisión de datos en la red.
+c) Un proceso para establecer y mantener sesiones entre aplicaciones en la red.
+d) Un proceso para identificar los dispositivos en la red.
+Respuesta correcta: b) Un proceso para detectar y corregir errores de transmisión de datos en la red.
+
+33. ¿Qué tipo de dirección utiliza la capa de enlace de datos para identificar los dispositivos en la red?
+a) Dirección IP.
+b) Dirección MAC.
+c) Dirección de red.
+d) Dirección de broadcast.
+Respuesta correcta: b) Dirección MAC.
+
+34. ¿Qué es el protocolo STP (Spanning Tree Protocol)?
+a) Un protocolo de la capa de transporte que garantiza la entrega de datos.
+b) Un protocolo de la capa de enlace de datos que evita bucles en la red.
+c) Un protocolo de la capa de red que identifica la mejor ruta para enviar paquetes.
+d) Un protocolo de la capa de sesión que establece y mantiene sesiones entre aplicaciones.
+Respuesta correcta: b) Un protocolo de la capa de enlace de datos que evita bucles en la red.
+
+35. ¿Qué es un switch de capa de enlace de datos?
+a) Un dispositivo que conecta redes diferentes.
+b) Un dispositivo que filtra el tráfico de red en función de las direcciones MAC.
+c) Un dispositivo que enruta los paquetes de datos a través de la red.
+d) Un dispositivo que proporciona acceso a Internet.
+Respuesta correcta: b)Un dispositivo que filtra el tráfico de red en función de las direcciones MAC.
+
+36. ¿Qué es un broadcast en la capa de enlace de datos?
+a) Un mensaje dirigido a un dispositivo específico en la red.
+b) Un mensaje enviado a todos los dispositivos en la red.
+c) Un mensaje enviado a un grupo específico de dispositivos en la red.
+d) Un mensaje enviado a un dispositivo específico y su gateway predeterminado.
+Respuesta correcta: b) Un mensaje enviado a todos los dispositivos en la red.
+
+37. ¿Cuál es la función del CRC (Cyclic Redundancy Check) en la capa de enlace de datos?
+a) Detectar y corregir errores en los datos.
+b) Identificar el dispositivo receptor de los datos.
+c) Identificar el tipo de protocolo de la capa superior.
+d) Controlar la velocidad de transmisión de datos.
+Respuesta correcta: a)Detectar y corregir errores en los datos.
+
+38. ¿Qué es un switch de capa de enlace de datos administrable?
+a) Un dispositivo que filtra el tráfico de red en función de las direcciones MAC.
+b) Un dispositivo que se configura automáticamente y no requiere intervención manual.
+c) Un dispositivo que proporciona acceso a Internet.
+d) Un dispositivo que permite a los administradores configurar y gestionar la red.
+Respuesta correcta: d) Un dispositivo que permite a los administradores configurar y gestionar la red.
+
+39. ¿Qué es una VLAN (Virtual Local Area Network)?
+a) Una red privada virtual que se utiliza para conectar redes geográficamente separadas.
+b) Una red inalámbrica que utiliza tecnología de radiofrecuencia para transmitir datos.
+c) Una red local virtual que permite a los dispositivos en diferentes segmentos de red comunicarse como si estuvieran en la misma red física.
+d) Un protocolo de enrutamiento que permite que los paquetes se envíen por la ruta más eficiente.
+Respuesta correcta: c) Una red local virtual que permite a los dispositivos en diferentes segmentos de red comunicarse como si estuvieran en la misma red física.
+
+40. ¿Qué es un troncal en una red VLAN?
+a) Una conexión de red que permite el acceso a Internet.
+b) Una conexión de red que conecta dos o más switches y permite el tráfico de VLAN entre ellos.
+c) Un dispositivo que se utiliza para monitorizar el tráfico de red.
+d) Un dispositivo que se utiliza para bloquear el tráfico de red no deseado.
+Respuesta correcta: b) Una conexión de red que conecta dos o más switches y permite el tráfico de VLAN entre ellos.
+
+41. ¿Qué es un puerto troncal en un switch VLAN?
+a) Un puerto que pertenece a una sola VLAN.
+b) Un puerto que permite el tráfico de VLAN entre switches.
+c) Un puerto que se utiliza para conectarse a Internet.
+d) Un puerto que se utiliza para monitorizar el tráfico de red.
+Respuesta correcta: b) Un puerto que permite el tráfico de VLAN entre switches.
+
+42. ¿Qué es un protocolo de control de enlace lógico (LLC) en la capa de enlace de datos?
+a) Un protocolo que garantiza que los datos se transmitan sin errores.
+b) Un protocolo que se utiliza para identificar el dispositivo emisor de la trama.
+c) Un protocolo que proporciona información de control para la transmisión de datos.
+d) Un protocolo que se utiliza para establecer y mantener sesiones entre aplicaciones.
+Respuesta correcta: c)Un protocolo que proporciona información de control para la transmisión de datos.
+
+43. ¿Qué es un switch de capa de enlace de datos no administrable?
+a) Un dispositivo que se configura automáticamente y no requiere intervención manual.
+b) Un dispositivo que filtra el tráfico de red en función de las direcciones MAC.
+c) Un dispositivo que proporciona acceso a Internet.
+d) Un dispositivo que permite a los administradores configurar y gestionar la red.
+Respuesta correcta: a)  Un dispositivo que se configura automáticamente y no requiere intervención manual.
+
+44. ¿Qué es la técnica de multiplexación de división de tiempo (TDM) en la capa de enlace de datos?
+a) Una técnica que permite a varios dispositivos utilizar el mismo canal de comunicación al mismo tiempo.
+b) Una técnica que permite que los datos se dividan en paquetes y se transmitan a través de diferentes canales.
+c) Una técnica que permite que los datos se transmitan en diferentes franjas de tiempo en el mismo canal.
+d) Una técnica que garantiza que los datos se transmitan sin errores.
+Respuesta correcta: c)Una técnica que permite que los datos se transmitan en diferentes franjas de tiempo en el mismo canal.
+
+45. ¿Cuál es el propósito del campo de control de flujo en la capa de enlace de datos?
+a) Identificar el tipo de protocolo de la capa superior.
+b) Identificar el dispositivo receptor de los datos.
+c) Controlar la velocidad de transmisión de datos.
+d) Detectar y corregir errores en los datos.
+Respuesta correcta: c) Controlar la velocidad de transmisión de datos.
+
+46.¿Qué es el acceso múltiple por detección de portadora con detección de colisiones (CSMA/CD) en la capa de enlace de datos?
+a) Un método de acceso al medio en el que los dispositivos transmiten datos en diferentes momentos.
+b) Un método de acceso al medio en el que los dispositivos comparten el mismo canal de comunicación al mismo tiempo.
+c) Un método de acceso al medio en el que los dispositivos transmiten datos en diferentes franjas de tiempo.
+d) Un método de acceso al medio en el que los dispositivos detectan la presencia de señales antes de transmitir datos.
+Respuesta correcta: d)Un método de acceso al medio en el que los dispositivos detectan la presencia de señales antes de transmitir datos.
+
+47.¿Qué es la dirección MAC en la capa de enlace de datos?
+a) Una dirección IP que identifica de manera única a un dispositivo en la red.
+b) Una dirección física que identifica de manera única a un dispositivo en la red.
+c) Una dirección que identifica el puerto utilizado por un dispositivo en la red.
+d) Una dirección que identifica la ubicación geográfica de un dispositivo en la red.
+Respuesta correcta: b)Una dirección física que identifica de manera única a un dispositivo en la red.
+
+48. ¿Qué es un controlador de red en la capa de enlace de datos?
+a) Un dispositivo que se utiliza para monitorizar el tráfico de red.
+b) Un software que se ejecuta en un servidor y controla el acceso de los dispositivos a la red.
+c) Un software que se ejecuta en un dispositivo y permite que se conecte a la red.
+d) Un software que se utiliza para identificar el dispositivo receptor de los datos.
+Respuesta correcta: b)Un software que se ejecuta en un servidor y controla el acceso de los dispositivos a la red.
+
+49. ¿Qué es un puerto en un switch de capa de enlace de datos?
+a) Un dispositivo que se utiliza para bloquear el tráfico de red no deseado.
+b) Un dispositivo que se utiliza para monitorizar el tráfico de red.
+c) Un punto de conexión en un switch que se utiliza para conectar dispositivos de red.
+d) Un protocolo que se utiliza para establecer y mantener sesiones entre aplicaciones.
+Respuesta correcta: c) Un punto de conexión en un switch que se utiliza para conectar dispositivos de red.
+
+50. ¿Cuál es el propósito de la trama en la capa de enlace de datos?
+a) Identificar el tipo de protocolo de la capa superior.
+b) Identificar el dispositivo receptor de los datos.
+c) Controlar la velocidad de transmisión de datos.
+d) Permitir que los datos se transmitan de manera eficiente y segura.
+Respuesta correcta: d)Permitir que los datos se transmitan de manera eficiente y segura.

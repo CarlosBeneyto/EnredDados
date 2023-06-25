@@ -1,0 +1,360 @@
+¿Qué protocolo de la capa de transporte proporciona una conexión orientada a la conexión y garantiza la entrega confiable de datos?
+A)TCP
+B)UDP
+C)FTP
+D)ICMP
+ANSWER: A
+
+¿Cuál es el número de puerto utilizado por el protocolo HTTP para comunicarse a través de la capa de transporte?
+A)21
+B)25
+C)80
+D)110
+ANSWER: C
+
+¿Cuál es la función principal del protocolo de la capa de transporte UDP?
+A)Proporcionar una conexión orientada a la conexión
+B)Proporcionar la entrega confiable de datos
+C)Proporcionar la comunicación en tiempo real
+D)Proporcionar la gestión de flujo de datos
+ANSWER: A
+
+¿Cuál es el número de puerto utilizado por el protocolo FTP para la transferencia de archivos a través de la capa de transporte?
+A)1
+B)21
+C)15
+D)25
+ANSWER: B
+
+¿Qué protocolo de la capa de transporte se utiliza para el correo electrónico?
+A)SMTP
+B)POP3
+C)IMAP
+D)Todos los anteriores
+ANSWER: D
+
+¿Qué protocolo de la capa de transporte es utilizado por las conexiones VPN?
+A)TCP
+B)SSTP
+C)ICMP
+D)FTP
+ANSWER: B
+
+¿Qué es el control de congestión en la capa de transporte?
+A)Un mecanismo utilizado para prevenir la interceptación de datos
+B)Un mecanismo utilizado para evitar la pérdida de datos
+C)Un mecanismo utilizado para asegurar la entrega de datos en orden
+D)Un mecanismo utilizado para evitar la sobrecarga de la red
+ANSWER: B
+
+¿Cuál es el número de puerto utilizado por el protocolo SSH para la conexión segura a través de la capa de transporte?
+A)3
+B)12
+C)22
+D)28
+ANSWER: C
+
+¿Qué protocolo de la capa de transporte se utiliza para la resolución de nombres de dominio?
+A)SMTP
+B)FTP
+C)HTTP
+D)DNS
+ANSWER: D
+
+¿Qué es el multiplexado en la capa de transporte?
+A)Un mecanismo utilizado para dividir los datos en paquetes más pequeños
+B)Un mecanismo utilizado para combinar múltiples flujos de datos en un solo canal
+C)Un mecanismo utilizado para proporcionar seguridad en la comunicación de datos
+D)Un mecanismo utilizado para controlar el flujo de datos.
+ANSWER: B
+
+¿Qué es el protocolo de la capa de transporte SCTP?
+A)Un protocolo utilizado para la transmisión de correo electrónico
+B)Un protocolo utilizado para la conexión remota segura
+C)Un protocolo utilizado para la transmisión de voz y video en tiempo real
+D)Un protocolo utilizado para la conexión orientada a la conexión y la entrega confiable de datos
+ANSWER: D
+
+¿Qué es el retransmitir en la capa de transporte?
+A)Un mecanismo utilizado para dividir los datos en paquetes más pequeños
+B)Un mecanismo utilizado para combinar múltiples flujos de datos en un solo canal
+C)Un mecanismo utilizado para reenviar los datos perdidos en la transmisión
+D)Un mecanismo utilizado para controlar el flujo de datos
+ANSWER: C
+
+¿Qué protocolo de la capa de transporte se utiliza para la conexión remota de sistemas Unix?
+A)FTP
+B)SSH
+C)Telnet
+D)SMTP
+ANSWER: B
+
+¿Cuál es el número de puerto utilizado por el protocolo DNS para la resolución de nombres de dominio a través de la capa de transporte?
+A)53
+B)23
+C)50
+D)80
+ANSWER: A
+
+¿Qué es la segmentación en la capa de transporte?
+A)Un mecanismo utilizado para dividir los datos en paquetes más pequeños
+B)Un mecanismo utilizado para combinar múltiples flujos de datos en un solo canal
+C)Un mecanismo utilizado para proporcionar seguridad en la comunicación de datos
+D)Un mecanismo utilizado para controlar el flujo de datos
+ANSWER: A
+
+¿Qué es el protocolo de la capa de transporte RTP?
+A)Un protocolo utilizado para la transmisión de correo electrónico
+B)Un protocolo utilizado para la transmisión de voz y video en tiempo real
+C)Un protocolo utilizado para la conexión remota segura
+D)Un protocolo utilizado para la transferencia de archivos
+ANSWER: B
+
+¿Qué protocolo de la capa de transporte se utiliza para la transmisión de mensajes de voz en tiempo real?
+A)TCP
+B)UDP
+C)ICMP
+D)FTP
+ANSWER: B
+
+¿Qué es la retransmisión selectiva en la capa de transporte?
+A)Un mecanismo utilizado por el protocolo TCP para retransmitir sólo los paquetes perdidos, en lugar de retransmitir todos
+B)Un mecanismo utilizado por el protocolo UDP para retransmitir todos los paquetes
+C)Un mecanismo utilizado por el protocolo FTP para controlar la conexión
+D)Un mecanismo utilizado por el protocolo SMTP
+ANSWER: A
+
+¿Qué es el control de errores en la capa de transporte?
+A)Un mecanismo utilizado para regular la cantidad de datos que se envían entre los extremos de la comunicación
+B)Un mecanismo utilizado para detectar y corregir errores en los datos transmitidos entre los extremos de la comunicación
+C)Un mecanismo utilizado para controlar el acceso a la red
+D) Todo lo anterior
+ANSWER: B
+
+¿Cuál es la función principal de la capa de transporte en el modelo OSI?
+A)Proporcionar servicios de enrutamiento de paquetes
+B)Proporcionar servicios de acceso a la red
+C)Proporcionar servicios de transporte de datos confiables y eficientes entre los extremos de la comunicación
+D)Proporcionar servicios de protección de la red
+ANSWER: C
+
+¿Qué es el control de flujo en la capa de transporte?
+A)Un mecanismo utilizado para regular la cantidad de datos que se envían entre los extremos de la comunicación
+B)Un mecanismo utilizado para detectar y corregir errores en los datos transmitidos entre los extremos de la comunicación
+C)Un mecanismo utilizado para controlar el acceso a la red
+D)Un mecanismo utilizado para que los protocolos funcionen correctamente
+ANSWER: A
+
+¿Qué es la retransmisión selectiva en la capa de transporte?
+A)Un mecanismo utilizado por el protocolo SCTP
+B)Un mecanismo utilizado por el protocolo UDP para retransmitir todos los paquetes.
+C)Un mecanismo utilizado por el protocolo FTP para controlar la conexión.
+D)Un mecanismo utilizado por el protocolo TCP para retransmitir sólo los paquetes perdidos, en lugar de retransmitir todos.
+ANSWER:D
+
+¿Cuál es el número máximo de puertos disponibles en el protocolo TCP y UDP?
+A)1024
+B)256
+C)1
+D)65,536
+ANSWER: D
+
+¿Qué es la calidad de servicio (QoS) en la capa de transporte?
+A)Un mecanismo utilizado para garantizar que los datos se transmitan a la velocidad correcta y sin sobrecargar al receptor.
+B)Un mecanismo utilizado para dividir los datos en paquetes más pequeños.
+C)Un mecanismo utilizado para controlar el flujo de datos.
+D)Un mecanismo utilizado para asignar prioridades a los diferentes tipos de tráfico de red.
+ANSWER: D
+
+¿Cuál es la diferencia entre el protocolo de la capa de transporte TCP y UDP?
+A) TCP proporciona seguridad en la comunicación de datos, mientras que UDP proporciona un canal para la transmisión de voz y video en tiempo real.
+B)TCP proporciona una conexión orientada a la conexión y garantiza la entrega confiable de datos, mientras que UDP proporciona una conexión sin conexión y una entrega no confiable de datos.
+C)TCP es más rápido que UDP en la transmisión de datos, pero menos confiable.
+D)TCP y UDP son protocolos idénticos y pueden ser intercambiados indistintamente.
+ANSWER: B
+
+¿Cual es la posición de la capa de Transporte en el modelo OSI
+A)1
+B)3
+C)4
+D)5
+ANSWER: C
+
+¿Cual es la primitiva de transporte sencillo que se bloquea hasta que algun proceso intente el contacto?
+A)CONNECT
+B)SEND
+C)DISCONECT
+D)LISTEN
+ANSWER: D
+
+¿Como se llama el software y el firmware de la capa de transporte?
+A)Entidad de transporte
+B)Elementos de transporte
+C)Objeto de transportre
+D)No se identifican de ninguna manera
+ANSWER: A
+
+¿Como se llama el otro gurpo de primitivas que estan en la capa
+A)Socket de Reconect
+B)Socket de Berkeley
+C)Socket de Exchange
+D)Socket de Overcharge
+ANSWER: B
+
+¿Cual es la función del bit no utilizados URG?
+A)Indicar que segmento contiene datos urgentes
+B)Indica que en este segmento el campo Número contiene el número del proximo byte que se espera escribir
+C)Indica que se ha detectado un error de cualquier tipo
+D)Solo en el primer mensaje enviado por cada lado en el inicio de la conexion
+ANSWER: A
+
+¿Cual es la función del bit no utilizados ACK?
+A)Indica que no se tienen más datos que enviar y que se quiere cerrar
+la conexión
+B)Los datos deben ser enviados rapidamente a la aplicacion corespondiente
+C)Indica que en este segmento el campo Número contiene el número del próximo byte que se espera recibir
+D)Sirve para indicar que el segmento contiene datos urgentes
+ANSWER: C
+
+¿Cual es la función del bit no utilizados SYH?
+A)Se usa para indicar que se ha detectado un error de cualquier tipo
+B)Solo puede ser el primer mensaje enviado por cada lado en el inicio de la conexion
+C)Indica que no se tienen más datos que enviar y que se quiere cerrar
+la conexión
+D)Indica que en este segmento el campo Número contiene el número del próximo byte que se espera recibir
+ANSWER: B
+
+¿Cual es la función del bit no utilizados FIN?
+A)Indica que no se tienen más datos que enviar y que se quiere cerrar
+la conexión
+B)Los datos deben ser enviados rapidamente a la aplicacion corespondiente
+C)Se usa para indicar que se ha detectado un error de cualquier tipo
+D)Indica que no se tienen más datos que enviar y que se quiere cerrar
+la conexión
+ANSWER: D
+
+¿Cual es la función del bit no utilizados RST?
+A)Sirve para indicar que el segmento contiene datos urgentes
+B)Se usa para indicar que se ha detectado un error de cualquier tipo
+C)Indica que en este segmento el campo Número contiene el número del próximo byte que se espera recibir
+D)Los datos deben ser enviados rapidamente a la aplicacion corespondiente
+ANSWER: B
+
+¿Cual es la función del bit no utilizados PSH?
+A)Indica que el segmento contiene datos que deben ser enviados rápidamente a la aplicación correspondiente
+B)Sirve para indicar que el segmento contiene datos urgentes
+C)Indica que no se tienen más datos que enviar y que se quiere cerrar
+la conexión
+D)Se usa para indicar que se ha detectado un error de cualquier tipo
+ANSWER: A
+
+¿Que aplicacion indica el puerto 7?
+A)Discard
+B)Daytime
+C)Echo
+D)Quote
+ANSWER: C
+
+¿Que aplicacion indica el puerto 69?
+A)NTP
+B)SunRPC
+C)Chargen
+D)TFTP
+ANSWER: D
+
+¿Que aplicacion indica el puerto 13?
+A)Nameserver
+B)Daytime
+C)SNMP
+D)Quote
+ANSWER:B
+
+¿Que aplicacion indica el puerto 68?
+A)Bootpc/Bootps
+B)TFTP
+C)SunRPC
+D)Echo
+ANSWER: A
+
+¿Que aplicacion indica el puerto 19?
+A)Echo
+B)Nameserver
+C)Chargen
+D)Discard
+ANSWER: C
+
+¿Que aplicacion indica el puerto 161?
+A)TFTP
+B)Echo
+C)Daytime
+D)SNMP
+ANSWER: D
+
+¿Que aplicacion indica el puerto 111?
+A)Bootpc/Bootps
+B)SunRPC
+C)NTP
+D)Daytime
+ANSWER: B
+
+¿Que aplicacion indica el puerto 53?
+A)Nameserver
+B)Quote
+C)cho
+D)NTP
+ANSWER: A
+
+¿Que aplicacion indica el puerto 162?
+A)SNMP-trap
+B)Chargen
+C)Quote
+D)SunRPC
+ANSWER: A
+
+¿Que aplicacion indica el puerto 17?
+A)Echo
+B)Chargen
+C)Quote
+D)NTP
+ANSWER: C
+
+Cual pordia ser la razon para que se utilice un servicio de transporte más sencillo?
+A)El tipo de aplicación no requiere una fiabilidad total, y no podría tolerar el
+retardo producido por ACKs, retransmisiones y todo el complejo proceso de
+cálculos que desarrolla TCP
+B)La aplicación por su propia naturaleza requiere únicamente el envío de uno o
+dos mensajes, por ejemplo aplicaciones de sincronización de relojes, consultas
+al servidor de nombres, mensajes de gestión de la red, etc.
+C)Se desea hacer envíos multidestino (multicast o broadcast); esto sólo es posible
+con un protocolo no orientado a conexión, ya que por su propia naturaleza los
+protocolos orientados a conexión son punto a punto.
+D)Todas las anteriores
+ANSWER: D
+
+Cuales son las extensiones más interesantes al protocolo TCP
+A)Uso UDP
+B)Uso de repeticion electiva
+C)Uso de ventana reducida
+D)Ninguna de las anteriores
+ANSWER: D
+
+¿Qué protocolo de la capa de transporte se utiliza para la transmisión de video y audio en streaming?
+A)RTSM
+B)SMTP
+C)FTP
+D)HTTP
+ANSWER: A
+
+¿Cuál es el número de puerto utilizado por el protocolo DNS para la resolución de nombres de dominio a través de la capa de transporte?
+A)20
+B)21
+C)53
+D)80
+ANSWER: C
+
+¿Qué protocolo de la capa de transporte se utiliza para la transmisión de correo electrónico?
+A)HTTP
+B)SMTP
+C)FTP
+D)ICMP
+ANSWER: B

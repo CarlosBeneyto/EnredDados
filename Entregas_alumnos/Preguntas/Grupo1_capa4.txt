@@ -1,0 +1,311 @@
+1) ¿Cuál es el principal objetivo de la capa de transporte?
+A) Establecer conexiones de red
+B) Enrutamiento de paquetes
+C) Segmentación y ensamblaje de datos
+D) Administración de direcciones IP
+ANSWER: C
+
+2) ¿Cuáles son los dos protocolos principales en la capa de transporte?
+A) IP y ICMP
+B) TCP y UDP
+C) ARP y RARP
+D) HTTP y FTP
+ANSWER: B
+3) ¿Qué protocolo de la capa de transporte proporciona comunicación confiable y orientada a la conexión?
+A) TCP
+B) UDP
+C) IP
+D) ICMP
+ANSWER: A
+4) ¿Qué protocolo de la capa de transporte proporciona comunicación no confiable y sin conexión?
+A) TCP
+B) UDP
+C) IP
+D) ICMP
+ANSWER: B
+5) ¿Qué es el control de flujo en la capa de transporte?
+A) Un mecanismo para evitar la congestión de la red
+B) Un mecanismo para controlar la velocidad de transmisión de datos
+C) Un mecanismo para garantizar la entrega de paquetes
+D) Un mecanismo para enrutar paquetes
+ANSWER: B
+6) ¿Qué es el número de secuencia en TCP?
+A) Un número que identifica el orden de los segmentos
+B) Un número que identifica el puerto de origen
+C) Un número que identifica el puerto de destino
+D) Un número que identifica el tamaño del segmento
+ANSWER: A
+
+7) ¿Qué es el número de puerto en la capa de transporte?
+A) Un identificador para la dirección IP de origen
+B) Un identificador para la dirección IP de destino
+C) Un identificador para la aplicación de origen
+D) Un identificador para la aplicación de destino
+ANSWER: C
+
+8) ¿Qué es el acuse de recibo (ACK) en TCP?
+A) Un mensaje enviado por el receptor para confirmar la recepción de un segmento
+B) Un mensaje enviado por el emisor para confirmar la recepción de un segmento
+C) Un mensaje enviado por el emisor para solicitar la retransmisión de un segmento
+D) Un mensaje enviado por el receptor para solicitar la retransmisión de un segmento
+ANSWER: A
+
+9) ¿Qué es el temporizador (timer) en TCP?
+A) Un mecanismo para controlar la velocidad de transmisión de datos
+B) Un mecanismo para garantizar de paquetes
+C) Un mecanismo detectar la pérdida de segmentos y solicitar su retransmisión
+D) Un mecanismo para evitar la congestión de la red
+ANSWER: C
+
+10) ¿Cuál es el tamaño máximo de un segmento en TCP?
+A) 64 KB
+B) 128 KB
+C) 256 KB
+D) 512 KB
+ANSWER: A
+
+11) ¿Qué es el control de congestión en la capa de transporte?
+A) Un mecanismo para evitar la congestión de la red
+B) Un mecanismo para controlar la velocidad de transmisión de datos
+C) Un mecanismo para garantizar la entrega de paquetes
+D) Un mecanismo para enrutar paquetes
+ANSWER: A
+
+12) ¿Qué es el algoritmo de ventana deslizante en TCP?
+A) Un mecanismo para controlar la velocidad de transmisión de datos
+B) Un mecanismo para garantizar la entrega de paquetes
+C) Un mecanismo para detectar la pérdida de segmentos y solicitar su retransmisión
+D) Un mecanismo para evitar la congestión de la red
+ANSWER: A
+
+13) ¿Qué es el establecimiento de conexión en TCP?
+A) Un proceso de negociación entre el emisor y el receptor para establecer una conexión confiable
+B) Un proceso de negociación entre el emisor y el receptor para establecer una conexión no confiable
+C) Un proceso de negociación entre el emisor y el receptor para establecer una conexión sin control de flujo
+D) Un proceso de negociación entre el emisor y el receptor para establecer una conexión sin control de congestión
+ANSWER: A
+
+14) ¿Qué es el proceso de cierre de conexión en TCP?
+A) Un proceso para finalizar una conexión confiable entre el emisor y el receptor
+B) Un proceso para finalizar una conexión no confiable entre el emisor y el receptor
+C) Un proceso para finalizar una conexión sin control de flujo
+D) Un proceso para finalizar una conexión sin control de congestión
+ANSWER: A
+
+15) ¿Cuál es el propósito de los números de puerto en la capa de transporte?
+A) Identificar aplicaciones específicas en los hosts de origen y destino
+B) Identificar direcciones IP de origen y destino
+C) Identificar el tipo de protocolo de transporte
+D) Identificar el tamaño del segmento
+ANSWER: A
+
+16) ¿Qué es el checksum en la capa de transporte?
+A) Un valor utilizado para verificar la integridad de los datos
+B) Un valor utilizado para identificar el tamaño del segmento
+C) Un valor utilizado para identificar el puerto de origen
+D) Un valor utilizado para identificar el puerto de destino
+ANSWER: A
+
+17) ¿Qué es el proceso de retransmisión en TCP?
+A) Enviar un segmento nuevamente si no se recibe un ACK dentro de un tiempo específico
+B) Enviar un segmento nuevamente si se recibe un ACK duplicado
+C) Enviar un segmento nuevamente si se recibe un NACK
+D) Enviar un segmento nuevamente si se recibe un RST
+ANSWER: A
+
+18) ¿Qué es el proceso de "three-way handshake" en TCP?
+A) Un proceso de establecimiento de conexión que utiliza tres mensajes
+B) Un proceso de cierre de conexión que utiliza tres mensajes
+C) Un proceso de control de flujo que utiliza tres mensajes
+D) Un proceso de control de congestión que utiliza tres mensajes
+ANSWER: A
+
+19) ¿Cuál es el propósito del campo "Window" en el encabezado TCP?
+A) Indicar el tamaño de la ventana de recepción del receptor
+B) Indicar el tamaño de la ventana de transmisión del emisor
+C) Indicar el tamaño máximo de segmento permitido
+D) Indicar el tamaño del checksum
+ANSWER: A
+20) ¿Qué es el proceso de "four-way handshake" en TCP?
+A) Un proceso de establecimiento de conexión que utiliza cuatro mensajes
+B) Un proceso de cierre de conexión que utiliza cuatro mensajes
+C) Un proceso de control de flujo que utiliza cuatro mensajes
+D) Un proceso de control de congestión que utiliza cuatro mensajes
+ANSWER: B
+21) ¿Cuál es el propósito del campo "Urgent Pointer" en el encabezado TCP?
+A) Indicar la presencia de datos urgentes en el segmento
+B) Indicar el tamaño de la ventana de recepción del receptor
+C) Indicar el tamaño máximo de segmento permitido
+D) Indicar el tamaño del checksum
+ANSWER: A
+22) ¿Qué es el proceso de "slow start" en TCP?
+A) Un mecanismo de control de congestión que aumenta lentamente la ventana de transmisión
+B) Un mecanismo de control de flujo que aumenta lentamente la ventana de recepción
+C) Un mecanismo de retransmisión que aumenta lentamente el tiempo de espera
+D) Un mecanismo de establecimiento de conexión que utiliza un intercambio lento de mensajes
+ANSWER: A
+23) ¿Qué es el proceso de "fast retransmit" en TCP?
+A) Un mecanismo de retransmisión que responde rápidamente a la pérdida de segmentos
+B) Un mecanismo de control de congestión que aumenta rápidamente la ventana de transmisión
+C) Un mecanismo de control de flujo que aumenta rápidamente la ventana de recepción
+D) Un mecanismo de cierre de conexión que utiliza un intercambio rápido de mensajes
+ANSWER: A
+24) ¿Qué es el proceso de "fast recovery" en TCP?
+A) Un mecanismo de recuperación de la conexión después de una pérdida de segmentos
+B) Un mecanismo de control de congestión que se recupera rápidamente después de una pérdida de segmentos
+C) Un mecanismo de control de flujo que se recupera rápidamente después de una pérdida de segmentos
+D) Un mecanismo de retransmisión que se recupera rápidamente después de una pérdida de segmentos
+ANSWER: B
+25) ¿Cuál es el propósito del campo "SYN" en el encabezado TCP?
+A) Indicar el inicio de una conexión
+B) Indicar el cierre de una conexión
+C) Indicar la presencia de datos urgentes en el segmento
+D) Indicar el tamaño de la ventana de recepción deljo entre el emisor y el receptor
+ANSWER: A
+26) ¿Cuál es el propósito del checksum en la capa de transporte?
+A) Verificar la integridad de los datos
+B) Controlar la velocidad de transmisión de datos
+C) Establecer conexiones de red
+D) Administrar direcciones IP
+ANSWER: A
+27) ¿Qué es el "handshake" de tres vías en TCP?
+A) Un proceso de negociación para establecer una conexión confiable
+B) Un proceso de negociación para establecer una conexión no confiable
+C) Un proceso de negociación para establecer una conexión sin control de flujo
+D) Un proceso de negociación para establecer una conexión sin control de congestión
+ANSWER: A
+28) ¿Qué es el "handshake" de cuatro vías en TCP?
+A) Un proceso para finalizar una conexión confiable
+B) Un proceso para finalizar una conexión no confiable
+C) Un proceso para finalizar una conexión sin control de flujo
+D) Un proceso para finalizar una conexión sin control de congestión
+ANSWER: A
+29) ¿Qué es el reenvío rápido en TCP?
+A) Un mecanismo para acelerar la retransmisión de segmentos perdidos
+B) Un mecanismo para acelerar el control de flujo
+C) Un mecanismo para acelerar el control de congestión
+D) Un mecanismo para acelerar el establecimiento de conexión
+ANSWER: A
+30) ¿Qué es el algoritmo de retransmisión selectiva en TCP?
+A) Un mecanismo para retransmitir solo segmentos específicos perdidos
+B) Un mecanismo para retransmitir todos los segmentos perd Un mecanismo para retransmitir segmentos duplicados
+D) Un mecanismo para retransmitir segmentos fuera
+31) ¿Qué es el algoritmo de control de congestión de ventana de congestión en TCP?
+A) Un mecanismo para ajustar el tamaño de la ventana de transmisión en función de la congestión de ajustar el tamaño de la ventana de recepción en función de la congestión de la red
+C) Un mecanismo para ajustar el tamaño de la ventana de transmisión en función del control de flujo
+D) Un mecanismo para ajustar el tamaño de la ventana de recepción en función del control de flujo
+ANSWER: A
+32) ¿Qué es el algoritmo de control de congestión de retroceso exponencial en TCP?
+A) Un mecanismo para reducir la ventana de transmisión en función de la congestión de la red
+B) Un mecanismo para reducir la ventana de recepción en función de la congestión de la red
+C) Un mecanismo para reducir la ventana de transmisión en función del control de flujo
+D) Un mecanismo para reducir la ventana de recepción en función del control de flujo
+ANSWER: A
+33) ¿Qué es el algoritmo de control de congestión de aumento aditivo en TCP?
+A) Un mecanismo para aumentar la ventana de transmisión en función de la congestión de la red
+B) Un mecanismo para aumentar la ventana de recepción en función de la congestión de la red
+C) Un mecanismo para aumentar la ventana de transmisión en función del control de flujo
+D) Un mecanismo para aumentar la ventana de recepción en función del control de flujo
+ANSWER: A
+34) ¿Qué es el algoritmo de control de congestión de disminución multiplicativa en TCP?
+A) Un mecanismo para reducir la ventana de transmisión en función de la congestión de la red
+B) Un mecanismo para reducir la ventana de recepción en función de la congestión de la red
+C) Un mecanismo para reducir la ventana de transmisión en función del control de flujo
+D) Un mecanismo para reducir la ventana de recepción en función del control de flujo
+ANSWER: A
+35)¿Qué es el protocolo SSH?
+A) Un protocolo para la transferencia de archivos
+B) Un protocolo para el acceso remoto seguro a servidores
+C) Un protocolo para la resolución de nombres de dominio
+D) Un protocolo para la gestión de redes de área local
+ANSWER: B
+36)¿Cuál es la diferencia entre el protocolo SSH y el protocolo Telnet?
+A) SSH es más seguro que Telnet
+B) Telnet es más rápido que SSH
+C) SSH es más fácil de configurar que Telnet
+D) Telnet es más confiable que SSH
+ANSWER: A
+37)¿Qué es un ataque de denegación de servicio (DDoS)?
+A) Un ataque en el que se intenta obtener información confidencial
+B) Un ataque en el que se intenta modificar datos en tránsito
+C) Un ataque en el que se intenta impedir el acceso legítimo a un recurso de red
+D) Un ataque en el que se intenta tomar el control de un sistema remoto
+ANSWER: C
+38)¿Qué es un cortafuegos (firewall)?
+A) Un dispositivo que permite el acceso remoto seguro a una red
+B) Un dispositivo que bloquea el acceso no autorizado a una red
+C) Un dispositivo que se utiliza para enmascarar direcciones IP
+D) Un dispositivo que se utiliza para crear una red privada virtual (VPN)
+ANSWER: B
+39)¿Qué es el protocolo LACP en la capa de enlace de datos?
+a) Un protocolo utilizado para la transmisión de voz sobre IP.
+b) Un protocolo utilizado para la conexión de dispositivos a través de líneas serie.
+c) Un protocolo utilizado para la agrupación de enlaces lógicos para aumentar el ancho de banda y la redundancia.
+d) Un protocolo utilizado para la configuración dinámica de VLAN.
+ANSWER: C
+40)¿Qué es el protocolo PAgP en la capa de enlace de datos?
+a) Un protocolo utilizado para la configuración dinámica de VLAN.
+b) Un protocolo utilizado para la transmisión de datos a través de una red cableada.
+c) Un protocolo utilizado para la agrupación de enlaces lógicos para aumentar el ancho de banda y la redundancia.
+d) Un protocolo utilizado para la detección y corrección de errores en la transmisión de datos.
+ANSWER: C
+41)¿Qué es el protocolo STP en la capa de enlace de datos?
+a) Un protocolo utilizado para la transmisión de datos a través de una red cableada.
+b) Un protocolo utilizado para la detección y corrección de errores en la transmisión de datos.
+c) Un protocolo utilizado para la autenticación de usuarios y dispositivos en redes inalámbricas y cableadas.
+d) Un protocolo utilizado para la prevención de loops en topologías de red redundantes.
+ANSWER: D
+42)¿Qué es el protocolo RSTP en la capa de enlace de datos?
+a) Un protocolo utilizado para la prevención de loops en topologías de red redundantes.
+b) Un protocolo utilizado para la transmisión de datos a través de una red cableada.
+c) Un protocolo utilizado para la autenticación de usuarios y dispositivos en redes inalámbricas y cableadas.
+d) Un protocolo utilizado para la detección y corrección de errores en la transmisión de datos.
+ANSWER: A
+43)¿Qué es el protocolo MSTP en la capa de enlace de datos?
+a) Un protocolo utilizado para la prevención de loops en topologías de red redundantes.
+b) Un protocolo utilizado para la transmisión de datos a través de una red cableada.
+c) Un protocolo utilizado para la autenticación de usuarios y dispositivos en redes inalámbricas y cableadas.
+d) Un protocolo utilizado para la detección y corrección de errores en la transmisión de datos.
+ANSWER: A
+44)¿Qué es el protocolo UDLD en la capa de enlace de datos?
+a) Un protocolo utilizado para la prevención de loops en topologías de red redundantes.
+b) Un protocolo utilizado para la transmisión de datos a través de una red cableada.
+c) Un protocolo utilizado para la autenticación de usuarios ydispositivos en redes inalámbricas y cableadas.
+d) Un protocolo utilizado para la detección de enlaces unidireccionales en topologías de red redundantes.
+ANSWER: D
+45)¿Cuál es la función principal de la capa de enlace de datos?
+a) Proporcionar la dirección de red y el direccionamiento lógico a los paquetes de datos.
+b) Proporcionar la transmisión física de los paquetes de datos a través de la red.
+c) Proporcionar la detección y corrección de errores en la transmisión de los paquetes de datos.
+d) Proporcionar el control de acceso al medio y la administración de los medios de transmisión.
+ANSWER: D
+46)¿Qué es la trama en la capa de enlace de datos?
+a) Un paquete de datos que contiene la información de la dirección de red y el direccionamiento lógico.
+b) Un paquete de datos que contiene la información de la dirección física y el direccionamiento lógico.
+c) Un conjunto de bytes que representa un paquete de datos en la capa de enlace de datos.
+d) Un conjunto de bytes que representa la dirección física y el direccionamiento lógico en la capa de enlace de datos.
+ANSWER: C
+47)¿Qué es el CRC en la capa de enlace de datos?
+a) Un campo de la trama que contiene la dirección física del origen.
+b) Un campo de la trama que contiene la dirección física del destino.
+c) Un campo de la trama que contiene el tipo de protocolo utilizado.
+d) Un campo de la trama que contiene un valor de verificación de integridad de los datos.
+ANSWER: D
+48)¿Cuál es la diferencia entre la dirección MAC y la dirección IP?
+a) La dirección MAC se utiliza en la capa de enlace de datos y la dirección IP se utiliza en la capa de red.
+b) La dirección MAC es una dirección física y la dirección IP es una dirección lógica.
+c) La dirección MAC es una dirección lógica y la dirección IP es una dirección física.
+d) La dirección MAC es una dirección única para cada dispositivo en la red, mientras que la dirección IP puede ser compartida por varios dispositivos.
+ANSWER: B
+49)¿Qué es el filtrado de direcciones MAC en la capa de enlace de datos?
+a) Un proceso utilizado para detectar y corregir errores en la transmisión de paquetes de datos.
+b) Un proceso utilizado para asignar direcciones MAC a los dispositivos de la red.
+c) Un proceso utilizado para controlar el acceso a la red basado en las direcciones MAC de los dispositivos.
+d) Un proceso utilizado para dividir la red en segmentos más pequeños para mejorar la eficiencia de la transmisión de datos.
+ANSWER: C
+50)¿Qué es el forwarding en la capa de enlace de datos?
+a) Un proceso utilizado para detectar y corregir errores en la transmisión de paquetes de datos.
+b) Un proceso utilizado para enviar paquetes de datos a través de la red hacia su destino.
+c) Un proceso utilizado para controlar el acceso a la red basado en las direcciones MAC de los dispositivos.
+d) Un proceso utilizado para dividir la red en segmentos más pequeños para mejorar la eficiencia de la transmisión de datos.
+ANSWER: B

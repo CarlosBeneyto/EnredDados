@@ -1,0 +1,349 @@
+De los siguientes tipos de cables se utiliza comúnmente en redes de área local?
+A) Cable de fibra óptica
+B) Cable de par trenzado
+C) Cable coaxial
+D) Cable HDMI
+ANSWER: B
+
+¿Qué es el estándar Ethernet en la capa física?
+A) Un protocolo de red utilizado para la transmisión de datos en redes inalámbricas
+B) Un protocolo de red utilizado para la transmisión de datos en redes cableadas
+C) Un tipo de conector utilizado para cables de red
+D) Un tipo de topología de red
+ANSWER: B
+
+¿Cuál de las siguientes afirmaciones sobre la topología de bus en redes es verdadera?
+A) Todos los dispositivos están conectados en un solo segmento de cable.
+B) Cada dispositivo está conectado a un concentrador central.
+C) Cada dispositivo está conectado directamente a otro dispositivo
+D) Todos los dispositivos están conectados en un anillo.
+ANSWER: A
+
+¿Cuál es la velocidad máxima de transmisión de datos que se puede lograr utilizando un cable de cobre Cat6?
+A) 10 Mbps
+B) 100 Mbps
+C) 1 Gbps
+D) 10 Gbps
+ANSWER: D
+
+¿Qué es un repetidor en la capa física?
+A) Un dispositivo que conecta dos segmentos de red diferentes.
+B) Un dispositivo que regenera señales de red débiles.
+C) Un dispositivo que realiza un enrutamiento de red.
+D) Un dispositivo que proporciona una conexión inalámbrica a Internet.
+ANSWER: B
+
+¿Cuál de los siguientes tipos de transmisión se utiliza comúnmente en redes de larga distancia?
+A) Transmisión de microondas
+B) Transmisión de infrarrojos
+C) Transmisión de ondas de radio
+D) Transmisión de señales eléctricas
+ANSWER: A
+
+¿Qué es un conector RJ-45 en la capa física?
+A) Un tipo de conector utilizado para cables de red.
+B) Un tipo de conector utilizado para cables de alimentación eléctrica.
+C) Un tipo de conector utilizado para cables HDMI.
+D) Un tipo de conector utilizado para cables USB.
+ANSWER: A
+
+¿Qué es un switch en la capa física?
+A) Un dispositivo que conecta dos segmentos de red diferentes.
+B) Un dispositivo que regenera señales de red débiles.
+C) Un dispositivo que realiza un enrutamiento de red.
+D) Un dispositivo que proporciona una conexión inalámbrica a Internet.
+ANSWER: A
+
+¿Cuál de los siguientes tipos de antenas se utiliza comúnmente en redes inalámbricas?
+A) Antena de panel
+B) Antena omnidireccional
+C) Antena parabólica
+D) Antena Yagi
+ANSWER: B
+
+¿Cuál de las siguientes afirmaciones sobre la topología de anillo en redes es verdadera?
+A) Todos los dispositivos están conectados en un solo segmento de cable.
+B) Cada dispositivo está conectado a un concentrador central.
+C) Cada dispositivo está conectado directamente a otro dispositivo.
+D) Todos los dispositivos están conectados en un anillo.
+ANSWER: D
+
+¿Qué es la modulación en la capa física?
+A) Un proceso que convierte datos digitales en señales analógicas para su transmisión.
+B) Un proceso que convierte señales analógicas en datos digitales para su procesamiento.
+C) Un proceso que codifica los datos para su transmisión. 
+D) Un proceso que decodifica los datos para su recepción.
+ANSWER: A
+
+¿Cuál de las siguientes es una forma de transmisión de datos inalámbrica?
+A) Fibra óptica
+B) Cable de par trenzado
+C) Infrarrojos
+D) Cable coaxial
+ANSWER: C
+
+¿Cuál de los siguientes tipos de cables se utiliza para conectar un dispositivo a una red inalámbrica?
+A) Cable de fibra óptica
+B) Cable de par trenzado
+C) Cable coaxial
+D) Ninguno de los anteriores
+ANSWER: D
+
+¿Qué es un transceptor en la capa física?
+A) Un dispositivo que transmite y recibe señales de red.
+B) Un dispositivo que regenera señales de red débiles.
+C) Un dispositivo que realiza un enrutamiento de red.
+D) Un dispositivo que proporciona una conexión inalámbrica a Internet
+ANSWER: A
+
+¿Cuál de los siguientes tipos de conectores se utiliza comúnmente en cables de fibra óptica?
+A) Conector BNC
+B) Conector RJ-45
+C) Conector ST
+D) Conector USB
+ANSWER: C
+
+¿Qué es un repetidor de fibra óptica en la capa física?
+A) Un dispositivo que conecta dos segmentos de red diferentes.
+B) Un dispositivo que regenera señales de red débiles.
+C) Un dispositivo que realiza un enrutamiento de red.
+D) Un dispositivo que proporciona una conexión inalámbrica a Internet.
+ANSWER: B
+
+¿Cuál es la longitud máxima de un cable de par trenzado sin blindaje para una red Ethernet?
+A) 100 metros
+B) 500 metros
+C) 1 kilómetro
+D) 10 kilómetros
+ANSWER: A
+
+¿Cuál es la principal ventaja del cable de fibra óptica en comparación con el cable de cobre?
+A) Mayor ancho de banda
+B) Mayor longitud máxima de cable
+C) Mayor facilidad de instalación
+D) Mayor resistencia a interferencias electromagnéticas
+ANSWER: A
+
+¿Qué tipo de señal se transmite a través de un cable coaxial?
+A) Señal digital
+B) Señal analógica
+C) Ambas
+D) Ninguna
+ANSWER: C
+
+¿Qué es un transceptor óptico en la capa física?
+A) Un dispositivo que convierte señales eléctricas en señales ópticas.
+B) Un dispositivo que regenera señales ópticas débiles.
+C) Un dispositivo que realiza un enrutamiento de red.
+D) Un dispositivo que proporciona una conexión inalámbrica a Internet.
+ANSWER: A
+
+¿Qué es la polaridad en la capa física?
+A) La dirección en la que se transmite la señal.
+B) La velocidad de transmisión de la señal.
+C) La longitud de onda de la señal.
+D) La amplitud de la señal.
+ANSWER: A
+
+¿Qué es el espectro electromagnético en la capa física?
+A) El rango de frecuencias de las señales electromagnéticas.
+B) El número de bits que se transmiten por segundo.
+C) La velocidad a la que se transmiten las señales.
+D) La longitud de onda de las señales electromagnéticas.
+ANSWER: A
+
+¿Cuál es el propósito de la capa física en el modelo OSI?
+A) Establecer, mantener y finalizar conexiones de red.
+B) Proporcionar servicios de enrutamiento y direccionamiento.
+C) Convertir datos en señales para su transmisión a través del medio de red.
+D) Proporcionar servicios de seguridad y control de acceso a la red.
+ANSWER: C
+
+¿Cuál de los siguientes medios de red tiene la menor tasa de error de transmisión?
+A) Cable de cobre
+B) Cable de fibra óptica
+C) Cable coaxial
+D) Transmisión inalámbrica
+ANSWER: B
+
+¿Qué es la impedancia en la capa física?
+A) La resistencia que ofrece un medio de red a la transmisión de señales.
+B) La velocidad a la que se transmiten las señales.
+C) La longitud de onda de las señales electromagnéticas.
+D) La cantidad de señales que se transmiten por unidad de tiempo.
+ANSWER: A
+
+¿Cuál es la longitud máxima de un cable de fibra óptica para una red Ethernet?
+A) 100 metros
+B) 500 metros
+C) 1 kilómetro
+D) 10 kilómetros
+ANSWER: A
+
+¿Qué tipo de señal se utiliza en la transmisión por radio en la capa física?
+A) Señal digital 
+B) Señal analógica
+C) Ambas
+D) Ninguna
+ANSWER: B
+
+¿Qué es la topología de bus en la capa física?
+A) Todos los dispositivos de red están conectados a un solo cable.
+B) Los dispositivos de red se conectan en un círculo cerrado.
+C) Los dispositivos de red se conectan en una línea recta.
+D) Los dispositivos de red se conectan en una red de malla.
+ANSWER: A
+
+¿Qué es el tiempo de propagación en la capa física?
+A) La cantidad de tiempo que tarda una señal en viajar de un extremo a otro de un medio de red.
+B) La cantidad de tiempo que tarda una señal en ser procesada por un dispositivo de red.
+C) La cantidad de tiempo que tarda una señal en ser enrutada a través de múltiples dispositivos de red.
+D) La cantidad de tiempo que tarda una señal en ser decodificada por un dispositivo de red.
+ANSWER: A
+
+¿Qué es la atenuación en la capa física?
+A) La disminución de la intensidad de la señal a medida que se propaga a través del medio de red.
+B) La interferencia de la señal por otras señales electromagnéticas.
+C) La distorsión de la señal debido a la reflexión en el medio de red.
+D) La cantidad de ruido en la señal de red.
+ANSWER: A
+
+¿Qué es la codificación en la capa física?
+A) El proceso de convertir datos en señales para su transmisión a través del medio de red.
+B) El proceso de comprimir datos antes de su transmisión a través del medio de red.
+C) El proceso de encriptar datos antes de su transmisión a través del medio de red.
+D) El proceso de dividir datos en paquetes para su transmisión a través del medio de red.
+ANSWER:A
+
+¿Cuál es la función del cable de fibra óptica en la capa física?
+A) Transmitir señales de forma inalámbrica.
+B) Conectar dispositivos de red en una topología de anillo.
+C) Transmitir señales de luz para la comunicación de datos.
+D) Conectar dispositivos de red en una topología de estrella.
+ANSWER: C
+
+¿Qué es el ancho de banda en la capa física?
+A) La velocidad a la que se transmiten los datos a través de un medio de red.
+B) La cantidad de datos que pueden ser transmitidos a través de un medio de red en un tiempo determinado.
+C) La cantidad de dispositivos de red que pueden ser conectados a una red.
+D) La capacidad de un dispositivo de red para procesar datos.
+ANSWER: B
+
+¿Cuál es el propósito de la capa física en el modelo OSI?
+A) Establecer una conexión confiable entre los dispositivos de red.
+B) Administrar la transmisión y recepción de datos en la red.
+C) Proporcionar servicios de red como el enrutamiento y la seguridad.
+D) Proporcionar un medio para la transmisión de datos en la red.
+ANSWER: D
+
+¿Cuál es la función del conector BNC en la capa física?
+A) Conectar un dispositivo de red a una red Ethernet.
+B) Conectar un dispositivo de red a un cable de fibra óptica.
+C) Conectar un dispositivo de red a un cable coaxial.
+D) Conectar un dispositivo de red a una red inalámbrica.
+ANSWER: C
+
+¿Qué es la modulación en la capa física?
+A) El proceso de convertir señales analógicas en señales digitales.
+B) El proceso de convertir señales digitales en señales analógicas.
+C) El proceso de cambiar la frecuencia de una señal para transportar información.
+D) El proceso de agregar redundancia a los datos para detectar y corregir errores.
+ANSWER: C
+
+¿Cuál es la función del repetidor en la capa física?
+A) Convertir señales analógicas en señales digitales.
+B) Cambiar la frecuencia de una señal para transportar información.
+C) Extender la distancia de una conexión de red.
+D) Proporcionar seguridad a la red.
+ANSWER: C
+
+¿Qué es el ruido en la capa física?
+A) Señales no deseadas que interfieren con la señal de la red.
+B) La disminución de la intensidad de la señal a medida que se propaga a través del medio de red.
+C) La cantidad de tiempo que tarda una señal en viajar de un extremo a otro de un medio de red.
+D) La cantidad de datos que pueden ser transmitidos a través de un medio de red en un tiempo determinado.
+ANSWER: A
+
+¿Cuál es el principal tipo de medio físico utilizado para la transmisión de datos en la capa física?
+A) Cable de cobre
+B) Fibra óptica
+C) Radiofrecuencia
+D) Infrarrojo
+ANSWER: A
+
+¿Qué es la longitud de onda en la capa física?
+A) La distancia entre dos crestas consecutivas de una onda electromagnética.
+B) La cantidad de bits transmitidos en una señal.
+C) La cantidad de tiempo que tarda una señal en ser transmitida.
+D) La medida de la velocidad de la señal en el medio de transmisión.
+ANSWER: A
+
+¿Qué es el ancho de banda en la capa física?
+A) La cantidad de datos que se pueden transmitir en un período de tiempo determinado.
+B) La cantidad de energía necesaria para enviar una señal a través del medio de transmisión.
+C) La medida de la cantidad de errores de transmisión en una señal.
+D) La cantidad de dispositivos conectados a una red.
+ANSWER: A
+
+¿Qué es el tiempo de retardo en la capa física?
+A) La cantidad de tiempo que tarda una señal en viajar a través del medio de transmisión.
+B) La cantidad de tiempo que tarda una señal en ser procesada por un dispositivo de red.
+C) La cantidad de tiempo que tarda una señal en ser enrutada a través de múltiples dispositivos de red.
+D) La cantidad de tiempo que tarda una señal en ser decodificada por un dispositivo de red.
+ANSWER: A
+
+¿Qué es el voltaje en la capa física?
+A) La medida de la fuerza electromotriz que impulsa una señal a través del medio de transmisión.
+B) La medida de la cantidad de energía necesaria para enviar una señal a través del medio de transmisión.
+C) La medida de la cantidad de ruido presente en una señal.
+D) La medida de la velocidad de la señal en el medio de transmisión.
+ANSWER: A
+
+¿Qué es el jitter en la capa física?
+A) La variación en el retardo de la señal durante la transmisión.
+B) La cantidad de errores de transmisión en una señal.
+C) La cantidad de ruido presente en una señal.
+D) La variación en la amplitud de la señal durante la transmisión.	
+ANSWER: A
+
+¿Qué es un repetidor en la capa física?
+A) Un dispositivo que conecta redes diferentes.
+B) Un dispositivo que amplifica y regenera señales de red.
+C) Un dispositivo que enruta paquetes de red.
+D) Un dispositivo que establece conexiones de red seguras.
+ANSWER: B
+
+¿Cuál es la función de la capa física en el modelo OSI?
+A) Establecer, mantener y finalizar conexiones entre dispositivos de red.
+B) Convertir datos en señales para su transmisión a través del medio de red.
+C) Asegurar la integridad y confidencialidad de los datos durante la transmisión.
+D) Gestionar el flujo de datos a través de la red.
+ANSWER: B
+
+¿Qué es la tasa de transferencia en la capa física?
+A) La cantidad de datos que se pueden enviar a través de la red en un tiempo determinado.
+B) La velocidad de procesamiento de los dispositivos de red.
+C) El número de dispositivos que se pueden conectar a la red.
+D) El número de conexiones de red simultáneas que se pueden establecer.
+ANSWER: A
+
+¿Qué es la longitud de onda en la capa física?
+A) La distancia entre dos picos consecutivos de una señal electromagnética.
+B) La cantidad de energía que transporta una señal electromagnética.
+C) La frecuencia de una señal electromagnética.
+D) La amplitud de una señal electromagnética.
+ANSWER: A
+
+¿Qué es la modulación en la capa física?
+A) El proceso de cambiar la amplitud, frecuencia o fase de una señal de radio para transportar información.
+B) El proceso de convertir datos en señales para su transmisión a través del medio de red.
+C) El proceso de encriptar datos antes de su transmisión a través del medio de red.El proceso de dividir datos en paquetes para su transmisión a través del medio de red.
+D) El proceso de dividir datos en paquetes para su transmisión a través del medio de red.
+ANSWER: A
+
+¿Qué es la impedancia en la capa física?
+A) La resistencia del medio de red a la transmisión de señales eléctricas.
+B) La cantidad de ruido en la señal de red.
+C) La cantidad de tiempo que tarda una señal en viajar de un extremo a otro de un medio de red.
+D) La disminución de la intensidad de la señal a medida que se propaga a través del medio de red.
+ANSWER: A

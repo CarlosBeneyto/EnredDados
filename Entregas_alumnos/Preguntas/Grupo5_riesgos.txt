@@ -1,0 +1,349 @@
+﻿1. ¿Cuál de las siguientes opciones describe correctamente una Topología WAN?
+a) Estrella.
+b) Autobús.
+c) Anillo.
+d) Malla.
+Respuesta correcta: d) Malla.
+
+2. ¿Qué se entiende por Topologías WAN en redes de computadoras?
+a) Un protocolo de comunicación para redes inalámbricas.
+b) El conjunto de dispositivos que conforman una red local.
+c) La forma en que se interconectan los dispositivos de una red de área amplia.
+d) Un método de encriptación de datos para comunicaciones a larga distancia.
+Respuesta correcta: c) La forma en que se interconectan los dispositivos de una red de área amplia.
+
+3. ¿Qué es una Topología WAN en una red de computadoras?
+a) Una forma de conectar dispositivos a través de una red inalámbrica.
+b) Un tipo de cableado utilizado en redes de área local.
+c) La forma en que los dispositivos se interconectan en una red de área amplia.
+d) Una técnica utilizada para optimizar el rendimiento de la red.
+Respuesta correcta: c) La forma en que los dispositivos se interconectan en una red de área amplia.
+
+4. ¿Qué tipo de topología WAN permite la redundancia y la tolerancia a fallos?
+a) Topología de anillo.
+b) Topología de estrella.
+c) Topología de bus.
+d) Topología de malla.
+Respuesta correcta: d) Topología de malla.
+
+5. ¿Qué tipo de topología WAN utiliza un concentrador central para gestionar las comunicaciones entre dispositivos?
+a) Topología de estrella.
+b) Topología de anillo.
+c) Topología de malla.
+d) Topología de bus.
+Respuesta correcta: a) Topología de estrella.
+
+6. ¿Qué tipo de fibra óptica tiene un núcleo de menor diámetro y se utiliza para aplicaciones de larga distancia?
+a) Fibra multimodo.
+b) Fibra monomodo.
+c) Fibra de plástico.
+d) Fibra de vidrio.
+Respuesta correcta: b) Fibra monomodo.
+
+7. ¿Qué tipo de fibra óptica tiene un núcleo de mayor diámetro y se utiliza para aplicaciones de corta distancia?
+a) Fibra multimodo.
+b) Fibra monomodo.
+c) Fibra de plástico.
+d) Fibra de vidrio.
+Respuesta correcta: a) Fibra multimodo.
+
+8. ¿Cuál es el diámetro típico del núcleo de una fibra monomodo?
+a) 62,5 micrómetros.
+b) 50 micrómetros.
+c) 10 micrómetros.
+d) 100 micrómetros.
+Respuesta correcta: b) 50 micrómetros.
+
+9. ¿Cuál es el diámetro típico del núcleo de una fibra multimodo?
+a) 62,5 micrómetros.
+b) 50 micrómetros.
+c) 10 micrómetros.
+d) 100 micrómetros.
+Respuesta correcta: A) 62,5 micrómetros.
+
+10. ¿Cuál de las siguientes afirmaciones es cierta sobre la atenuación de la señal en la fibra óptica?
+A) La atenuación es mayor en la fibra monomodo que en la fibra multimodo.
+B) La atenuación es mayor en la fibra multimodo que en la fibra monomodo.
+C) La atenuación es independiente del tipo de fibra.
+D) La atenuación no es un problema en la fibra óptica.
+Respuesta correcta:b) La atenuación es mayor en la fibra multimodo que en la fibra monomodo.
+
+11. ¿Qué tipo de cable LAN es más utilizado en redes Ethernet?
+a) Cable de par trenzado sin blindaje (UTP).
+b) Cable de par trenzado con blindaje (STP).
+c) Cable de fibra óptica.
+d) Cable coaxial.
+Respuesta correcta: a) Cable de par trenzado sin blindaje (UTP)
+
+12. ¿Qué estándar de cable LAN utiliza conectores RJ-45?
+a) Ethernet.
+b) Token Ring.
+c) FDDI.
+d) ATM.
+Respuesta correcta: a) Ethernet.
+
+13. ¿Qué estándar de cable LAN utiliza una topología de anillo?
+a) Token Ring.
+b) Ethernet.
+c) FDDI.
+d) ATM.
+Respuesta correcta: a) Token Ring.
+
+14. ¿Cuál es la velocidad máxima de transmisión de datos para un cable de par trenzado sin blindaje (UTP) Cat6a?
+a) 1 Gbps.
+b) 10 Gbps.
+c) 100 Gbps.
+d) 1 Tbps.
+Respuesta correcta: b) 10 Gbps.
+
+15. ¿Qué tipo de cable LAN es el más adecuado para largas distancias y alta velocidad de transmisión de datos?
+a) Cable de par trenzado sin blindaje (UTP).
+b) Cable de par trenzado con blindaje (STP).
+c) Cable coaxial.
+d) Cable de fibra óptica.
+Respuesta correcta: d) Cable de fibra óptica.
+
+16. ¿Cuál es el material utilizado en la fabricación de los núcleos de los cables de fibra óptica?
+a) Vidrio.
+b) Plástico.
+c) Cobre.
+d) Aluminio.
+Respuesta correcta: a) Vidrio.
+
+17. ¿Qué tipo de señal se utiliza en los cables de fibra óptica para la transmisión de datos?
+a) Eléctrica.
+b) Magnética.
+c) Óptica.
+d) Radiactiva.
+Respuesta correcta: c) Óptica.
+
+18. ¿Cuál es la principal ventaja de los cables de fibra óptica sobre los cables de cobre?
+a) Mayor velocidad de transmisión de datos.
+b) Menor costo de instalación.
+c) Menor latencia en la transmisión de datos.
+d) Mayor resistencia a interferencias electromagnéticas.
+Respuesta correcta: d) Mayor resistencia a interferencias electromagnéticas.
+
+19. ¿Cuál es el tipo de conector utilizado en los cables de fibra óptica más comúnmente utilizado en redes LAN?
+a) SC.
+b) LC.
+c) ST.
+d) MT-RJ.
+Respuesta correcta: a) SC.
+
+20. ¿Cuál es el estándar de transmisión de datos más utilizado en redes de fibra óptica de larga distancia?
+a) SONET.
+b) Ethernet.
+c) Token Ring.
+d) FDDI.
+Respuesta correcta: a) SONET.
+
+21. ¿En qué capa del modelo OSI se encuentra la subcapa LLC?
+a) Capa física.
+b) Capa de enlace de datos.
+c) Capa de red.
+d) Capa de transporte.
+Respuesta correcta: b) Capa de enlace de datos.
+
+22. ¿Cuál es el propósito de la subcapa LLC?
+a) Establecer, mantener y finalizar conexiones físicas.
+b) Proporcionar control de flujo y detección de errores en la transmisión de datos.
+c) Controlar el acceso al medio de transmisión.
+d) Proporcionar una interfaz entre la capa de enlace de datos y la capa de red.
+Respuesta correcta: d) Proporcionar una interfaz entre la capa de enlace de datos y la capa de red.
+
+23. ¿Cuál es el campo utilizado por la subcapa LLC para identificar el tipo de protocolo utilizado en la capa de red?
+a) Campo de control.
+b) Campo de dirección.
+c) Campo de longitud.
+d) Campo de tipo.
+Respuesta correcta: d) Campo de tipo.
+
+24. ¿Qué tipo de protocolo de capa de red utiliza la subcapa LLC para proporcionar servicios de control de errores y de flujo?
+a) IP.
+b) ARP.
+c) ICMP.
+d) SPX.
+Respuesta correcta: d) SPX.
+
+25. ¿Cuál es el propósito del campo de control utilizado por la subcapa LLC?
+a) Identificar el tipo de protocolo utilizado en la capa de red.
+b) Proporcionar control de flujo y detección de errores en la transmisión de datos.
+c) Identificar el destino de la trama.
+d) Proporcionar una secuencia numérica para detectar tramas duplicadas.
+Respuesta correcta: b) Proporcionar control de flujo y detección de errores en la transmisión de datos.
+
+26. ¿Cuál es el propósito del campo de dirección utilizado por la subcapa LLC?
+a) Identificar el tipo de protocolo utilizado en la capa de red.
+b) Proporcionar control de flujo y detección de errores en la transmisión de datos.
+c) Identificar el origen y el destino de la trama.
+d) Proporcionar una secuencia numérica para detectar tramas duplicadas.
+Respuesta correcta: c) Identificar el origen y el destino de la trama.
+
+27.  ¿Qué tipo de servicio proporciona la subcapa LLC a la capa de red?
+a) Servicio de detección y corrección de errores
+b) Servicio de control de acceso al medio
+c) Servicio de segmentación y reensamblaje de paquetes
+d) Servicio de entrega de paquetes
+Respuesta correcta: c) Servicio de segmentación y reensamblaje de paquetes
+
+28.¿En qué capa del modelo OSI se encuentra la subcapa MAC?
+a) Capa física.
+b) Capa de enlace de datos.
+c) Capa de red.
+d) Capa de transporte.
+Respuesta correcta: b) Capa de enlace de datos.
+
+29.¿Cuál es la principal función de la subcapa MAC?
+a) Proporcionar una interfaz entre la capa física y la capa de enlace de datos.
+b) Proporcionar una interfaz entre la capa de enlace de datos y la capa de red.
+c) Proporcionar servicios de control de flujo y detección de errores.
+d) Proporcionar servicios de seguridad y autenticación.
+Respuesta correcta: a) Proporcionar una interfaz entre la capa física y la capa de enlace de datos.
+
+30. ¿Qué tipo de dirección se utiliza en la subcapa MAC para identificar de forma única un dispositivo en una red?
+a) Dirección IP.
+b) Dirección MAC.
+c) Dirección de puerto.
+d) Dirección de red.
+Respuesta correcta: b) Dirección MAC.
+
+31. ¿Cuál es el propósito del campo de dirección de destino utilizado por la subcapa MAC?
+a) Identificar el origen de la trama.
+b) Identificar el destino de la trama.
+c) Proporcionar una secuencia numérica para detectar tramas duplicadas.
+d) Proporcionar información sobre el tipo de protocolo utilizado en la capa de red.
+Respuesta correcta: b) Identificar el destino de la trama.
+
+32. ¿Cuál es el propósito del campo de control utilizado por la subcapa MAC?
+a) Identificar el origen de la trama.
+b) Identificar el destino de la trama.
+c) Proporcionar una secuencia numérica para detectar tramas duplicadas.
+d) Proporcionar información sobre el tipo de protocolo utilizado en la capa de red.
+Respuesta correcta: c) Proporcionar una secuencia numérica para detectar tramas duplicadas.
+
+33. ¿Cuál es el propósito del campo de tipo utilizado por la subcapa MAC?
+a) Identificar el origen de la trama.
+b) Identificar el destino de la trama.
+c) Proporcionar una secuencia numérica para detectar tramas duplicadas.
+d) Proporcionar información sobre el tipo de protocolo utilizado en la capa de red.
+Respuesta correcta: d) Proporcionar información sobre el tipo de protocolo utilizado en la capa de red.
+
+34. ¿Qué técnica de acceso al medio utiliza la subcapa MAC en una red Ethernet?
+a) CSMA/CD.
+b) CSMA/CA.
+c) TDMA.
+d) FDMA.
+Respuesta correcta: a) CSMA/CD.
+
+35. ¿Cuál es el propósito del campo de longitud utilizado por la subcapa MAC?
+a) Identificar el origen de la trama.
+b) Identificar el destino de la trama.
+c) Proporcionar una secuencia numérica para detectar tramas duplicadas.
+d) Indicar la longitud de la trama.
+Respuesta correcta: d) Indicar la longitud de la trama.
+
+36. ¿Qué es un ataque de denegación de servicio (DoS)?
+a) Un ataque en el que un atacante intercepta y modifica los datos en una red.
+b) Un ataque en el que un atacante envía una gran cantidad de tráfico a una red para agotar los recursos del sistema.
+c) Un ataque en el que un atacante se hace pasar por un usuario legítimo para obtener acceso no autorizado a una red.
+d) Un ataque en el que un atacante engaña a un usuario para que revele información confidencial.
+Respuesta correcta: b) Un ataque en el que un atacante envía una gran cantidad de tráfico a una red para agotar los recursos del sistema.
+
+37. ¿Qué es un ataque de suplantación de identidad (spoofing)?
+a) Un ataque en el que un atacante intercepta y modifica los datos en una red.
+b) Un ataque en el que un atacante envía una gran cantidad de tráfico a una red para agotar los recursos del sistema.
+c) Un ataque en el que un atacante se hace pasar por un usuario legítimo para obtener acceso no autorizado a una red.
+d) Un ataque en el que un atacante engaña a un usuario para que revele información confidencial.
+Respuesta correcta: c) Un ataque en el que un atacante se hace pasar por un usuario legítimo para obtener acceso no autorizado a una red.
+
+38. ¿Qué es un cortafuegos (firewall)?
+a) Un dispositivo de red que controla el flujo de datos entre redes.
+b) Un dispositivo de red que amplifica y regenera señales de red.
+c) Un dispositivo de red que proporciona conexiones de red inalámbricas.
+d) Un dispositivo de red que realiza la gestión de direcciones IP.
+Respuesta correcta: a) Un dispositivo de red que controla el flujo de datos entre redes.
+
+39. ¿Qué es la autenticación en una red?
+a) El proceso de asegurarse de que los datos no sean interceptados y modificados durante la transmisión.
+b) El proceso de garantizar que un usuario es quien dice ser.
+c) El proceso de limitar el acceso a los recursos de red.
+d) El proceso de asegurar que los datos lleguen a su destino sin pérdida de información.
+Respuesta correcta: b) El proceso de garantizar que un usuario es quien dice ser.
+
+40.¿Qué es la encriptación en una red?
+a) El proceso de asegurarse de que los datos no sean interceptados y modificados durante la transmisión.
+b) El proceso de garantizar que un usuario es quien dice ser.
+c) El proceso de limitar el acceso a los recursos de red.
+d) El proceso de convertir datos en un formato que no pueda ser leído sin una clave de descifrado.
+Respuesta correcta: d) El proceso de convertir datos en un formato que no pueda ser leído sin una clave de descifrado.
+
+41.¿Qué es un switch de red?
+a) Un dispositivo que conecta redes de diferentes tipos.
+b) Un dispositivo que amplifica y regenera señales de red.
+c) Un dispositivo que controla el flujo de datos entre dispositivos en una red local.
+d) Un dispositivo que proporciona conexiones de red inalámbricas.
+Respuesta correcta: c) Un dispositivo que controla el flujo de datos entre dispositivos en una red local.
+
+42.¿Cuál es la principal ventaja de utilizar un switch en lugar de un hub?
+a) Los switches son más económicos que los hubs.
+b) Los switches proporcionan conexiones de red inalámbricas.
+c) Los switches pueden filtrar y dirigir tráfico de red de manera más eficiente que los hubs.
+d) Los switches permiten conectar redes de diferentes tipos.
+Respuesta correcta: c) Los switches pueden filtrar y dirigir tráfico de red de manera más eficiente que los hubs.
+
+43.¿Qué es un puerto de uplink en un switch?
+a) Un puerto que se utiliza para conectar un switch a otro switch o dispositivo de red.
+b) Un puerto que se utiliza para conectar dispositivos finales a un switch.
+c) Un puerto que se utiliza para conectar un switch a una fuente de alimentación.
+d) Un puerto que se utiliza para conectar un switch a una red inalámbrica.
+Respuesta correcta: a) Un puerto que se utiliza para conectar un switch a otro switch o dispositivo de red.
+
+44.¿Qué es el STP (Spanning Tree Protocol)?
+a) Un protocolo de red que permite la comunicación entre redes de diferentes tipos.
+b) Un protocolo de red que permite la conexión de redes inalámbricas.
+c) Un protocolo de red que evita la creación de bucles en una red de switches.
+d) Un protocolo de red que filtra y direcciona tráfico de red de manera más eficiente que otros protocolos.
+Respuesta correcta: c) Un protocolo de red que evita la creación de bucles en una red de switches.
+
+45.¿Qué es el VLAN (Virtual LAN)?
+a) Un tipo de red que utiliza conexiones inalámbricas en lugar de cables.
+b) Un tipo de red que permite la conexión de diferentes tipos de dispositivos.
+c) Un tipo de red que permite la segmentación lógica de una red física en varias redes virtuales.
+d) Un tipo de red que permite la conexión de diferentes redes físicas a través de un switch.
+Respuesta correcta: c) Un tipo de red que permite la segmentación lógica de una red física en varias redes virtuales.
+
+46.¿Cuál es la diferencia entre un switch administrado y un switch no administrado?
+a) Un switch administrado proporciona más funciones avanzadas de configuración y monitoreo que un switch no administrado.
+b) Un switch no administrado es más económico que un switch administrado.
+c) Un switch administrado solo se puede utilizar en redes inalámbricas.
+d) Un switch no administrado solo se puede utilizar en redes de alta velocidad.
+Respuesta correcta: a) Un switch administrado proporciona más funciones avanzadas de configuración y monitoreo que un switch no administrado.
+
+47.¿Qué ocurre cuando dos dispositivos Ethernet intentan transmitir datos al mismo tiempo en una red?
+a) Se produzca una colisión de datos.
+b) Uno de los dispositivos se apaga automáticamente.
+c) Ambos dispositivos esperan que el otro termine de transmitir.
+d) La red se bloquea temporalmente.
+Respuesta correcta: a) Se produce una colisión de datos.
+
+48.¿Qué es el tiempo de propagación en una red Ethernet?
+a) El tiempo que tarda un dispositivo en transmitir un paquete de datos.
+b) El tiempo que tarda un paquete de datos en viajar de un extremo de la red al otro.
+c) El tiempo que tarda un dispositivo en recibir un paquete de datos.
+d) El tiempo que tarda un paquete de datos en ser enrutado por los interruptores de la red.
+Respuesta correcta: b) El tiempo que tarda un paquete de datos en viajar de un extremo de la red al otro.
+
+49.¿Qué método utiliza Ethernet para detectar colisiones de datos?
+a) CSMA/CD.
+b) TCP/IP.
+c) UDP.
+d) DNS.
+Respuesta correcta: a) CSMA/CD.
+
+50.¿Qué significa CSMA/CD en Ethernet?
+a) Acceso múltiple por detección de portadora con detección de colisión.
+b) Algoritmo de Monitoreo de Señal de Control con Detección de Colisión.
+c) Acceso Múltiple por Conmutación de Canales con Detección de Colisiones.
+d) Algoritmo de Monitoreo de Estado de Conexión con Detección de Colisión.
+Respuesta correcta: a) Carrier Sense Acceso múltiple con detección de colisión.

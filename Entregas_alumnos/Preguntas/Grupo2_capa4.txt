@@ -1,0 +1,349 @@
+1 ¿Qué servicios utiliza la capa de transporte?
+A. Los proporcionados por la capa de red.
+B. Los proporcionados por la capa de enlace de datos.
+C. Los proporcionados por la capa física.
+D. Ninguna respuesta es correcta.
+ANSWER: A
+
+2 ¿Qué nombre recibe el hardware o software de la capa de transporte?
+A. Interfaz de transporte.
+B. Entidad de transporte.
+C. Kernel de transporte.
+D. Paquete de transporte.
+ANSWER: B
+
+3 ¿Si el servicio de la capa de transporte es tan parecido al de la capa de red, ¿por qué hay dos capas diferentes?
+A. El código de transporte se ejecuta por completo en las máquinas de los usuarios, pero la capa de red se ejecuta por completo en los enrutadores.
+B. El código de transporte se ejecuta parcialmente en las máquinas de los usuarios, pero la capa de red se ejecuta en su mayor parte en los enrutadores.
+C. El código de transporte se ejecuta por completo en las máquinas de los usuarios, pero la capa de red se ejecuta en su mayor parte en los enrutadores.
+D. La pregunta está mal formulada.
+ANSWER: C
+
+4 ¿Cuál es la función principal de la capa de transporte?
+A. Aislar a las capas superiores de la tecnología, el diseño y las imperfecciones de la red.
+B. Aislar a las capas inferiores de la tecnología, el diseño y las imperfecciones de la red.
+C. Aislar a las capas intermedias de la tecnología, el diseño y las imperfecciones de la red.
+D. Todas las opciones son correctas
+ANSWER: A
+
+5 ¿Cuáles son las primitivas de un transporte sencillo?(Se pide en el orden correcto).
+A. CONNECT-LISTEN-SEND-RECEIVE-DISCONNECT.
+B. SEND-CONNECT-LISTEN-RECEIVE-DISCONNECT.
+C. CONNECT-RECEIVE-LISTEN-SEND-DISCONNECT.
+D. LISTEN-CONNECT-SEND-RECEIVE-DISCONNECT.
+ANSWER: D
+
+6 Usaremos ______ para indicar los mensajes que se envían de una entidad de transporte a otra.
+A. Trama.
+B. Segmento.
+C. Paquete.
+D. Bits.
+ANSWER: B
+
+7 ¿Qué nombre reciben las primitivas de socket que se utilizan en UNIX para TCP?
+A. Borkeley.
+B. Barkeley.
+C. Birkeley.
+D. Berkeley.
+ANSWER: D
+
+8 ¿Cuáles son las primitivas de Berkeley utilizadas en UNIX para TCP?(Se pide en el orden correcto).
+A. SOCKET-BIND-LISTEN-ACCEPT-CONNECT-SEND-RECEIVE-CLOSE.
+B. LISTEN-SOCKET-BIND-ACCEPT-CONNECT-SEND-RECEIVE-CLOSE.
+C. BIND-LISTEN-SOCKET-ACCEPT-CONNECT-RECEIVE-SEND-CLOSE.
+D. SOCKET-LISTEN-BIND-ACCEPT-CONNECT-RECEIVE-SEND-CLOSE.
+ANSWER: A
+
+9 ¿Qué protocolo de red comúnmente utiliza una API de sockets?
+A. TCP
+B. HTTP
+C. SSH
+D. FTP
+ANSWER: A
+
+10 ¿Cuál es una ventaja de usar una API de sockets en lugar de otros métodos de comunicación, como los RPC?
+A. Ofrece una mayor seguridad para la comunicación entre procesos.
+B. Permite que los procesosde diferentes plataformas trabajen juntos.
+C. Proporciona un mecanismo simple y eficiente para la comunicación entre procesos.
+D. Permite que las aplicaciones se escalen fácilmente en redes grandes.
+ANSWER: B
+
+11 ¿La capa de transporte necesita búferes y un control de flujo?
+A. No los necesita.
+B. Solo necesita búferes.
+C. Solo necesita control de flujo.
+D. Si los necesita.
+ANSWER: D
+
+12 ¿Qué elemento de los protocolos de transporte se encarga de fragmentar los datos en unidades manejables para su transmisión?
+A. Datagramas.
+B. Encabezados.
+C. Control de flujo.
+D. Control de errores.
+ANSWER: A
+
+13 ¿Qué tipo de dirección se utiliza en el protocolo de transporte TCP para identificar una conexión de extremo a extremo?
+A. Puerto.
+B. Dirección física.
+C. Dirección IP.
+D. Dirección de red.
+ANSWER: A
+
+14 ¿Qué es una dirección de socket utilizada por el protocolo UDP en la capa de transporte?
+A. Una dirección IP y un puerto combinados.
+B. Una dirección física y un puerto combinados.
+C. Un número de protocolo y un puerto combinados.
+D. Un ID de sesión y un número de protocolo combinados.
+ANSWER: A
+
+15 ¿Cómo sabe el proceso de usuario de un host que el servidor está conectado a un TSAP determinado?
+A. Consultando una base de datos global de TSAP y direcciones IP.
+B. Utilizando el número de puerto de destino en la cabecera de la capa de transporte.
+C. Enviando una solicitud de conexión a todas las direcciones IP en el rango de red.
+D. Realizando una búsqueda en la tabla de enrutamiento del host.
+ANSWER: B
+
+16 ¿Qué protocolos de la capa de transporte utilizan un proceso de conexión inicial?
+A. SSL y TLS.
+B. HTTP y FTP.
+C. SMTP y POP3.
+D. UDP y TCP.
+ANSWER: D
+
+17 ¿Qué información se intercambia durante el proceso de conexión inicial en el protocolo TCP?
+A. Números de secuencia iniciales y opciones de control de flujo.
+B. Contraseñas y credenciales de autenticación.
+C. Información de enrutamiento de red y direcciones IP.
+D. Información de configuración de la conexión de red, como la velocidad y el ancho de banda.
+ANSWER: A
+
+18 ¿Qué es el protocolo de transporte TCP?
+A. Es un protocolo de capa de transporte que proporciona una conexión confiable y orientada a la conexión entre dos procesos de usuario en diferentes hosts.
+B. Es un protocolo de capa de red que se utiliza para enrutar paquetes a través de diferentes redes.
+C. Es un protocolo de capa de aplicación que se utiliza para transferir archivos entre dos hosts.
+D. Es un protocolo de capa física que define el medio de transmisión de los datos en la red.
+ANSWER: A
+
+19 ¿En que protocolos se utiliza TCP?
+A. HTTP, FTP, DNS
+B. TCP/IP, UDP, SMTP
+C. SSH, Telnet, SNMP
+D. HTTP, SNMP, SMTP
+ANSWER: A
+
+20 ¿Cuáles son las principales características del protocolo TCP?
+A. Suma de comprobación establecimiento de conexión, transmisión no confiable, transmisión de paquetes grandes, identificación de red.
+B. Fiabilidad, orden, control de flujo, control de congestión, orientación a conexión, direccionamiento extremo a extremo, manejo de errores.
+C. Oriendato a paquetes, transmisión no confiable, transmisiópn de paquetes grandes, identificación de red usando direcciones MAC.
+D. Velocidad, transmisión por difusión, asimétrica.
+ANSWER: B
+
+21 ¿Cómo se establece la conexión TCP cliente-servidor?
+A. El cliente envía un paquete SYN, el servidor responde con SYN-ACK y el cliente envía un ACK para confirmar la conexión.
+B. El cliente envía un paquete SYN-ACK, el servidor responde con SYN y el cliente envía un ACK para confirmar la conexión.
+C. El cliente envía un paquete ACK, el servidor responde con ACK y el intercambio de datos comienza.
+D. El cliente envía un paquete de datos FIN, el servidor responde con FIN-ACK y el cliente envía un ACK para confirmar el cierre de la conexión.
+ANSWER: A
+
+22 ¿Cómo se realiza la desconexión TCP cliente-servidor? 
+A. Ambos extremos envían al mismo tiempo un paquete FIN para cerrar la conexión.
+B. Se envía un paquete FIN-ACK y se espera una respuesta FIN del otro extremo antes de cerrar la conexión.
+C. Ambos extremos envían al mismo tiempo un paquete FIN-ACK para cerrar la conexión.
+D. Se envía un paquete FIN y se espera una respuesta FIN-ACK del otro extremo antes de cerrar la conexión.
+ANSWER: D
+
+23 ¿Qué rangos de puertos TCP están reservados por la IANA?
+A. 0 a 1023.
+B. 1024 a 49151.
+C. 49152 a 65535.
+D. La IANA no tiene ningún rango de puertos reservado.
+ANSWER: A
+
+24 ¿Cuál es el rango de puertos conocidos para TCP?
+A. 0 a 1023.
+B. 1024 a 49151.
+C. 49152 a 65535.
+D. Todos son puertos conocidos.
+ANSWER: A
+
+25 ¿Cuál es el rango de puertos registrados para TCP?
+A. 0 a 1023.
+B. 1024 a 49151.
+C. 49152 a 65535.
+D. No existen los puertos registrados.
+ANSWER: B
+
+26 ¿Cuál es el rango de puertos privados para TCP?
+A. 0 a 1023.
+B. 1024 a 49151.
+C. 49152 a 65535.
+D. Todas las respuestas son falsas.
+ANSWER: C
+
+27 ¿Cuál es la función de los puertos privados en TCP?
+A. Proporcionar un rango predefinido de puertos para el uso exclusivo del sistema operativo.
+B. Permitir que varios procesos se comuniquen al mismo tiempo utilizando diferentes puertos.
+C. Establecer una conexión segura entre dos sistemas.
+D. Todas las respuestas son correctas.
+ANSWER: B
+
+28 ¿Qué tipo de puerto se utiliza para establecer una conexión segura en TCP?
+A. Puerto conocido.
+B. Puerto registrado.
+C. Puerto privado.
+D. Ninguno de los anteriores.
+ANSWER: D
+
+29 ¿Cuál de estas opciones es una ventaja del protocolo TCP en comparación con UDP?
+A. TCP garantiza la entrega y la integridad de los datos.
+B. TCP es utilizado principalmente para transmisiones en tiempo real.
+C. TCP es más rápido que UDP.
+D. Ninguna respuesta es correcta.
+ANSWER: A
+
+30 ¿Por qué el control de flujo es una ventaja del protocolo TCP?
+A. Permite la entrega de datos en el orden correcto.
+B. Evita la congestión en la red.
+C. Regula la tasa de transmisión para evitar la sobrecarga del receptor.
+D. Todas son correctas.
+ANSWER: C
+
+31 ¿Cuál de estas opciones es una desventaja del protocolo TCP en comparación con UDP?
+A. TCP consume más ancho de banda de red que UDP.
+B. La complejidad del protocolo puede afectar su rendimiento.
+C. TCP no garantiza la entrega y la integridad de los datos.
+D. Ninguna respuesta es correcta.
+ANSWER: B
+
+32 ¿Qué es el protocolo UDP?
+A. Un protocolo de comunicación en red que proporciona una transferencia confiable de datos.
+B. Un protocolo de transporte que no requiere confirmaciones de recepción para cada paquete enviado.
+C. Un protocolo de transporte que garantiza que los paquetes se entreguen en el mismo orden que se enviaron.
+D. Un protocolo de comunicación en red que garantiza que el remitente no sature al receptor enviando demasiados paquetes al mismo tiempo.
+ANSWER: B
+
+33 ¿Qué tipo de aplicaciones son más adecuadas para el protocolo UDP?
+A. Aplicaciones que requieren una entrega confiable de los datos.
+B. Aplicaciones que requieren una baja latencia y una transmisión rápida de los datos.
+C. Aplicaciones que requieren una transmisión segura de los datos.
+D. Todas son correctas.
+ANSWER: B
+
+34 ¿Cuáles son algunas de las desventajas del protocolo UDP en comparación con TCP?
+A. La falta de un control de flujo y recuperación de errores puede causar una pérdida de datos.
+B. No proporciona garantías de entrega de los datos.
+C. No garantiza la integridad de los datos en caso de pérdida.
+D. Todas son correctas.
+ANSWER: D
+
+35 ¿Cuál de estas opciones es una característica del protocolo UDP?
+A. Es un protocolo de transporte orientado a conexión.
+B. Proporciona una transferencia condiable de los datos.
+C. No proporciona un control de flujo ni recuperación de errores.
+D. Requiere una conexión estable entre los dispositivos.
+ANSWER: C
+
+36 ¿Qué nombre recibe la unidad de información o PDU si trabaja con el protocolo UDP orientado al envío sin conexión?
+A. Segmento.
+B. Trama.
+C. Datagrama.
+D. Paquete.
+ANSWER: C
+
+37 ¿Qué nombre recibe la unidad de información o PDU si trabaja con el protocolo TCP orientado al envío con conexión?
+A. Segmento.
+B. Trama.
+C. Datagrama.
+D. Paquete.
+ANSWER: A
+
+38 ¿Qué organismos internacionales trabajan en la capa de transporte?
+A. IEEE.
+B. IETF.
+C. ITU-T.
+D. Todos los anteriores.
+ANSWER: D
+
+39 ¿Cuál es la función de la capa de transporte?
+A. Proporcionar una interfaz entre el software de aplicación y la red física.
+B. Encapsular y desencapsular los páquetes de datos en el nivel de red.
+C. Proporcionar servicios de entrega confiable y ordenación de los datos.
+D. Controlar el flujo de los datos a través de la red para evitar congestiones.
+ANSWER: C
+
+40 ¿Por qué es importante la capa de transporte en una red?
+A. Porque proporciona una interfaz entre el software de aplicación y la red física.
+B. Porque controla el acceso a la red por parte de los usuarios.
+C. Porque proporciona servicios de entrega confiable de los datos, lo que garantiza que los datos lleguen a su destino de forma adecuada.
+D. Ninguna de las anteriores
+ANSWER: C
+
+41 ¿Cuál es el objetivo principal de liberar una conexión en la capa de transporte?
+A. Reducir el tráfico de la red.
+B. Liberar recursos en los dispositivos que están implicados en la conexión.
+C. Garantizar la entrega confiable de los datos.
+D. Ninguna de las anteriores.
+ANSWER: B
+
+42 ¿Cómo se inicia el proceso de liberar una conexión en la capa de transporte?
+A. El host receptor envía un paquete de liberación al host emisor.
+B. El host emisor envía un paquete de liberación al host receptor.
+C. Ambos hosts envían un paquete de liberación al mismo tiempo.
+D. El proceso de liberación es automático y no se requiere la intervención de los hosts.
+ANSWER: B
+
+43 ¿Qué es el almacenamiento en búfer en la capa de transporte?
+A. Un proceso que corrige los errores en la transmisión de los datos.
+B. Un proceso que controla la cantidad de paquetes transmitidos al mismo tiempo.
+C. Un proceso que verifica la integridad de los datos durante la transmisión.
+D. Un mecanismo que almacena temporalmente los paquetes mientras se espera su entrega.
+ANSWER: D
+
+44 ¿ Cómo se manejan los paquetes almacenados en el búfer una vez que están listos para su entrega?
+A. Se entregan en orden correcto y asegurando su integridad.
+B. Se liberan inmediatamente en la red.
+C. Se entregan de forma simultánea para reducir el tiempo de transmisión.
+D. Se eliminan y solicita su retransmisión.
+ANSWER: A
+
+45 ¿Qué sucede si dos flujos de datos intentan uttilizar el mismo puerto en la multiplexación de la capa de transporte?
+A. Se divide el ancho de banda disponible entre ambos flujos de datos.
+B. Se produce un error y se bloquea la conexión.
+C. Se produce un eror y se bloquea la conexión.
+D. Ninguna de las anteriores.
+ANSWER: B
+
+46 ¿Por qué es importante la multiplexación en la capa de transporte?
+A. Porque permite que varios flujos de datos se utilicen simultáneamente en una misma conexión, lo que optimiza el uso de los recursos de red.
+B. Porque controla el acceso a la red por parte de los usuarios.
+C. Porque evita la pérdida de paquetes en la transmisión.
+D. Porque establece la cantidad de datos que pueden ser enviados antes de que se requiera una confirmación de recepción.
+ANSWER: A
+
+47 ¿Qué es la regulación de la tasa de envío en la capa de transporte?
+A. Un proceso que controla el acceso a la red por parte de los usuarios.
+B. Un mecanismo que establece la cantidad de datos que pueden ser enviados antes de que se requiera una confirmación de recepción.
+C. Un proceso que limita la velocidad a la que se envían los datos para evitar congestiones en la red.
+D. Un mecanismo que almacena temportalmente los paquetes mientras se espera su entrega.
+ANSWER: C
+
+48 ¿Cómo se realiza la regulación de la tasa de envío en la capa de transporte?
+A. A través de la dirección IP de origen y destino.
+B. A través de los puertos de origen y destino.
+C. A través del contenido de los paquetes de datos.
+D. A través del protocolo utilizado.
+ANSWER: B
+
+49 ¿Cuál es la principal diferencia entre la transmisión inalámbrica y la transmisión por cable en la capa de transporte?
+A. La velocidad de transmisión de datos.
+B. La calidad de la señal.
+C. La estabilidad de la conexión.
+D. La presencia de interferencias y obstáculos.
+ANSWER: D
+
+50 ¿Cuál es el objetivo principal de RPC en la capa de transporte?
+A. Proporcionar una interfaz para que los programas en diferentes dispositivos se comuniquen entre sí de manera transparente.
+B. Controlar el acceso a la red por parte de los usuarios.
+C. Establecer la cantidad de datos que pueden ser enviados antes de que se requiera una confirmación de recepción.
+D. Permitir que varios flujos de datos se utilicen simultáneamente en una misma conexión.
+ANSWER: A

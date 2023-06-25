@@ -1,0 +1,342 @@
+1) ¿Qué codificación usa el protocolo IPv4?
+A) Penta decimal
+B) Hexadecimal
+C) Binario
+D) Decimal
+ANSWER: C
+
+2) ¿Cuales son las versiones del protocolo IP? (Multi respuesta)
+A) IPNv0
+B) IPv4
+C) B y D
+D) IPv6
+ANSWER: C
+
+3) ¿En que capa del protocolo OSI reside la capa de Red?
+A) Capa 1
+B) Capa 2
+C) Capa 3
+D) Capa 4
+ANSWER: C
+
+4) ¿El protocolo IP puede rastrear y administrar el flujo de paquetes?
+A) Si
+B) No
+C) Solo puede administrarlo, pero no rastrearlo
+D) Solo puede rastrearlo, pero no administrarlo
+ANSWER: B
+
+5) ¿Los paquetes IP establecen conexión con el destino?
+A) Si
+B) No
+C) Solo en IPv6
+D) Depende del tipo de paquete
+ANSWER: B
+
+6) El protocolo IP es un protocolo...
+A) Confiable
+B) No confiable
+C) Capaz de recuperar paquetes perdidos
+D) Aleatorio
+ANSWER: B
+
+7) ¿De que se encarga la capa de red OSI?
+A) Transmite el paquete IP por los medios de comunicación
+B) Define los estándares de cableado físico
+C) Es la configuración de los routers
+ANSWER: A
+
+8) ¿Cuantas direcciones IP tiene el protocolo IPv4?
+A) Infinitas
+B) 4000 Millones
+C) 2,3 Billones
+D) 1450 Millones
+ANSWER: A
+
+9) ¿Cuantas direcciones IPv6 existen?
+A) 10^27
+B) 10^30
+C) 10^33
+D) 10^36
+ANSWER: D
+
+10) ¿Que es un Gateway predeterminado?
+A) Es un host para una red
+B) Tiene la misma función de un switch
+C) Es el dispositivo de red que puede enrutar el tráfico a otras redes.
+ANSWER: C
+
+11) ¿Cuales son las iniciales de la configuración dinámica de un host?
+A) PCV4
+B) DHCP
+C) MAC
+D) CCNA
+ANSWER: B
+
+12) ¿Con que comando podemos ver la tabla de routing en Windows?
+A) netstar r
+B) ip config
+C) netgraph 1
+D) hvhnndog
+ANSWER: A
+
+13) ¿Que comando se utiliza para ver la tabla de routing en los routers Cisco IOS?
+A) show ip route
+B) EIGRP
+C) CF 0
+D) EXEC
+ANSWER: A
+
+14) ¿Como se llama el protocolo de routing dinámico?
+A) DHCP
+B) EXEC Slam
+C) EIGRP
+D) IPv4
+ANSWER: C
+
+15) ¿Que representa la letra D en un router de red?
+A) Es el origen de la ruta
+B) Es el final de la ruta
+C) Representa la dirección de destino
+ANSWER: A
+
+16) ¿Que tipo de memoria se utiliza en un router?
+A) Volatil
+B) No volatil
+C) Las dos
+D) No se utiliza ninguna memoria
+ANSWER: C
+
+17) ¿Que es el flash en un router?
+A) Es la memoria no volatil utilizada
+B) Es una memoria volatil
+C) Suministra energia al router
+D) Ninguna de las anteriores
+ANSWER: A
+
+18) ¿Que componentes no tiene un router?
+A) CPU
+B) RAM
+C) Tarjeta Grafica
+D) Fuente de alimentación
+ANSWER: C
+
+19) ¿Un router tiene refrigeracion?
+A) Si
+B) No
+C)Depende del diseño y la ubicación del router
+D)Depende del modelo y la marca del router
+ANSWER: D
+
+20) ¿Que interfaces puede tener un router? (varias respuestas correctas)
+A) WAN
+B) LAN
+C) CLI
+D) A y B son correctos
+ANSWER: D
+
+21) ¿Que es el POST?
+A) Memoria flash de un router
+B) Servidor TFTP
+C) Proceso de arranque de un router
+D) Ninguna es correcta
+ANSWER: C
+
+22) ¿Que hace el POST?
+A) Inicia el sistema operativo
+B) Busca errores de hardware
+C) Envia paquetes
+D) Las respuestas A) y C) son incorrectas
+ANSWER: B
+
+23) ¿Que comando no se utiliza en un router?
+A) show ip interface brief
+B) show ip route
+C) show ip interfaces
+D) show ip list
+ANSWER: D
+
+24) ¿Un switch de la capa 2 necesita tener una IP determinada?
+A) Todos los switches van asociados a una IP
+B) No necesitan una IP
+C) Solo en el nivel fisico
+ANSWER: B
+
+25) ¿Que hace el comando “ip default gateway"?
+A) Muestra conexiones ip en la tabla del gateway
+B) Configura de manera automatica un switch
+C) Reenvia paquetes a redes remotas
+D) Genera un informe de uso de ancho de banda
+ANSWER: B
+26) ¿Que significa la “C” en una tabla de routing?
+A) Indica que es una interfaz local
+B) Indica que hay varias entradas en la tabla
+C) Identifica la red de destino
+D) Indica que la red esta conectada directamente
+ANSWER: D
+
+27) ¿Que significa la “L” en una tabla de routing?
+A) Indica que es una interfaz local
+B) Indica que hay varias entradas en la tabla
+C) Identifica la red de destino
+D) Indica que la red esta conectada directamente
+ANSWER: A
+
+28) ¿Que representa el comando “route print”?
+A) Las tablas de routing de un host
+B) El tipo de conexión de la red
+C) Clase de IP asociada
+D) Fallo en la transmision de archivos
+ANSWER: A
+
+29) ¿Principal caracteristica de la capa de red?
+A) Restringir paquetes entre hosts
+B) Asociar switches a direcciones IP
+C) Programar gateways
+ D) Encaminar paquetes a través de múltiples redes
+ANSWER: D
+30) ¿Que protocolo de red es el mas utilizado hoy en dia?
+A) IPv4
+B) IPv6
+C) IPv0
+D) IPv7
+ANSWER: B
+
+31) ¿Si un router recibe un paquete para una red que no esta en su tabla de routing, que hara?
+A) La descartará
+B) Aun asi la enviara
+C) Se quedara a la espera
+D) La reenviara
+ANSWER: A
+
+32) ¿Que significa que un router sea de sucursal?
+A) Que provee servicios
+B) Se utiliza en empresas grandes
+C) Esta pensado para teletrabajadores, pequeñas empresas, etc
+D) CCNA
+ANSWER: C
+
+33) ¿Un router puede llevar disipadores?
+A) No, no emiten calor
+B) Si, se calientan y utilizan refrigeraciones por aire
+C) Si, se calientan y usan disipadores de aluminio
+D) Si, se calientan y utilizan refrigeraciones liquidas
+ANSWER: C
+
+34) ¿Cuantos tipos de memoria tiene un router?
+A) 1
+B) 2
+C) 3
+D) 4
+ANSWER: D
+
+35) ¿Que conector utilizan los routers?
+A) RJ-45
+B) USB tipo B
+C) Los dos
+D) Ninguno
+ANSWER: C
+
+36) ¿Cómo utiliza la capa de red el valor de MTU?
+A) La capa de red depende de la capa de enlace de datos para establecer la MTU y ajusta la velocidad de transmisión para admitirla.
+B) La capa de enlace de datos pasa la MTU a la capa de red.
+C) La capa de red depende de las capas de niveles superiores para determinar la MTU.
+D) Para aumentar la velocidad de entrega, la capa de red ignora la MTU.
+ANSWER: B
+
+37) ¿Qué característica distingue una mejora de IPv6 respecto de IPv4?
+A) Tanto IPv4 como IPv6 admiten la autenticación, pero solamente IPv6 admite las funcionalidades de privacidad.
+B) El espacio de direcciones IPv6 es cuatro veces mayor que el espacio de direcciones IPv4.
+C) El encabezado de IPv6 es más sencillo que el de IPv4, lo que mejora el manejo de paquetes.
+D) Las direcciones IPv6 se basan en direccionamiento plano de 128 bits, mientras que IPv4 se basa en direccionamiento jerárquico de 32 bits.
+ANSWER: C
+
+38) ¿Qué enunciado describe con precisión una característica de IPv4?
+A) IPv4 tiene un espacio de direcciones de 32 bits.
+B) Todas las direcciones IPv4 se pueden asignar a hosts.
+C) Un encabezado IPv4 tiene menos campos que un encabezado IPv6.
+D) IPv4 admite de forma nativa IPSec.
+ANSWER: A
+
+39) Cuando un router recibe un paquete, ¿qué información debe analizarse para que el paquete se envíe a un destino remoto?
+A) Dirección MAC de origen
+B) dirección IP de destino
+C) Dirección IP de origen
+D) Dirección MAC de destino
+ANSWER: B
+
+40) ¿Qué direcciones IPv4 puede usar un host para hacerle ping a la interfaz de bucle invertido?
+A) 127.0.0.1
+B) 127.0.0.0
+C) 126.0.0.0
+D) 126.0.0.1
+ANSWER: A
+
+41) ¿Cuál es el motivo para la creación e implementación de IPv6?
+A) Proporcionar más espacio de direcciones en el Registro de nombres de Internet
+B) Permitir la compatibilidad NAT para la asignación de direcciones privadas
+C) Facilitar la lectura de direcciones de 32 bits
+D) Evitar que se agoten la direcciones IPv4
+ANSWER: D
+
+42) ¿Qué información utilizan los routers para reenviar un paquete de datos hacia su destino?
+A) Dirección IP de destino
+B) Dirección IP de origen
+C) Dirección de destino
+D) Dirección de origen
+ANSWER: A
+
+43) ¿Qué campo de un encabezado de paquete IPv4 normalmente permanece igual durante su transmisión?
+A) Señalador
+B) Tiempo de duración
+C) Longitud del paquete
+D) Dirección de destino
+ANSWER: D
+
+44) ¿Qué campo en un paquete IPv6 utiliza el router para determinar si un paquete ha caducado y debe descartarse?
+A) TTL
+B) No se puede alcanzar la dirección
+C) Límite de saltos
+D) No hay ruta para el destino.
+ANSWER: C
+
+45) ¿Qué información se agrega durante el encapsulamiento en la capa 3 del modelo OSI?
+A) Dirección MAC de origen y destino
+B) Dirección IP de origen y destino
+C) Número de puertos de origen y destino
+D) Protocolo de aplicaciones de origen y destino
+ANSWER: B
+
+46) En los mensajes ICMP ¿tienen algún campo de control de errores?
+A) No
+B) CRC de grado 32
+C) Sí
+D) CRC de grado 16
+ANSWER: C
+
+47) ¿En qué protocolo, ARP o RARP, se utilizan se rvidores?
+A) En ambos protocolos
+B) En el protocolo ARP
+C) En ninguno de los protocolos
+D) En el protocolo RARP se utilizan servidores
+ANSWER: A
+48) En la petición ARP, ¿qué dirección IP se coloca en busca de su correspondiente dirección
+física?
+A) La del emisor
+B) La del receptor
+C) La de grupo clase D
+D) La del ultimo dispositivo que recibio una trama
+ANSWER: B
+49) ¿Cuál de las siguientes opciones no se especifica en la cabecera IP?
+A) El registro de ruta seguida por un datagrama
+B) El tamaño máximo de los datagramas de una conexión
+C) El registro de marca de tiempo
+D) La cantidad maxima de enrutadores que puede atravesar
+ANSWER: B
+50. ¿Quién es el responsable de restar una unidad al campo TTL (Tiempo de Vida)?
+A) El sistema emisor
+B) El sistema receptor
+C) Los routers
+D) Los repetidores
+ANSWER: C
+

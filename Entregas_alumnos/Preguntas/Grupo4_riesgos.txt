@@ -1,0 +1,349 @@
+¿En qué consiste el mantenimiento de redes?
+A) En evitar futuros problemas de interconexión
+B) Consiste en renovar las conexiones de red cada cierto tiempo
+C) Consiste en reemplazar las zonas dañadas de una red
+D) Es el proceso mediante el cual se mantienen en buen estado las instalaciones de una red
+ANSWER: D
+
+¿Cuál es el primer paso en el mantenimiento de una red?
+A) Verificar la conexión y que esta esté en buenas condiciones
+B) Comprobar que no haya equipos quemados
+C) Comprobar el estado de la tarjeta de red
+D) Verificar que los recursos de red funcionan correctamente
+ANSWER: A
+
+¿Para qué es importante el mantenimiento de una red?
+A) Para promover una red segura entre los usuarios de cada ordenador
+B) Para así poder aprovechar los recursos a disposición de los usuarios autorizados
+C) Para garantizar siempre el mayor ancho de banda posible
+D) Ninguna de las anteriores
+ANSWER: B
+
+¿Qué es un falso contacto?
+A) Una conexión que no se ha conectado a su lugar adecuado
+B) Una conexión que no está correcta
+C) Una conexión normalmente incorrecta
+D) Todas son correctas
+ANSWER: B
+
+¿Para qué debemos hacer pruebas de atenuación e impedancia en una red?
+A) Para poder relacionar redes remotas sin problemas
+B) Para proteger a una red frente a amenazas
+C) Para verificar que el cableado está en buenas condiciones
+D) Para sacar la máxima tasa de transmisión de una red
+ANSWER: C
+
+¿Qué es una red informática?
+A) Una conexión de equipos que trabajan con un objetivo común
+B) Un conjunto de servidores que distribuyen servicios
+C) Una serie de dispositivos remotos relacionados
+D) Todas son correctas
+ANSWER: A
+
+¿Qué suele ser más seguro usar en una red informática?
+A) Conexión cableada
+B) Conexión mediante Wi-Fi
+C) Conexión mediante Bluetooth
+D) Todas nos dan la misma seguridad
+ANSWER: A
+
+¿Para qué nos sirve una red informática?
+A) Para obtener los datos deseados de servidores remotos
+B) Para garantizar siempre el mayor ancho de banda
+C) Para transmitir datos de forma más rápida y confidencial
+D) Para sacar la máxima tasa de transmisión de una red
+ANSWER: C
+
+¿Cómo pueden afectar las colisiones a una red?
+A) No afectan, en las redes actuales no se les tiene importancia
+B) Estas pueden afectar negativamente si no se realiza un mantenimiento
+C) Estas no afectan, pero pueden generar ruidos en el cableado
+D) Todas son incorrectas
+ANSWER: B
+
+¿Que herramienta puede emplear un técnico para verificar las colisiones que pueda haber en una red?
+A) Sniffer pro
+B) Network inspector
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: C
+
+A la hora de realizar el mantenimiento de una red es importante comprobar que funcionan
+A) Switches
+B) Routers
+C) Puntos de acceso inalámbrico Wi-Fi
+D) Todas son correctas
+ANSWER: D
+
+A la hora de realizar un mantenimiento de red ¿Es importante verificar si hay servicios o protocolos innecesarios?
+A) No, esto de ninguna manera afecta a una red
+B) Si, estos pueden generar tráfico y por ende colapsos de comunicaciones
+C) No, los protocolos no son necesarios de revisar, ya que apenas gastan recursos
+D) No, los servicios no son necesarios de revisar, ya que apenas gastan recursos
+ANSWER: B
+
+¿Cuál de estos es necesario revisar en el mantenimiento de una red?
+A) Tarjeta de red
+B) Ancho de banda de la red
+C) Velocidad de transmisión de la red
+D) Ninguna es correcta
+ANSWER: A
+
+¿Qué puede ocurrir si un problema de una red no se soluciona a tiempo?
+A) No debería de ocurrir nada
+B) Este puede acabar afectando a muchos más equipos
+C) Puede generar daños irreparables en el servidor central remoto
+D) Todas son correctas
+ANSWER: B
+
+¿Para qué sirve el mantenimiento de redes preventivo?
+A) Para que los trabajadores puedan usar una red a su máximo ancho de banda sin restricciones
+B) Para prevenir a una red de posibles infecciones de hackers
+C) Para verificar recursos de red como impresoras o servidores
+D) Para evitar problemas y así mantener siempre una buena eficiencia sin cortes
+ANSWER: D
+
+¿Cómo funcionan los ataques DDoS de la capa 7?
+A) Estos envían miles de protocolos por segundo hacia el servidor central de la red
+B) Estos realizan un método concreto para robar toda la información de los usuarios de una red
+C) Estos intentan saturar los recursos de la red o del servidor con una avalancha de tráfico
+D) Estos rellenan la red con recursos innecesarios de otros usuarios
+ANSWER: C
+
+Un ataque en el que se envían miles de solicitudes por segundo a una página web hasta sobrecargarla ¿Qué tipo de ataque sería?
+A) DDoS
+B) Troyano
+C) RSTs
+D) WRzP
+ANSWER: A
+
+¿Qué es la seguridad de red?
+A) Es la actividad dirigida a la protección de datos, aplicaciones, dispositivos y sistemas que están conectados a la red
+B) Consiste en proteger una red frente a virus de ataques DDoS
+C) Es la actividad en la cual renovamos una red antigua para que funcione bien de nuevo
+D) Todas son correctas
+ANSWER: A
+
+¿Es lo mismo la seguridad de red que la ciberseguridad?
+A) Si, las dos se refieren al mismo ámbito exactamente
+B) Sí, pero la ciberseguridad está relacionada con las tecnologías artifiales
+C) No, la seguridad de red es un subconjunto de la ciberseguridad
+D) No, la ciberseguridad es un subconjunto de la seguridad de red
+ANSWER: C
+
+¿Qué es la protección mediante cortafuegos?
+A) Un protocolo de medición de redes remotas
+B) Un tipo de seguridad de red
+C) Un tipo de protección contra posibles incendios en una red
+D) Todas son incorrectas
+ANSWER: B
+
+¿Qué es un IDPS?
+A) Un protocolo de seguridad de la capa de sesión
+B) Un sistema de detección y prevención de intrusiones
+C) Un servicio para prevenir ataques DDoS
+D) Ninguna es correcta
+ANSWER:B
+
+¿De qué se encarga NAC?
+A) De limpiar las colisiones de una red
+B) De revisar los posibles ataques en la red
+C) De controlar el acceso a la red
+D) De avisar de posibles averías físicas en la red
+ANSWER: C
+
+La seguridad en cloud ¿Qué clase de recursos protegue?
+A) Recursos en línea
+B) Recursos fijos de la red
+C) Recursos sin conexión
+D) Las dos primeras son correctas
+ANSWER: A
+
+¿Qué es una VPN?
+A) Es una aplicación que cifra la ubicación del usuario y la cambi a la que nosotros deseemos
+B) Es software que protege la identidad de un usuario cifrando sus datos y enmascarando su dirección IP y su ubicación
+C) Es un protocolo del modelo OSI que permite conectarnos desde el lugar que deseemos
+D) Todas son correctas
+ANSWER: B
+
+¿Qué es DLP?
+A) Disminución lineal de puertos
+B) Prevención de pérdida de datos
+C) Drastic line port
+D) Ninguna es correcta
+ANSWER: B
+
+¿Para qué sirve el DLP?
+A) Para evitar la disminución lineal de puertos
+B) Para que los usuarios no compartan información confidencial accidentalmente fuera de una red corporativa 
+C) Para controlar el acceso a la red
+D) Es la actividad dirigida a la protección de datos, aplicaciones, dispositivos y sistemas que están conectados a la red
+ANSWER:
+
+¿Cuáles son medidas para proteger dispositivos datos y una redes?
+A) Uso de software antivirus
+B) Realizar una prevención de pérdida de datos
+C) Hacer uso de cifrado
+D) Todas son correctas
+ANSWER: D
+
+¿Qué es UTM?
+A) Gestión unificada de amenazas
+B) Gestión unida contra amenazas
+C) Unión anti malware
+D) Universal transmission machine
+ANSWER: A
+
+¿En qué consiste la tecnología de pasarela web segura?
+A) Esta impide la entrada de tráfico de red no autorizado a la red interna y protege a los usuarios
+B) Es un nuevo tipo de protección muy reciente y seguro frente a ataques de tipo DDoS
+C) Es un protocolo de la capa de presentación que se encarga de eliminar cualquier virus que pueda haber en una web
+D) Ninguna es correcta
+ANSWER: A
+
+¿En qué se debe centrar una red para mantenerse segura?
+A) Autenticación y autorización
+B) Uso de VPN y de antivirus
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: A
+
+¿En qué consiste el proceso de autenticación en una red?
+A) En realizar varios procesos para saber si la red es segura y no está siendo manejada por algún virus
+B) En realizar varios procesos para saber si hay alguien suplantando a otros usuarios en la red
+C) En comprobar que ningún inicio de sesión de algún usuario haya dejado algún virus
+D) En verificar que todos los usuarios de una red sean auténticos
+ANSWER: D
+
+¿En qué consiste el proceso de autorización en una red?
+A) En que todos los datos provenientes de otras redes deben de ser antes autorizados
+B) En que todos los datos que se envíen en una red sean autorizados primero
+C) En que todos los usuarios de una red tengan los permisos adecuados en esta
+D) Ninguna es correcta
+ANSWER: C
+
+¿Qué es un antivirus?
+A) Es un tipo de software que se usa para sacar siempre la máxima tasa de transmisión de una red
+B) Es un tipo de software que se utiliza para evitar, buscar, detectar y eliminar virus de un dispositivo
+C) Es un tipo de software que impide la entrada de tráfico de red no autorizado a la red interna red y protege a los usuarios
+D) Todas son correctas
+ANSWER: B
+
+¿Qué es MSS?
+A) Un servicio de seguridad gestionado
+B) Un medio de seguridad gestionado
+C) Un protocolo de seguridad gestionado
+D) Ninguna es correcta
+ANSWER: A
+
+¿Para qué se usan los servicios de seguridad gestionada?
+A) Para proteger a sistemas de muchas redes combinadas
+B) Para proteger de manera gestionada por el usuario una red privada
+C) Para proteger a las redes multicloud híbridas
+D) Para proteger sistemas de seguridad frente a posibles ataques
+ANSWER: C
+
+¿Cuál de estos es un método de reciclaje de residuos eléctricos y electrónicos?
+A) Desmontar y separar los componentes de un dispositivo
+B) Reciclaje mecánico mediante extracción y triturado de materiales
+C) Fundición para la recuperación de metales
+D) Todas son correctas
+ANSWER: D
+
+¿Cuál es la primera medida para evitar tantos residuos eléctricos y electrónicos?
+A) Llevarlos a puntos limpios
+B) El reciclaje de estos
+C) La reparación o reutilización de estos
+D) Ninguna es correcta
+ANSWER: C
+
+¿Sobre qué establece responsabilidades las normativas de residuos de aparatos eléctricos y electrónicos?
+A) Solo sobre los productores
+B) Sobre productores, distribuidores, administraciones públicas y ciudadanos
+C) Solo sobre productores y administraciones públicas
+D) Sobre empresas de reciclado de residuos, productores y administraciones públicas
+ANSWER: B
+
+¿Por qué principal motivo los residuos de aparatos eléctricos y electrónicos no cesan su incremento?
+A) Porque los puntos para dejar estos aparatos están completamente llenos y sin espacio
+B) Por la mala gestión de estos residuos
+C) Por la rápida innovación y sustitución de la tecnología
+D) Por las continuas sobreproducciones de productos de este tipo que nunca llegan a venderse
+ANSWER: C
+
+¿Qué son los aparatos eléctricos y electrónicos?
+A) Son aquellos que para funcionar necesitan una corriente eléctrica o un campo electromagnético
+B) Son los necesarios para generar, transmitir y medir las corrientes y campos
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: C
+
+¿En qué puede ayudar el mantenimiento preventivo a una red?
+A) A definir el rendimiento de la red
+B) A comprender la cantidad de direcciones y flujos de tráfico en la red
+C) A identificar y solucionar posibles problemas de red
+D) Todas son correctas
+ANSWER: D
+
+¿En qué consiste el mantenimiento correctivo de una red?
+A) Consiste en restaurar o reemplazar los componentes o instalaciones defectuosos de la red
+B) Consiste en identificar y solucionar posibles problemas de red
+C) Consiste en realizar varios procesos para saber si hay alguien suplantando a otros usuarios en la red
+D) Consiste en limpiar las colisiones de una red
+ANSWER: A
+
+¿Qué medidas preventivas podemos tomar para mantener nuestra red funcionando?
+A) Asegurarse de que los cables estén etiquetados correctamente
+B) Revisar que la temperatura del cuarto de telecomunicaciones es la adecuada
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: C
+
+¿Qué es la higiene postural?
+A) Son las recomendaciones que deben seguirse para mantener una correcta alineación del cuerpo en todas las actividades
+B) Es la correcta colocación del cableado en una red para evitar tensiones de cables
+C) Consiste en limpiar las colisiones de una red para mantenerla limpia
+D) Consiste en llevar los residuos eléctricos y electrónicos a puntos limpios
+ANSWER: A
+
+¿Que puede ocurrir si no tenemos una correcta higiene postural?
+A) Sufriremos lesiones a corto plazo
+B) Sufriremos lesiones a largo plazo
+C) Sufriremos lesiones a medio plazo
+D) Podemos sufrir desviaciones en la columna
+ANSWER: D
+
+¿Qué se considera una correcta higiene postural?
+A) Una postura que no provoca dolor o sobrecarga de la columna ni altera el equilibrio
+B) Una postura que no altera el ritmo o la movilidad humana
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: C
+
+¿Qué tipos de postura encontramos en cuanto a la higiene postural?
+A) Directa, indirecta y sobredirecta
+B) Estática y dinámica
+C) Decúbito supino y decúbito prono
+D) De pie, sentado, arrodillado y suspendido
+ANSWER: B
+
+¿Qué es la postura estática en la higiene postural?
+A) Cuando no estamos en movimiento
+B) Cuando estamos en movimiento
+C) Cuando estamos en una postura innecesaria
+D) Cuando estamos tumbados
+ANSWER: A
+
+¿Qué es la postura dinámica en la higiene postural?
+A) Se refiere a como se sostiene el cuerpo cuando estamos en movimiento
+B) Consiste en movernos mientras estamos sentados o tumbados
+C) Cuando no estamos en movimiento
+D) Cuando estamos en una postura innecesaria
+ANSWER: A
+
+¿Qué debemos hacer para mantener una buena postura cuándo estamos de pie?
+A) Mantener el tórax erguido y los hombros relajados
+B) Mantén los hombros hacia abajo y hacia atrás
+C) Estirar los músculos suavemente cada cierto tiempo
+D) Relajar los hombros de forma que no nos encorvemos ni tiren demasiado hacia atrás
+ANSWER: A

@@ -1,0 +1,349 @@
+1. ¿En qué cuatro áreas interrelacionadas se pueden dividir los problemas de seguridad?
+A. Confidencialidad, autentificación, no repudio y control de integridad. 
+B. Confidencialidad, autentificación, repudio y control de integridad. 
+C. Confidencialidad, autentificación, no repudio y determinación.
+D. Ninguna es correcta. 
+ANSWER: A
+
+2. ¿Qué es un ataque DDoS?
+A. Un ataque que busca exponer la información confidencial de una empresa en su página web. 
+B. Un ataque en el que un hacker obtiene acceso no autorizado a la red de una empresa. 
+C. Un ataque que busca saturar los recursos de una red para evitar que los usuarios legítimos accedan a ella. 
+D. Un ataque que busca robar información confidencial almacenada en los servidores de una empresa. 
+ANSWER: C
+
+3. ¿Qué es un firewall?
+A. Una herramienta que protege contra virus informáticos y malware.
+B. Una herramienta que protege contra ataques de denegación de servicio.
+C. Una herramienta que bloquea el acceso no autorizado a la red.
+D. Una herramienta que permite el acceso remoto a la red. 
+ANSWER: C
+
+4. ¿Cuál es la función principal de una VPN?
+A. Proteger contra virus informáticos y malware.
+B. Permite el acceso remoto seguro a la red. 
+C. Proteger contra ataques externos a la red. 
+D. Permitir la monitorización de la actividad de red en tiempo real.
+ANSWER: B
+
+5. ¿Cómo funciona la criptografía de clave simétrica en la red?
+A. Se utiliza una clave pública y una clave privada para cifrar y descifrar la información
+B. Se utiliza una única clave compartida entre el emisor y el receptor para cifrar y descifrar la información.
+C. Se utiliza un conjunto de claves públicas y privadas para cifrar y descifrar la información.
+D. No se utiliza la criptografía de clave simétrica en la red. 
+ANSWER: B
+
+6. ¿Qué es la clave de cifrado en la criptografía en red?
+A. Un código de acceso que se utiliza para iniciar sesión en una red. 
+B. Un conjunto de instrucciones que se utilizan para desencriptar la información.
+C. Un algoritmo matemático que se utiliza para cifrar y descifrar la información.
+D. Un módulo de seguridad que se utiliza para proteger la red contra ataques externos.
+ANSWER: C
+
+7. ¿Cuál es la principal diferencia entre un sistema de cifrado y un sistema de código?
+A. Un sistema de cifrado utiliza algoritmos matemáticos para ocultar el significado del mensaje, mientras que un sistema de código utiliza sustituciones de palabras o símbolos.
+B. Un sistema de cifrado utiliza sustituciones de palabras o símbolos para ocultar el significadodel mensaje, mientras que un sistema de código utiliza algoritmos matemáticos.
+C. Ambos sistemas utilizan algoritmos matemáticos para ocultar el significado del mensaje.
+D. Ambos sistemas utilizan sustituciones de palabras o símbolos para ocultar el significado del mensaje.
+ANSWER: A
+
+8. ¿Cuál es la principal debilidad de un sistema de código en comparación con un sistema de cifrado?
+A. Los sistemas de código son más lentos y menos seguros que los sistemas de cifrado.
+B. Los sistemas de código son más rápidos y mas seguros que los sistemas de cifrado.
+C. Los sistemas de código utilizan una clave secreta, mientras que los sistemas de cifrado no necesitan una clave secreta. 
+D. Los sistemas de código son más fáciles de descrifrar que los sistemas de cifrado.
+ANSWER: D
+
+9. ¿Según el principio de Kerckhoff, ¿qué debe ser público en un sistema de cifrado?
+A. La clave secreta utilizada para cifrar y descifrar el mensaje.
+B. El algoritmo utilizado para cifrar y descifrar el mensaje.
+C. Tanto la clave secreta como el algoritmo utilizado para cifrar y descifrar el mensaje.
+D. Ninguna de las anteriores.
+ANSWER: B
+
+10. ¿Qué es el cifrado por transposición?
+A. Un método de encriptación que reemplaza las letras de un mensaje por otras letras del alfabeto.
+B. Un método de encriptación que reorganiza las letras de un mensaje en una nueva estructura. 
+C. Un método de encriptación que reduce el tamaño de los mensajes para proteger su confidencialidad. 
+D. Un método de encriptación que combina sustitución y reorganización de las letras del mensaje.
+ANSWER: B
+
+11. ¿Qué se necesita para descifrar un mensaje cifrado por transposición?
+A. Una clave simétrica. 
+B. Una clave asimétrica. 
+C. Conocimiento de la técnica de transposición utilizada. 
+D. Una tabla de sustitución de letras o números.
+ANSWER: C
+
+12. ¿Qué es la criptografía cuántica?
+A. Un método de encriptación basado en algoritmos criptográficos convencionales.
+B. Un método de encriptación que utiliza computadoras clásicas para encriptar y desencriptar la información.
+C. Un método de encriptación que aprovecha las leyes de la física cuántica para crear claves de encriptación seguras.
+D. Un método de encriptación que utiliza tácticas militares para proteger la información.
+ANSWER: C
+
+13. ¿Cómo funciona el protocolo BB84 en la criptografía cuántica?
+A. Se utiliza la entrelazación de partículas cuánticas para crear una clave de encriptación compartida entre dos usuarios.
+B. Se utiliza la medición de partículas cuánticas para generar una clave de encriptación compartida entre dos usuarios.
+C. Se utiliza la modulación de un solo fotón para encriptar y desencriptar la información entre dos usuarios.
+D. Se utiliza la criptografía asimétrica para crear una clave pública y una clave privada entre dos usuarios.
+ANSWER: B
+
+14. ¿Cuál es el desafío más grande en la implementación de la criptografía cuántica?
+A. La dificultad de producir y mantener partículas cuánticas estables durante períodos de tiempo prolongados.
+B. La complejidad de los algoritmos criptográficos cuánticos.
+C. La falta de aplicaciones prácticas para la criptografía cuántica. 
+D. La complejidad de integrar la criptografía cuántica con la infraestructura tecnológica existente.
+ANSWER: D
+
+15. ¿Qué es un ataque man-in-the-middle (MitM)?
+A. Ataque que intercepta y modifica datos enviados entre dos partes.
+B. Ataque que ocurre cuando se utilizan contraseñas inseguras.
+C. Ataque que involucra a un atacante que logra acceso remoto a una computadora.
+D. Ataque que usa múltiples servidores para inundar una red con tráfico.
+ANSWER: A
+
+16. ¿Cuál de las siguientes medidas de seguridad ayuda a prevenir ataques de fuerza bruta y proteger las contraseñas de usuario?
+A. Uso de contraseñas débiles y fáciles de recordar.
+B. Uso de la autenticación de dos factores.
+C. Compartir contraseñas con otros usuarios.
+D. Almacenamiento de contraseñas en un archivo de texto sin cifrar.
+ANSWER: B
+
+17. ¿Cuál de las siguientes medidas de seguridad ayuda a proteger una red o sistema informático contra ataques de malware y virus?
+A. Actualización regular del software y parches de seguridad.
+B. Uso de contraseñas débiles y fáciles de recordar.
+C. Compartir archivos con otros usuarios a través de dispositivos USB.
+D. Conexión a redes Wi-Fi públicas sin protección.
+ANSWER: A
+
+18. ¿Qué es un exploit y cómo se puede utilizar para robar información?
+A. Una herramienta de seguridad informática que encuentra vulnerabilidades en el sistema.
+B. Un método de adición masiva de seguidores en redes sociales.
+C. Un ataque que intenta engañar a los usuarios para que proporcionen información personal.
+D. Una técnica para aprovechar las vulnerabilidades y ejecutar código malicioso en un sistema vulnerado.
+ANSWER: D
+
+19. ¿Cuál de las siguientes medidas de seguridad ayuda a proteger una red o sistema informático contra ataques de phishing y ingeniería social?
+A. Uso de la autenticación de dos factores.
+B. Compartir contraseñas con otros usuarios.
+C. Conexión a redes Wi-Fi públicas sin protección.
+D. Almacenamiento de contraseñas en un archivo de texto sin cifrar.
+ANSWER: A
+
+20. ¿Cuál de los siguientes tipos de mantenimiento de redes se utiliza para corregir problemas de hardware y software y garantizar el buen funcionamiento del sistema?
+A. Mantenimiento preventivo.
+B. Mantenimiento correctivo.
+C. Mantenimiento predictivo.
+D. Mantenimiento programado.
+ANSWER: B
+
+21. ¿Cuál de las siguientes herramientas se utiliza para monitorear el tráfico de red y detectar problemas de rendimiento o seguridad?
+A. Firewall.
+B. Router.
+C. Switch.
+D. Sistema de monitoreo de red.
+ANSWER: D
+
+22. ¿Cuál de las siguientes técnicas se utiliza para optimizar el rendimiento de una red o sistema informático?
+A. Actualización del hardware a la última versión disponible.
+B. Desactivación de todas las funciones de seguridad.
+C. Desconexión de dispositivos innecesarios de la red.
+D. Configuración de políticas de ancho de banda.
+ANSWER: D
+
+23. ¿Cuál de las siguientes medidas ayuda a proteger una red o sistema informático contra fallas de hardware o software y garantizar la disponibilidad continua del sistema?
+A. Implementación de copias de seguridad y planes de recuperación de desastres.
+B. Desconexión de dispositivos innecesarios de la red.
+C. Uso de hardware y software no certificados.
+D. Desactivación de todas las funciones de seguridad.
+ANSWER: A
+
+24. ¿Qué es el Adware y cómo puede afectar la privacidad de los usuarios?
+A. Un software malicioso que toma el control de tu ordenador y te extorsiona para obtener dinero.
+B. Un software malicioso que muestra anuncios no deseados en tu pantalla.
+C. Una técnica para manipular tus resultados de búsqueda en línea.
+D. Un software malicioso que borra todos tus datos del ordenador.
+ANSWER: B
+
+25. ¿Cuál de las siguientes técnicas de hacking se utiliza para interceptar y registrar el tráfico de red para robar información confidencial, como contraseñas o datos bancarios?
+A. Phishing.
+B. Ingeniería social.
+C. Sniffing de red.
+D. Ataque de denegación de servicio (DDoS).
+ANSWER: C
+
+26. ¿Cuál de los siguientes tipos de ataque se utiliza para inundar un servidor o sitio web con tráfico falso o inútil para evitar que los usuarios legítimos accedan al servicio?
+A. Phishing.
+B. Ataque de fuerza bruta.
+C. Ataque de denegación de servicio (DDoS).
+D. Ninguna de las anteriores.
+ANSWER: C
+
+27. ¿Qué es una vulnerabilidad de día cero y cómo puede afectar la seguridad en línea?
+A. Una falla de seguridad que solo afecta a los nuevos usuarios.
+B. Una falla de seguridad que es conocida públicamente pero no se puede arreglar.
+C. Una falla de seguridad que es desconocida para el fabricante de software hasta que se descubre.
+D. Una falla de seguridad que solo afecta a las empresas grandes y no a los usuarios individuales.
+ANSWER: C
+
+28. ¿Qué es un ataque de fuerza bruta en una red?
+A. Un ataque que utiliza la repetición de contraseñas hasta encontrar la correcta para acceder a la red. 
+B. Un ataque que utiliza el software malicioso para bloquear el acceso a la red. 
+C. Un ataque que utiliza el correo electrónico para acceder a los datos de la red. 
+D. Un ataque que utiliza el correo electrónico para acceder a los datos de un host.
+ANSWER: A
+
+29. ¿Qué es la suplantación de identidad en una red?
+A. Una técnica de seguridad para encriptar la información en tránsito.
+B. Un tipo de ataque que busca destruir los datos de la red. 
+C. Un tipo de ataque que busca acceder a los datos de la red. 
+D. Un método utilizado para engañar a los usuarios haciéndose pasar por otra persona o entidad en la red. 
+ANSWER: D
+
+30. ¿Qué es un ataque de inyección SQL?
+A. Ataque que explota vulnerabilidades en la autenticación de contraseñas.
+B. Ataque que intenta adivinar una contraseña haciendo muchas conjeturas.
+C. Ataque que manipula el código malicioso en una base de datos para obtener información confidencial.
+D. Ataque que interrumpe la hostilidad de una red para impedir el acceso.
+ANSWER: C
+
+31. ¿En qué consiste el cifrado por sustitución?
+A. Es un método de cifrado que reordena los caracteres de las palabras.
+B. Es un método de cifrado que cambia los caracteres de las palabras.
+C. Es un método de cifrado que reemplaza cada letra del mensaje original por otra letra, número o símbolo.
+D. Es un método de cifrado que divide el mensaje original en varias partes, cada una cifrada de forma diferente.
+ANSWER: C
+
+32. ¿Qué es un alfabeto clave en el cifrado por sustitución?
+A. Es un alfabeto personalizado que se utiliza para sustituir las letras del mensaje original en el cifrado por sustitución.
+B. Es un alfabeto que solo contiene números y símbolos.
+C. Es un alfabeto que contiene números, símbolos y letras.
+D. Es un alfabeto que solo contiene letras mayúsculas.
+ANSWER: A
+
+33. ¿Qué es el cifrado César y cómo funciona?
+A. Es un tipo de cifrado por sustitución que utiliza una clave privada para cifrar el mensaje.
+B. Es un tipo de cifrado por sustitución que utiliza el mismo alfabeto clave para sustituir cada letra del mensaje original.
+C. Es un tipo de cifrado por sustitución que utiliza una rueda con diferentes posiciones de letras para cifrar el mensaje.
+D. Es un tipo de cifrado por eliminación que utiliza una clave privada para cifrar el mensaje.
+ANSWER: C
+
+34. ¿Qué es un algoritmo de clave simétrica?
+A. Es un algoritmo de cifrado que utiliza una clave pública para cifrar los datos y una clave privada para descifrarlos.
+B. Es un algoritmo de cifrado que utiliza la misma clave para cifrar y descifrar los datos.
+C. Es un algoritmo de cifrado que utiliza dos claves diferentes para cifrar y descifrar los datos.
+D. Es un algoritmo de cifrado que utiliza una clave privada para cifrar los datos y una clave privada para descifrarlos.
+ANSWER: B
+
+35. ¿Qué es la encriptación AES y cómo se relaciona con los algoritmos de clave simétrica?
+A. Es un algoritmo utilizado en software antivirus para detectar y eliminar malware.
+B. Es un tipo de algoritmo de clave privada utilizado en sistemas de seguridad de red. 
+C. Es un tipo de algoritmo de clave pública utilizado en sistemas de seguridad de red. 
+D. Es un algoritmo de clave simétrica ampliamente utilizado en aplicaciones de seguridad de red debido a su seguridad y eficiencia. 
+ANSWER: D
+
+36. ¿Qué es el criptoanálisis?
+A. Es un proceso utilizado para descifrar mensajes cifrados sin conocer la clave de cifrado.
+B. Es un proceso utilizado para limpiar mensajes maliciosos de la red. 
+C. Es un proceso utilizado para encriptar mensajes cifrados sin conocer la clave de cifrado.
+D. Es un proceso utilizado para crear claves públicas y privadas.
+ANSWER: A
+
+37. ¿Qué es SHA-1?
+A. Es una función hash de cifrado de clave simétrica utilizado para proteger la seguridad de las redes cableadas.
+B. Es una función hash de cifrado de clave simétrica utilizado para proteger la seguridad de las redes inalámbricas.
+C. Es una función hash criptográfica utilizada para comprobar la integridad de los datos y garantizar que no han sido modificados.
+D. Es una función hash de entorno público utilizada para proteger la comunicación en línea. 
+ANSWER: C
+
+38. ¿Qué es SHA-2?
+A. Es una función hash utilizada para detectar intrusiones en redes informáticas.
+B. Es una función hash utilizada para detectar y prevenir intrusiones en redes informáticas.
+C. Es una función hash de cifrado utilizado para proteger correos electrónicos.
+D. Es una función hash criptográfica de alta seguridad utilizada para proteger la integridad de los datos.
+ANSWER: D
+
+39. ¿Cuál es la longitud de hash por defecto en SHA-2?
+A. 256 bits.
+B. 512 bits.
+C. 128 bits.
+D. 64 bits.
+ANSWER: A
+
+40. ¿Cuál es el objetivo principal de un firewall?
+A. Permitir todo el tráfico a través de la red. 
+B. Controlar el tráfico de la red y permitir solo el tráfico autorizado.
+C. Bloquear todo el tráfico de la red. 
+D. Permitir todo el tráfico de la red. 
+ANSWER: B
+
+41. ¿Cuál es el principal inconveniente de un firewall de circuito?
+A. No puede detectar ataques a nivel de aplicación.
+B. Es vulnerable a los ataques de tipo DDoS.
+C. Puede ralentizar el ritmo de la red
+D. Puede ralentizar el rendimiento de la red. 
+ANSWER: A
+
+42. ¿Qué es la integración continua y cómo se puede implementar en el mantenimiento de una aplicación?
+A. Es un proceso de prueba manual de la aplicación después de cada cambio en el código.
+B. Es un proceso de actualización constante de la documentación de la aplicación.
+C. Es un proceso automatizado de compilación, prueba y análisis de código después de cada cambio en el repositorio.
+D. Es un proceso de limpieza y organización de la base de datos de la aplicación.
+ANSWER: C
+
+43. ¿Qué es el versionamiento de código y por qué es importante para el mantenimiento de una aplicación?
+A. Es un proceso de nombramiento de los archivos de la aplicación para mantenerlos organizados.
+B. Es un proceso de almacenamiento de varias versiones del código de la aplicación para facilitar la colaboración y el control de cambios.
+C. Es un proceso de eliminación del código redundante de la aplicación para mejorar su rendimiento.
+D. Es un proceso de actualización constante de las bibliotecas utilizadas por la aplicación.
+ANSWER: B
+
+44. ¿Qué es el envenenamiento de cache (cache poisoning)?
+A. Un ataque que modifica la caché DNS para tráfico ilegítimo.
+B. Un ataque que copia información del caché de un servidor.
+C. Un ataque que impide que la caché del navegador cargue correctamente.
+D. Un ataque que modifica la caché de los archivos temporales en una computadora.
+ANSWER: A
+
+45. ¿Qué es el análisis de vulnerabilidades?
+A. Un proceso utilizado para identificar y evaluar debilidades en sistemas de seguridad.
+B. Un ataque que utiliza métodos de ingeniería social para obtener información confidencial.
+C. Un tipo de ataque que intercepta el tráfico de red para obtener información sensible.
+D. Un tipo de software malintencionado que registra y roba la información del usuario.
+ANSWER: A
+
+46. ¿Qué postura se recomienda al utilizar un teclado?
+A. Sentarse recto con los brazos extendidos hacia el teclado.
+B. Sentarse recto con los brazos doblados en ángulo recto hacia el teclado.
+C. Inclinarse hacia atrás con los brazos extendidos hacia el teclado.
+D. Inclinarse hacia adelante con los brazos extendidos hacia el teclado.
+ANSWER: B
+
+47. ¿Qué es la ergonomía al usar la computadora?
+A. Una técnica para mantener la postura adecuada al utilizar dispositivos móviles.
+B. Un conjunto de principios que buscan adaptar el entorno de trabajo a las necesidades físicas del usuario.
+C. Un conjunto de principios que buscan adaptar el cuerpo del usuario a las necesidades del entorno de trabajo.
+D. Un conjunto de principios que buscan mejorar la eficiencia del usuario al utilizar dispositivos informáticos.
+ANSWER: B
+
+48. ¿Qué es el certificado digital?
+A. Un documento de identificación personal en línea. 
+B. Un archivo que contiene información de autenticación para una aplicación.
+C. Una firma digital que garantiza la integridad de los datos.
+D. Un protocolo de seguridad que protege la comunicación entre dos aplicaciones.
+ANSWER: B
+
+49. ¿Qué es un plan de contingencia?
+A. Un plan que establece cómo recuperarse de un evento de seguridad.
+B. Un plan que protege los datos de la empresa.
+C. Un programa que monitorea la actividad de red.
+D. Una forma de encriptar los datos de la red.
+ANSWER: A
+
+50. ¿Qué es una técnica de inyección de código?
+A. Un proceso utilizado para actualizar el software de un sistema. 
+B. Una técnica utilizada para agregar comentarios al código de un programa. 
+C. Una técnica utilizada para insertar código malicioso en una aplicación con el fin de ejecutar acciones no autorizadas.
+D. Una técnica utilizada para proteger el código de una aplicación de posibles vulnerabilidades.
+ANSWER: C

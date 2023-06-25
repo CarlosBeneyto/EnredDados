@@ -1,0 +1,344 @@
+1- ¿Cuál es el propósito de la capa de red en una red de computadoras?
+a) Controlar el flujo de datos entre los dispositivos de red.
+b) Establecer conexiones seguras entre los dispositivos de red.
+c) Enviar y recibir datos a través de la red.
+d) Enrutar los datos a través de la red.
+Respuesta correcta: d) Enrutar los datos a través de la red.
+
+2. ¿Qué es una dirección IP y cómo se utiliza en la capa de red?
+a) Una dirección de correo electrónico utilizada para enviar y recibir datos.
+b) Un número que identifica un dispositivo en una red.
+c) Un protocolo utilizado para encriptar datos en la capa de red.
+d) Un tipo de cable utilizado para conectar dispositivos de red.
+Respuesta correcta: b) Un número que identifica un dispositivo en una red.
+
+3. ¿Qué es el enrutamiento de paquetes en la capa de red?
+a) El proceso de determinar la ruta que un paquete debe tomar desde su origen hasta su destino.
+b) La transmisión de datos en capas a través de la red.
+c) La protección de los datos transmitidos en la red.
+d) La protección de datos en capa a través de la red
+Respuesta correcta: a)  El proceso de determinar la ruta que un paquete debe tomar desde su origen hasta su destino.
+
+4. ¿Qué es una dirección IP?
+a) Una dirección de correo electrónico.
+b) Una dirección física de un dispositivo.
+c) Una dirección virtual de un dispositivo.
+d) Una dirección numérica que identifica un dispositivo en una red.
+Respuesta correcta: d) Una dirección numérica que identifica un dispositivo en una red.
+
+
+5. ¿Cuál es el propósito del protocolo ARP?
+a) Asignar direcciones IP a dispositivos de red.
+b) Encontrar la dirección física de un dispositivo a partir de su dirección IP.
+c) Administrar la conexión entre dispositivos en una red.
+d) Controlar el flujo de datos entre dispositivos.
+Respuesta correcta: b) Encontrar la dirección física de un dispositivo a partir de su dirección IP.
+
+6. ¿Cuál es la diferencia entre una dirección IP pública y una dirección IP privada?
+a) Una dirección IP pública se utiliza en una red local y una dirección IP privada se utiliza en Internet.
+b) Una dirección IP pública es exclusiva para un solo dispositivo y una dirección IP privada se puede compartir entre varios dispositivos.
+c) Una dirección IP pública es asignada por un proveedor de servicios de Internet y una dirección IP privada es asignada por el administrador de la red.
+d) Una dirección IP pública es visible en Internet y una dirección IP privada no lo es.
+Respuesta correcta: d) Una dirección IP pública es visible en Internet y una dirección IP privada no lo es.
+
+7. ¿Qué es una tabla de enrutamiento?
+a) Una lista de dispositivos conectados a una red.
+b) Una lista de direcciones IP asignadas a dispositivos de red.
+c) Una lista de rutas utilizadas para dirigir el tráfico de red.
+d) Una lista de reglas de seguridad para controlar el acceso a la red.
+Respuesta correcta: c) Una lista de rutas utilizadas para dirigir el tráfico de red.
+
+8. ¿Qué es una red de área amplia (WAN)?
+a) Una red que se limita a un área geográfica pequeña.
+b) Una red que se extiende sobre una amplia área geográfica.
+c) Una red que se utiliza para la comunicación entre dispositivos de la misma ubicación física.
+d) Una red que se utiliza en área geográfica pequeña.
+Respuesta correcta: b) Una red que se extiende sobre una amplia área geográfica.
+
+9. ¿Qué protocolo de enrutamiento utiliza un algoritmo de vector de distancia?
+a) OSPF.
+b) BGP.
+c) RIP.
+d) EIGRP.
+Respuesta correcta: c) RIP.
+
+10. ¿Qué dispositivo se utiliza para interconectar redes LAN?
+a) Switch.
+b) Router.
+c) Hub.
+d) Modem.
+Respuesta correcta: b) Router.
+
+11. ¿Qué protocolo de capa de red proporciona direccionamiento IP?
+a) ARP.
+b) ICMP.
+c) TCP.
+d) DHCP.
+Respuesta correcta: d) DHCP.
+
+12. ¿Cuál es el propósito principal de la capa de red?
+a) Proporcionar conectividad física entre dispositivos de red.
+b) Proporcionar acceso a la red a los usuarios.
+c) Proporcionar seguridad a la red.
+d) Proporcionar enrutamiento de paquetes de datos a través de la red.
+Respuesta correcta: d) Proporcionar enrutamiento de paquetes de datos a través de la red.
+
+13. ¿Qué protocolo de enrutamiento se utiliza comúnmente en Internet?
+a) OSPF.
+b) BGP.
+c) EIGRP.
+d) RIP.
+Respuesta correcta: b) BGP.
+
+14. ¿Qué función realiza la capa de red en el modelo OSI?
+a) Establecer, mantener y terminar conexiones entre aplicaciones.
+b) Proporcionar servicios de sesión y presentación.
+c) Proporcionar servicios de direccionamiento y enrutamiento de paquetes.
+d) Controlar el acceso al medio de transmisión.
+Respuesta: c) Proporcionar servicios de direccionamiento y enrutamiento de paquetes.
+
+15. ¿Qué es el enrutamiento estático?
+a) Un método de enrutamiento en el que los routers intercambian información de enrutamiento dinámicamente.
+b) Un método de enrutamiento en el que los routers utilizan un algoritmo para determinar la mejor ruta hacia una red de destino.
+c) Un método de enrutamiento en el que el administrador de red configura manualmente las rutas en cada router.
+d) Un método de enrutamiento en el que los routers utilizan la dirección MAC para enrutar los paquetes.
+Respuesta correcta: c) Un método de enrutamiento en el que el administrador de red configura manualmente las rutas en cada router.
+
+16.¿Cuál es la función principal de la capa de red en el modelo OSI?
+a) Proporcionar servicios de enrutamiento.
+b) Proporcionar servicios de conexión.
+c) Proporcionar servicios de transporte.
+d) Proporcionar servicios de aplicación.
+Respuesta correcta: a) Proporcionar servicios de enrutamiento.
+
+17. ¿Qué protocolo de la capa de red se utiliza para enviar paquetes de datos de una red a otra?
+a) TCP.
+b) UDP.
+c) IP.
+d) HTTP.
+Respuesta correcta: c) IP.
+
+18. ¿Qué tipo de dirección utiliza la capa de red para identificar un dispositivo en la red?
+a) Dirección física.
+b) Dirección MAC.
+c) Dirección IP.
+d) Dirección lógica.
+Respuesta correcta: c) Dirección IP.
+
+19. ¿Qué método de enrutamiento utiliza una tabla de rutas para decidir el camino que deben seguir los paquetes de datos?
+a) Enrutamiento estático.
+b) Enrutamiento dinámico.
+c) Enrutamiento por inundación.
+d) Enrutamiento por difusión.
+Respuesta correcta: a) Enrutamiento estático.
+
+20. ¿Qué función realiza el protocolo ARP en la capa de red?
+a) Asociar direcciones físicas con direcciones IP.
+b) Enviar paquetes de datos a través de la red.
+c) Administrar el tráfico de red.
+d) Autenticar usuarios en la red.
+Respuesta correcta:a) Asociar direcciones físicas con direcciones IP.
+
+21. ¿Cuál es la principal función de la capa de red en el modelo OSI?
+a) Establecer y mantener conexiones entre dispositivos.
+b) Proporcionar un enrutamiento adecuado de los datos.
+c) Realizar la corrección de errores en los datos.
+d) Proporcionar una interfaz de red para los usuarios.
+Respuesta correcta: b) Proporcionar un enrutamiento adecuado de los datos.
+
+22. ¿Qué es un protocolo de enrutamiento?
+a) Un conjunto de reglas que determinan cómo se envían los datos a través de una red.
+b) Un conjunto de reglas que determinan cómo se transmite la información en la capa de red.
+c) Un conjunto de reglas que determinan cómo se accede a la red.
+d) Un conjunto de reglas que determinan cómo se configura una red.
+Respuesta correcta: a) Un conjunto de reglas que determinan cómo se envían los datos a través de una red.
+
+23. ¿Qué es una subred?
+a) Una red que se encuentra dentro de otra red.
+b) Una red que se extiende a través de varias ubicaciones geográficas.
+c) Un conjunto de dispositivos que comparten la misma dirección IP.
+d) Un conjunto de redes que se conectan entre sí.
+Respuesta correcta: a) Una red que se encuentra dentro de otra red.
+
+24. ¿Qué es la capa de red?
+a) La capa que establece y mantiene el enlace entre dos dispositivos.
+b) La capa que se encarga de la comunicación de host a host.
+c) La capa que define el medio físico para la transmisión de datos.
+d) La capa que se encarga del cifrado y descifrado de los datos.
+Respuesta correcta: b) La capa que se encarga de la comunicación de host a host.
+
+25. ¿Cuál es la diferencia entre una dirección IP privada y una dirección IP pública?
+a) Las direcciones IP privadas son asignadas por los proveedores de servicios de Internet (ISP), mientras que las direcciones IP públicas son asignadas por el usuario final.
+b) Las direcciones IP privadas son utilizadas dentro de una red local, mientras que las direcciones IP públicas son utilizadas para identificar un dispositivo en Internet.
+c) Las direcciones IP privadas son más seguras que las direcciones IP públicas.
+d) No hay diferencia entre las direcciones IP privadas y públicas.
+Respuesta correcta: b) Las direcciones IP privadas son utilizadas dentro de una red local, mientras que las direcciones IP públicas son utilizadas para identificar un dispositivo en Internet.
+
+26. ¿Cuál es la función principal de la capa de red?
+a) Establecer el medio físico para la transmisión de datos.
+b) Establecer y mantener el enlace entre dos dispositivos.
+c) Determinar la mejor ruta para enviar los datos a través de la red.
+d) Realizar el cifrado y descifrado de los datos transmitidos.
+Respuesta correcta: c) Determinar la mejor ruta para enviar los datos a través de la red
+
+27. ¿Qué protocolo de la capa de red se utiliza comúnmente para enrutar paquetes a través de una red?
+a) TCP.
+b) IP.
+c) ARP.
+d) ICMP.
+Respuesta correcta: b) IP.
+
+28. ¿Qué protocolo de la capa de red se utiliza para enrutar paquetes entre redes diferentes?
+a) TCP.
+b) UDP.
+c) ICMP.
+d) IP.
+Respuesta correcta: d) IP.
+
+29. ¿Cuál es la dirección IP reservada que se utiliza como dirección de origen en los paquetes enviados por un dispositivo que aún no ha sido asignado a una dirección IP?
+a) 0.0.0.0
+b) 127.0.0.1
+c) 192.168.0.1
+d) 255.255.255.255
+Respuesta correcta: a) 0.0.0.0
+
+30. ¿Cuál es la diferencia entre la dirección IP y la dirección MAC?
+a) La dirección IP es única a nivel global, mientras que la dirección MAC es única a nivel local.
+b) La dirección IP se utiliza para enrutar paquetes en la red, mientras que la dirección MAC se utiliza para identificar un dispositivo en una red.
+c) La dirección IP es asignada por el ISP, mientras que la dirección MAC es asignada por el fabricante del dispositivo.
+d) La dirección IP es de 32 bits, mientras que la dirección MAC es de 48 bits.
+Respuesta correcta: b) La dirección IP se utiliza para enrutar paquetes en la red, mientras que la dirección MAC se utiliza para identificar un dispositivo en una red.
+
+31. ¿Qué comando se puede usar en un host de Windows para mostrar la tabla de enrutamiento?
+a) netstat -s.
+b) show ip route.
+c) tracert.
+d) netstat -r.
+Respuesta correcta: a) netstat -s.
+
+32. ¿Qué característica distingue una mejora de IPv6 respecto de IPv4?
+a)Tanto IPv4 como IPv6 admiten la autenticación, pero solamente IPv6 admite las funcionalidades de privacidad.
+b)El espacio de direcciones IPv6 es cuatro veces mayor que el espacio de direcciones IPv4
+c)El encabezado de IPv6 es más sencillo que el de IPv4, lo que mejora el manejo de paquetes.
+d)Las direcciones IPv6 se basan en direccionamiento plano de 128 bits, mientras que IPv4 se basa en direccionamiento jerárquico de 32 bits.
+Respuesta correcta: c) El ecabezado de IPv6 es más sencillo que el de IPv4, lo que mejora el manejo de paquete.
+
+33. ¿Qué enunciado describe con precisión una característica de IPv4?
+a)Todas las direcciones IPv4 se pueden asignar a hosts.
+b)Un encabezado IPv4 tiene menos campos que un encabezado IPv6.
+c)IPv4 admite de forma nativa IPSec.
+d)IPv4 tiene un espacio de direcciones de 32 bits.
+Respuesta correcta: d) IPv4 tiene un espacio de direcciones de 32 bits.
+
+34. Cuando un router recibe un paquete, ¿qué información debe analizarse para que el paquete se envíe a un destino remoto?
+a)Dirección MAC de origen.
+b)Dirección IP de origen.
+c)Dirección MAC de destino.
+d)Dirección IP de destino.
+Respuesta correcta: d) Dirección Ip de detino.
+
+35. ¿Qué información utilizan los routers para reenviar un paquete de datos hacia su destino?
+a)Dirección IP de destino.
+b)Dirección IP de origen.
+c)Dirección de destino.
+d)Dirección de origen.
+Respuesta Correcta: a) Dirección IP de destino.
+
+36. ¿Qué información se agrega durante el encapsulamiento en la capa 3 del modelo OSI?
+a)Dirección MAC de origen y destino.
+b)Dirección IP de origen y destino.
+c)Número de puertos de origen y destino.
+d)Protocolo de aplicaciones de origen y destino.
+Respuesta correcta: c) Número de puertos de origen y destino.
+
+37. Un equipo tiene que enviar un paquete a un host de destino en la misma LAN. ¿Cómo se enviará el paquete?
+a) El paquete se enviará directamente al host de destino.
+b) El paquete se enviará primero a la puerta de enlace predeterminada y, a continuación, desde la puerta de enlace predeterminada, se enviará directamente al host de destino.
+c) El paquete se enviará primero a la puerta de enlace predeterminada y, a continuación, dependiendo de la respuesta de la puerta de enlace, se puede enviar al host de destino.
+d) El paquete se enviará sólo a la puerta de enlace predeterminada.
+Respuesta correcta: a) El paquete se enviará directamente al host de destino.
+
+38. ¿Qué campo en un paquete IPv6 utiliza el router para determinar si un paquete ha caducado y debe descartarse?
+a)TTL.
+b) No se puede alcanzar la dirección.
+c) Límite de saltos.
+d) No hay ruta para el destino.
+Respuesta correcta: c) Límite de saltos.
+
+39. ¿Qué campo de un encabezado de paquete IPv4 normalmente permanece igual durante su transmisión?
+a) Señalador.
+b) Tiempo de duración.
+c) Longitud del paquete.
+d) Dirección de destino.
+Respuesta correcta: d) Dirección de destino.
+
+40. Cuando un protocolo sin conexión está en uso en una capa inferior del modelo OSI, ¿cómo se detectan y se retransmiten, si es necesario, los datos faltantes?
+a) Los protocolos de capa superior orientados a la conexión hacen un seguimiento de los datos recibidos y pueden solicitar la retransmisión desde los protocolos de capa superior del host emisor.
+b) El proceso de distribución de servicio mínimo garantiza que todos los paquetes se envíen y se reciban.
+c) Se utilizan acuses de recibo sin conexión para solicitar la retransmisión.
+d) Los protocolos IP de la capa de red administran las sesiones de comunicación si no están disponibles los servicios de transporte orienta
+Respuesta correcta: a) Los protocolos de capa superior orientados a la conexión hacen un seguimiento de los datos recibidos y pueden solicitar la retransmisión desde los protocolos de capa superior del host emisor.
+
+41. ¿Qué direcciones IPv4 puede usar un host para hacerle ping a la interfaz de bucle invertido?
+a) 127.0.0.1
+b) 127.0.0.0
+c) 126.0.0.0
+d) 126.0.0.1
+Respuesta correcta: a) 127.0.0.1
+
+42. ¿Cómo utiliza la capa de red el valor de MTU?
+a) La capa de red depende de la capa de enlace de datos para establecer la MTU y ajusta la velocidad de transmisión para admitirla.
+b) La capa de enlace de datos pasa la MTU a la capa de red.
+c) La capa de red depende de las capas de niveles superiores para determinar la MTU.
+d) Para aumentar la velocidad de entrega, la capa de red ignora la MTU.
+Respuesta correcta: b) La capa de enlace de datos pasa la MTU a la capa de red.
+
+43. ¿Cuántas topologías de red hay?
+a) 3
+b) 8
+c) 10
+d) 5
+Respuesta correcta: d) 5
+
+44. ¿Cuál es el motivo para la creación e implementación de IPv6?
+a) Proporcionar más espacio de direcciones en el Registro de nombres de Internet.
+b) Permitir la compatibilidad NAT para la asignación de direcciones privadas.
+c) Facilitar la lectura de direcciones de 32 bits.
+d) Evitar que se agoten la direcciones IPv4.
+Respuesta correcta: d) Evitar que se agoten la direcciones IPv4.
+
+45. ¿Qué hará un switch de capa 2 cuando la dirección MAC de destino de una trama recibida no está en la tabla MAC?
+a) Notifica al host de envío que la trama no se puede entregar.
+b) Inicia una solicitud ARP.
+c) Emite el fotograma fuera de todos los puertos del switch.
+d) Reenvía la trama de todos los puertos excepto el puerto en el que se recibió la trama.
+Respuesta correcta: d) Reenvía la trama de todos los puertos excepto el puerto en el que se recibió la trama.
+
+46. ¿Cómo utiliza el proceso ARP una dirección IPv4?
+a) Para determinar la dirección MAC de un dispositivo en la misma red.
+b) Para determinar la dirección MAC del host de destino remoto.
+c) Para determinar la cantidad de tiempo que tarda un paquete al viajar de origen a destino.
+d) Para determinar el número de red basado en el número de bits en la dirección IPv4.
+Respuesta correcta: a) Para determinar la dirección MAC de un dispositivo en la misma red.
+
+48. ¿Cuál es la función del protocolo ARP?
+a) Obtener una dirección IP automáticamente.
+b) Mapear un nombre de dominio a su dirección IP.
+c) Mantener una tabla de nombres de dominio con sus direcciones IP resueltas.
+d) Resolver una dirección IPv4 a una dirección MAC.
+Respuesta correcta: d) Resolver una dirección IPv4 a una dirección MAC.
+
+49. ¿Qué direcciones asigna ARP?
+a) Dirección IPv4 a una dirección MAC de destino.
+b) Una dirección IPv4 de destino al nombre de host de destino.
+c) Una dirección IPv4 de destino a la dirección MAC de origen.
+d) Una dirección MAC de destino a una dirección IPv4 de origen.
+Respuesta correcta: a) Dirección IPv4 a una dirección MAC de destino.
+
+50. Cuando se envía un paquete IPv4 a un host en una red remota, ¿qué información proporciona ARP?
+a) La dirección MAC de la interfaz del router más cercana al host de envío.
+b) La dirección IPv4 del gateway predeterminado.
+c) La dirección MAC del puerto del switch que se conecta al host de envío.
+d) La dirección IPv4 del host de destino.
+Respuesta correcta: a) La dirección MAC de la interfaz del router más cercana al host de envío.
+

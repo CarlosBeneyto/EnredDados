@@ -1,0 +1,350 @@
+1) ¿Cuál es la principal función de la capa de aplicación?
+A) Establecer conexiones físicas
+B) Generar la dirección IP
+C) Proporcionar el enlace de datos
+D) Facilitar la comunicación entre aplicaciones
+ANSWER: D
+
+2) ¿Qué protocolo de la capa de aplicación se utiliza para transferir archivos?
+A) FTP
+B) UDP
+C) ICMP
+D) ARP
+ANSWER: A
+
+3) ¿Qué protocolo de capa de aplicación se utiliza para enviar correos electrónicos?
+A) Telnet
+B) DNS
+C) SNMP
+D) SMTP
+ANSWER: D
+
+4) ¿Qué protocolo de la capa de aplicación se utiliza para asignar nombres de dominio a direcciones IP?
+A) DNS
+B) HTTP
+C) FTP
+D) SMTP
+ANSWER: A
+
+5) ¿Qué protocolo de la capa de aplicación permite acceder a sitios web?
+A) FTP
+B) HTTP
+C) Telnet
+D) SMTP
+ANSWER: B
+
+6) ¿Cuál es el número de puerto predeterminado para HTTP?
+A) 25
+B) 53
+C) 80
+D) 110
+ANSWER: C
+
+7) ¿Cuál es un protocolo seguro de la capa de aplicación para transferir archivos?
+A) NFS
+B) FTP
+C) SFTP
+D) SCP
+ANSWER: C
+
+8) ¿Qué protocolo de la capa de aplicación se usa para administrar dispositivos de red?
+A) SNMP
+B) SMTP
+C) FTP
+D) DHCP
+ANSWER: A
+
+9) ¿Qué servicio de capa de aplicación permite la asignación automática de direcciones IP?
+A) DNS
+B) DHCP
+C) TFTP
+D) ARP
+ANSWER: B
+
+10) ¿Qué protocolo de la capa de aplicación permite la gestión remota de dispositivos de red y servidores?
+A) SNMP
+B) SMTP
+C) Telnet
+D) SSH
+ANSWER: D
+
+11) ¿Cuál es el puerto predeterminado utilizado para el protocolo SMTP?
+A) 21
+B) 25
+C) 80
+D) 443
+ANSWER: B
+
+12) ¿Qué protocolo de capa de aplicación cifra la comunicación entre un cliente y un servidor web?
+A) HTTP
+B) FTP
+C) HTTPS
+D) Telnet
+ANSWER: C
+
+13) ¿Qué protocolo de la capa de aplicación se utiliza para la transferencia de archivos simple y mínima?
+A) FTP
+B) TFTP
+C) HTTP
+D) Telnet
+ANSWER: B
+
+14) ¿Cuál es el número de puerto predeterminado para HTTPS?
+A) 80
+B) 110
+C) 443
+D) 8080
+ANSWER: C
+
+15) ¿Cuál de los siguientes protocolos utiliza una arquitectura cliente-servidor?
+A) DHCP
+B) DNS
+C) P2P
+D) ARP
+ANSWER: A
+
+16) ¿Qué protocolo de la capa de aplicación proporciona servicios a aplicaciones de videoconferencia y colaboración?
+A) FTP
+B) VoIP
+C) HTTP
+D) RTP
+ANSWER: D
+
+17) ¿Cuál es el puerto predeterminado del protocolo Telnet?
+A) 21
+B) 22
+C) 23
+D) 80
+ANSWER: C
+
+18) ¿ál de los siguientes NO es un protocolo de mensajería instantánea?
+A) AIM
+B) XMPP
+C) IRC
+D) ICMP
+ANSWER: D
+
+19) ¿Qué protocolo dea de aplicación se utiliza para el intercambio de información de enrutamiento entre enrutadores?
+A) BGP
+B) DHCP
+C) DNS
+D) SNMP
+ANSWER: A
+
+20) ¿Qué protocolo de capa de aplicación se utiliza para gestión y monitoreo de rendimiento de equipos en una red?
+A) ICMP
+B) SNMP
+C) QoS
+D) ARP
+ANSWER: B
+
+21) ¿Qué protocolo de la capa de aplicación se utiliza para compartir recursos entre hosts en una red?
+A) LDAP
+B) NFS
+C) FTP
+D) TFTP
+ANSWER: B
+
+22) ¿Qué protocolo de capa de aplicación se utiliza para acceder y administrar bases de datos?
+A) SQL
+B) DNS
+C) HTTP
+D) SMTP
+ANSWER: A
+
+23) ¿Cuál protocolo de la capa de aplicación se utiliza para compartir archivos en redes Microsoft Windows?
+A) FTP
+B) SAMBA
+C) HTTP
+D) SMB
+ANSWER: D
+
+24) ¿Qué protocolo de capa de aplicación se utiliza para el acceso a directorios de información en redes?
+A) DHCP
+B) DNS
+C) LDAP
+D) ARP
+ANSWER: C
+
+25) ¿Cuándo se utiliza el protocolo de capa de aplicación IMAP?
+A) Transferencia de archivos
+B) Acceso a correo electrónico
+C) Streaming de video
+D) Asignación de direcciones IP
+ANSWER: B
+
+26) ¿Cuál es el número de puerto predeterminado para SNMP?
+A) 25
+B) 161
+C) 443
+D) 8080
+ANSWER: B
+
+27) ¿Qué versión de protocolo de capa de aplicación usa comunicación cifrada?
+A) FTP
+B) SFTP
+C) SNMPv1
+D) SNMPv3
+ANSWER: D
+
+28) ¿Qué protocolo de la capa de aplicación se utiliza para la transmisión de voz sobre IP?
+A) SIP
+B) DNS
+C) DHCP
+D) FTP
+ANSWER: A
+
+29) ¿Cuál protocolo de la capa de aplicación proporciona información de control para streaming multimedia?
+A) RTSP
+B) FTP
+C) SIP
+D) HTTP
+ANSWER: A
+
+30) ¿En qué protocolo de la capa de aplicación se basa la función de chat en grupos?
+A) FTP
+B) HTTP
+C) IRC
+D) SMTP
+ANSWER: C
+
+31) ¿Qué protocolo de capa de aplicación se utiliza para la conexión en tiempo real entre dos clientes P2P?
+A) HTTP
+B) IRC
+C) DHT
+D) ICE
+ANSWER: D
+
+32) ¿Cuál es el protocolo de la capa de aplicación que permite el envío de SMS y MMS?
+A) SMPP
+B) SIP
+C) IMAP
+D) SMTP
+ANSWER: A
+
+33) ¿Qué protocolo de capa de aplicación se utiliza para la sincronización de tiempo entre dispositivos en una red?
+A) DHCP
+B) SMTP
+C) NTP
+D) DNS
+ANSWER: C
+
+34. ¿Cuál es el número de puerto predeterminado para el protocolo FTP para la transferencia de datos?
+A) 20
+B) 21
+C) 22
+D) 25
+ANSWER: A
+
+35) ¿Cuál protocolo de la capa de aplicación se utiliza para la resolución de direcciones IPv6?
+A) ARP
+B) DNS
+C) DHCP
+D) IP
+ANSWER: C
+
+36) ¿Cuál es el puerto predeterminado para el protocolo IMAP?
+A) 25
+B) 110
+C) 143
+D) 443
+ANSWER: C
+
+37) ¿Qué protocolo de capa de aplicación se utiliza para la autenticación y autorización en múltiples sistemas y servicios?
+A) LDAP
+B) OAuth
+C) SSO
+D) Kerberos
+ANSWER: D
+
+38) ¿Cuál es el puerto predeterminado para el protocolo SIP?
+A) 80
+B) 110
+C) 5060
+D) 8080
+ANSWER: C
+
+39) ¿En qué protocolo de capa de aplicación se basa el sistema de correo electrónico?
+A) POP3
+B) SMTP
+C) HTTP
+D) FTP
+ANSWER: B
+
+40) ¿Cuál es el número de puerto predeterminado para SQL?
+A) 80
+B) 110
+C) 1433
+D) 8080
+ANSWER: C
+
+41) ¿Cuál de los siguientes protocolos de la capa de aplicación utiliza una arquitectura P2P?
+A) DNS
+B) DHCP
+C) FTP
+D) BitTorrent
+ANSWER: D
+
+42) ¿Qué protocolo de capa de aplicación se utiliza comúnmente en servicios VPN?
+A) SNMP
+B) PPTP
+C) DNS
+D) SMTP
+ANSWER: B
+
+43) ¿Cuál es el número de puerto predeterminado para POP3?
+A) 53
+B) 80
+C) 110
+D) 143
+ANSWER: C
+
+44) ¿Qué protocolo de capa de aplicación se utiliza para envío de notificaciones push en tiempo real?
+A) XMPP
+B) SMTP
+C) RSS
+D) SNMP
+ANSWER: A
+
+45) ¿Cuál protocolo de la capa de aplicación se utiliza para el transporte de paquetes multimedia en tiempo real?
+A) RTCP
+B) RIP
+C) FTP
+D) RTP
+ANSWER: D
+
+46) ¿Qué protocolo de capa de aplicación requiere que un usuario ingrese a su cuenta antes de poder acceder a correo electrónico?
+A) DNS
+B) DHCP
+C) POP3
+D) HTTP
+ANSWER: C
+
+47) ¿Cuál es el puerto predeterminado para el protocolo SS7?
+A) 110
+B) 3306
+C) 5060
+D) 8000
+ANSWER: D
+
+48) ¿Qué protocolo de capa de aplicación se utiliza para realizar autenticación en multiples servicios de una red?
+A) RADIUS
+B) FTP
+C) DHCP
+D) DNS
+ANSWER: A
+
+49) ¿Cuál de los siguientes protocolos es utilizado para transferir archivos sobre redes seguras?
+A) HTTP
+B) FTP
+C) SNMP
+D) SCP
+ANSWER: D
+
+50) ¿Cuál es el número de puerto predeterminado para el protocolo RADIUS?
+A) 80
+B) 1812
+C) 4512
+D) 50
+ANSWER: B
+

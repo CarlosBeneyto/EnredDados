@@ -1,0 +1,335 @@
+﻿1. ¿Cuál es el protocolo de transporte más comúnmente utilizado en Internet?
+A) FTP.
+B) TCP.
+C) UDP.
+D) SMTP.
+Respuesta correcta: B) TCP.
+
+2. ¿Qué protocolo de transporte se utiliza comúnmente para el correo electrónico?
+A) TCP.
+B) UDP.
+C) HTTP.
+D) SMTP.
+Respuesta correcta: D) SMTP.
+
+3. ¿Qué protocolo de transporte se utiliza comúnmente para la transferencia de archivos?
+A) TCP.
+B) UDP.
+C) FTP.
+D) HTTP.
+Respuesta correcta: C) FTP.
+
+4. ¿Qué es el control de congestión?
+A) Un proceso para asegurarse de que los datos lleguen al destino en el orden correcto.
+B) Un proceso para evitar la pérdida de paquetes de datos en la red.
+C) Un proceso para controlar la cantidad de datos que se transmiten en la red para evitar la congestión.
+D) Un proceso para garantizar la seguridad de los datos transmitidos en la red.
+Respuesta correcta: C) Un proceso para controlar la cantidad de datos que se transmiten en la red para evitar la congestión.
+
+5. ¿Qué es la segmentación?
+A) Un proceso para dividir los datos en pequeños paquetes para su transmisión.
+B) Un proceso para unir los datos divididos en paquetes en su forma original.
+C) Un proceso para controlar la congestión en la red.
+D) Un proceso para establecer una conexión entre dispositivos en la red.
+Respuesta correcta: A) Un proceso para dividir los datos en pequeños paquetes para su transmisión.
+ 
+6. ¿Cuál es el protocolo de transporte que proporciona una entrega confiable de paquetes sin conexión?
+a) TCP.
+b) UDP.
+c) HTTP.
+d) FTP.
+Respuesta correcta: a) TCP.
+
+7. ¿Qué campo en la cabecera de TCP se utiliza para establecer y finalizar las conexiones?
+a) Puerto de origen.
+b) Puerto de destino.
+c) Número de secuencia.
+d) Bandera de control.
+Respuesta correcta: d) Bandera de control.
+
+8. ¿Cuál es el número máximo de puertos disponibles en TCP?
+a) 65,535.
+b) 255.
+c) 1024.
+d) 512.
+Respuesta correcta: a) 65,535.
+
+9. ¿Cuál es el protocolo de transporte utilizado para la transmisión de correo electrónico?
+a) SMTP.
+b) HTTP.
+c) DNS.
+d) FTP.
+Respuesta correcta: a) SMTP.
+
+10. ¿Qué protocolo de transporte se utiliza para el streaming de audio y video en tiempo real?
+a) TCP.
+b) UDP.
+c) DNS.
+d) SNMP.
+Respuesta correcta: b) UDP.
+
+11. ¿Qué protocolo de transporte proporciona una conexión confiable y orientada a la conexión?
+a) TCP.
+b) UDP.
+c) HTTP.
+d) ICMP.
+Respuesta correcta: a) TCP.
+
+12. ¿Qué campo en la cabecera del protocolo de transporte TCP se utiliza para identificar los segmentos de datos?
+a) Puerto de origen.
+b) Puerto de destino.
+c) Número de secuencia.
+d) Número de confirmación.
+Respuesta correcta: c) Número de secuencia.
+
+13. ¿Cuál es la función de la capa de transporte en el modelo OSI?
+a) Proporcionar servicios de red a las aplicaciones.
+b) Proporcionar servicios de enrutamiento y direccionamiento.
+c) Proporcionar servicios de enlace de datos.
+d) Proporcionar servicios de física.
+Respuesta correcta: a) Proporcionar servicios de red a las aplicaciones.
+
+14. ¿Qué puerto utiliza el protocolo SMTP?
+a) 21.
+b) 25.
+c) 53.
+d) 80.
+Respuesta correcta: b) 25.
+
+15. ¿Cuál de los siguientes protocolos de transporte no proporciona un mecanismo de control de flujo confiable?
+a) TCP.
+b) UDP.
+c) SCTP.
+d) ICMP.
+Respuesta correcta: b) UDP.
+
+16. ¿Qué es un SYN flood?
+a) Un ataque que utiliza paquetes TCP malformados para cerrar conexiones activas.
+b) Un ataque que utiliza paquetes ICMP para inundar la red de peticiones.
+c) Un ataque que utiliza paquetes UDP para saturar el ancho de banda disponible.
+d) Un ataque que utiliza paquetes TCP SYN para consumir recursos del servidor.
+Respuesta correcta: d) Un ataque que utiliza paquetes TCP SYN para consumir recursos del servidor.
+
+17. ¿Cuál es el objetivo principal de la capa de transporte?
+a) Facilitar la comunicación entre dispositivos en una misma red.
+b) Asegurar la entrega de los paquetes en el orden correcto.
+c) Proporcionar servicios de calidad de servicio (QoS).
+d) Todas las anteriores.
+Respuesta correcta: d) Todas las anteriores.
+
+18. ¿Cuál es el número máximo de puertos que se pueden utilizar en un protocolo de transporte?
+a) 256.
+b) 1024.
+c) 65535.
+d) 4294967296.
+Respuesta correcta: c) 65535.
+
+19. ¿Qué protocolo de transporte es utilizado para la mayoría de las aplicaciones en Internet?
+a) TCP.
+b) UDP.
+c) HTTP.
+d) DNS.
+Respuesta correcta: a) TCP.
+
+20. ¿Cuál es la función principal de la capa de transporte?
+a) Establecer la conexión entre los dispositivos de red.
+b) Controlar la calidad de servicio en la red.
+c) Proporcionar un canal de comunicación entre las aplicaciones de los dispositivos de red.
+d) Controlar el flujo de datos en la red.
+Respuesta correcta: c) Proporcionar un canal de comunicación entre las aplicaciones de los dispositivos de red.
+
+21. ¿Qué es la ventana de recepción en TCP?
+a) El número de bytes de datos que pueden ser enviados por el remitente.
+b) El número de bytes de datos que pueden ser recibidos por el destinatario.
+c) El número de segmentos de datos que pueden ser enviados por el remitente.
+d) El número de segmentos de datos que pueden ser recibidos por el destinatario.
+Respuesta correcta: b) El número de bytes de datos que pueden ser recibidos por el destinatario.
+
+22. ¿Cuál es la función del campo de número de secuencia en TCP?
+a) Identificar el número de puerto utilizado por la aplicación.
+b) Identificar el número de secuencia del segmento de datos.
+c) Identificar el número de confirmación del segmento de datos.
+d) Identificar el tipo de segmento de datos.
+Respuesta correcta: b) Identificar el número de secuencia del segmento de datos.
+
+23. ¿Qué es el control de congestión en TCP?
+a) El proceso de ajustar el tamaño de la ventana de recepción.
+b) El proceso de evitar que los segmentos de datos se pierdan en la red.
+c) El proceso de evitar que la red se sature con demasiados datos.
+d) El proceso de retransmitir los segmentos de datos perdidos.
+Respuesta correcta: c) El proceso de evitar que la red se sature con demasiados datos.
+
+24. ¿Cuál es el protocolo de la capa de transporte que proporciona conexiones orientadas a conexión y confiables?
+a) TCP.
+b) UDP.
+c) IP.
+d) HTTP.
+Respuesta correcta: a) TCP.
+
+25. ¿Qué número de puerto se utiliza comúnmente para las conexiones HTTPS seguras?
+a) 25.
+b) 80.
+c) 443.
+d) 8080.
+Respuesta correcta: c) 443.
+
+26. ¿Qué campo del encabezado TCP se utiliza para indicar el número de secuencia inicial en una conexión TCP?
+a) Puerto de origen.
+b) Puerto de destino.
+c) Número de secuencia.
+d) Número de reconocimiento.
+Respuesta correcta: c) Número de secuencia.
+
+27. ¿Cuál es el tamaño máximo de segmento TCP que se puede enviar en una conexión?
+a) 1500 bytes.
+b) 576 bytes.
+c) 64 kilobytes.
+d) 65535 bytes.
+Respuesta correcta: d) 65535 bytes.
+
+28. ¿Cuál es el protocolo de transporte más utilizado en Internet?
+a) TCP.
+b) FTP.
+c) UDP.
+d) SMTP.
+Respuesta correcta: a) TCP.
+
+29. ¿Cuál es la función principal de la capa de transporte en el modelo OSI?
+a) Proporcionar un enrutamiento adecuado de los paquetes de datos.
+b) Realizar la autenticación y la encriptación de los datos.
+c) Proporcionar control de flujo y detección de errores.
+d) Convertir los datos en señales que puedan ser transmitidas por el medio físico.
+Respuesta correcta: c) Proporcionar control de flujo y detección de errores.
+
+30. ¿Qué tipo de servicios de comunicación ofrece la capa de transporte?
+a) Orientados a conexión y sin conexión.
+b) Sólo orientados a conexión.
+c) Sólo sin conexión.
+d) Ninguna de las anteriores.
+Respuesta correcta: a) Orientados a conexión y sin conexión.
+
+31. ¿Qué protocolo de la capa de transporte proporciona una conexión confiable y orientada a la conexión?
+a) TCP.
+b) UDP.
+c) ICMP.
+d) HTTP.
+Respuesta correcta: a) TCP.
+
+ 32. ¿Qué campo en la cabecera de TCP se utiliza para evitar la duplicación de paquetes?
+a) Número de puerto de origen.
+b) Número de puerto de destino.
+c) Número de secuencia.
+d) Número de acuse de recibo.
+Respuesta correcta: c) Número de secuencia.
+
+33. ¿Qué protocolo de la capa de transporte no proporciona una conexión confiable y orientada a la conexión?
+a) TCP.
+b) UDP.
+c) ICMP.
+d) HTTP.
+Respuesta correcta: b) UDP.
+
+34. ¿Qué campo en la cabecera de TCP se utiliza para identificar el último byte recibido correctamente?
+a) Número de puerto de origen.
+b) Número de puerto de destino.
+c) Número de secuencia.
+d) Número de acuse de recibo.
+Respuesta correcta: d) Número de acuse de recibo.
+
+35. ¿Qué protocolo de la capa de transporte se utiliza para la transmisión en tiempo real de audio y video?
+a) TCP.
+b) UDP.
+c) ICMP.
+d) HTTP.
+Respuesta correcta: b) UDP.
+
+36. ¿Qué campo en la cabecera de TCP se utiliza para indicar el tamaño de la ventana?
+a) Número de puerto de origen.
+b) Número de puerto de destino.
+c) Número de secuencia.
+d) Tamaño de la ventana.
+Respuesta correcta: d) Tamaño de la ventana.
+
+37. ¿Qué protocolo de la capa de transporte se utiliza para el correo electrónico?
+a) TCP.
+b) UDP.
+c) SMTP.
+d) POP3.
+Respuesta correcta: c) SMTP.
+
+38. ¿Qué campo en la cabecera de TCP se utiliza para indicar el número de bytes de datos que contiene el paquete?
+a) Número de puerto de origen.
+b) Número de puerto de destino.
+c) Longitud de la cabecera.
+d) Longitud total del paquete.
+Respuesta correcta: c) Longitud de la cabecera.
+
+39. ¿Qué protocolo de la capa de transporte se utiliza para transferir archivos de manera segura?
+a) TCP.
+b) UDP.
+c) SFTP.
+d) FTP.
+Respuesta correcta: c) SFTP.
+
+40. ¿Qué campo en la cabecera de TCP se utiliza para indicar el tamaño máximo del paquete que se puede enviar en una conexión?
+a) Número de puerto de origen.
+b) Número de puerto de destino.
+c) Tamaño máximo de segmento.
+d) Longitud total del paquete.
+Respuesta correcta: c) Tamaño máximo de segmento.
+
+41. ¿Cuál es el propósito principal de la capa de transporte?
+a) Proporcionar una conexión física entre dispositivos de red.
+b) Proporcionar enrutamiento de paquetes a través de la red.
+c) Proporcionar control de flujo y confiabilidad de extremo a extremo.
+d) Proporcionar servicios de aplicación a los usuarios.
+Respuesta correcta: c) Proporcionar control de flujo y confiabilidad de extremo a extremo.
+
+42. ¿Cuál es el número de puerto utilizado por defecto por el protocolo TCP?
+a) 21.
+b) 80.
+c) 443.
+d) 80 y 443.
+Respuesta correcta: d) 80 y 443.
+
+ 43. ¿Cuál de las siguientes afirmaciones es cierta sobre TCP?
+a) Es un protocolo de transporte sin conexión.
+b) Proporciona un servicio de entrega no confiable.
+c) Establece un circuito virtual entre los dispositivos de origen y destino.
+d) Utiliza un sistema de ventanas deslizantes para controlar el flujo de datos.
+Respuesta correcta: d) Utiliza un sistema de ventanas deslizantes para controlar el flujo de datos.
+
+ 44. ¿Cuál de los siguientes protocolos de transporte es comúnmente utilizado para aplicaciones que requieren una entrega rápida de datos, como la transmisión de audio y video en tiempo real?
+a) TCP.
+b) IP.
+c) UDP.
+d) ICMP.
+Respuesta correcta: c)UDP.
+
+45. ¿Qué características definen a TCP?
+a) Orientado a la conexión, confiable, control de flujo y control de congestión.
+b) No orientado a la conexión, no confiable, sin control de flujo ni control de congestión.
+c) Orientado a la conexión, no confiable, sin control de flujo ni control de congestión.
+d) No orientado a la conexión, confiable, con control de flujo y control de congestión.
+Respuesta correcta: a) Orientado a la conexión, confiable, control de flujo y control de congestión.
+
+46. ¿Qué características definen a UDP?
+a) Orientado a la conexión, confiable, control de flujo y control de congestión.
+b) No orientado a la conexión, no confiable, sin control de flujo ni control de congestión.
+c) Orientado a la conexión, no confiable, sin control de flujo ni control de congestión.
+d) No orientado a la conexión, confiable, con control de flujo y control de congestión.
+Respuesta correcta: b) No orientado a la conexión, no confiable, sin control de flujo ni control de congestión.
+
+47. ¿Qué es el control de flujo en la capa de transporte?
+a) El proceso mediante el cual se asegura que los paquetes lleguen a su destino sin errores.
+b) El proceso mediante el cual se evita la congestión de la red limitando la cantidad de datos que se transmiten en un momento dado.
+c) El proceso mediante el cual se determina la mejor ruta para enviar los paquetes en una red.
+d) El proceso mediante el cual se establece una conexión entre dos dispositivos de red.
+Respuesta correcta: b) El proceso mediante el cual se evita la congestión de la red limitando la cantidad de datos que se transmiten en un momento dado.
+
+48. ¿Qué es el control de congestión en la capa de transporte?
+a) El proceso mediante el cual se asegura que los paquetes lleguen a su destino sin errores.
+b) El proceso mediante el cual se evita la congestión de la red limitando la cantidad de datos que se transmiten en un momento dado.
+c) El proceso mediante el cual se determina la mejor ruta para enviar los paquetes en una red.
+d) El proceso mediante el cual se establece una conexión entre dos dispositivos de red.
+Respuesta correcta: b) El proceso mediante el cual se evita la congestión de la red limitando la cantidad de datos que se transmiten en un momento dado.

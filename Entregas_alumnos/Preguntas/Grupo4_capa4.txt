@@ -1,0 +1,349 @@
+La capa de transporte también se conoce cómo
+A) Capa de triple enlace
+B) Capa de transmisión
+C) Capa 4
+D) Capa 3
+ANSWER: C
+
+La capa de transporte intenta
+A) Colocar información en la trama que identifica qué protocolo de capa de red está siendo usado por la trama
+B) Suministrar un servicio de transporte de datos que aísla las capas superiores de los detalles de implementación del transporte
+C) Transferencia interactiva, colocar la trama y acceso por el medio
+D) Proporciona direccionamiento de origen y destino para transportar la trama entre dispositivos
+ANSWER: B
+
+¿La capa de transporte se encarga de la confiabilidad de transporte entre dos hosts?
+A) Si
+B) No
+C) Depende del propósito del host
+D) Todas son falsas
+ANSWER: A
+
+¿Cuáles son protocolos de la capa de transporte?
+A) POP y FTP
+B) STP y HTML
+C) TCP y UDP
+D) FTP y STP
+ANSWER: C
+
+El protocolo TCP
+A) No garantiza la fidelidad de los datos
+B) Garantiza la fidelidad de los datos
+C) Proporciona direccionamiento de origen y destino para transportar la trama entre dispositivos
+D) Permite comunicaciones de uno a uno y de uno a muchos
+ANSWER: B
+
+El protocolo UDP
+A) No garantiza la fidelidad de los datos
+B) Garantiza la fidelidad de los datos
+C) Proporciona direccionamiento de origen y destino para transportar la trama entre dispositivos
+D) No permite una comunicación de uno a uno
+ANSWER: A
+
+¿Qué protocolo permite comunicación de uno a uno?
+A) POP
+B) UDP
+C) TCP
+D) UDP y TCP
+ANSWER: D
+
+¿Qué protocolo permite comunicaciones de uno a muchos?
+A) UDP y TCP
+B) FTP
+C) TCP
+D) UDP
+ANSWER: D
+
+¿Qué protocolo es más rápido?
+A) TCP
+B) UDP
+C) FTP
+D) TCP y UDP son igual de rápidos
+ANSWER: B
+
+¿Qué protocolo es más lento?
+A) TCP
+B) UDP
+C) FTP
+D) TCP y FTP son igual de lentos
+ANSWER: A
+
+¿Qué protocolo funciona con conexión?
+A) UDP
+B) TCP
+C) Ambos
+D) Ninguno funciona con conexión
+ANSWER: B
+
+¿Qué protocolo funciona sin conexión?
+A) FTP
+B) POP3
+C) TCP
+D) Ninguno de los anteriores
+ANSWER: D
+
+¿Qué hace el protocolo TCP para garantizar la fidelidad de datos?
+A) Proporciona direccionamiento de origen y destino para transportar la trama entre dispositivos
+B) El protocolo TCP no garantiza fidelidad de datos
+C) Crea una secuencia de datos para su entrega
+D) Ninguna de las anteriores
+ANSWER: C
+
+Cuándo un protocolo no necesita establecer una sesión entre hosts, este es
+A) Un servicio sin conexión, cómo UDP
+B) Un servicio con conexión, cómo FTP
+C) Un servicio sin conexión, cómo TCP
+D) Ninguna es correcta
+ANSWER: A
+
+Cuándo un protocolo establece una sesión entre ambos hosts, este es
+A) Un servicio con conexión, cómo UDP
+B) Un servicio sin conexión, cómo FTP
+C) Un servicio con conexión, cómo TCP
+D) Ninguna es correcta
+ANSWER: C
+
+¿Por qué el protocolo TCP es más lento que el UDP?
+A) Porque el protocolo TCP no garantiza fidelidad de datos
+B) Porque necesita comprobar que el paquete se haya recibido completo
+C) Porque crea una secuencia de datos para su entrega
+D) No es más lento que el UDP
+ANSWER: B
+
+¿Por qué el protocolo UDP es más rápido que el TCP?
+A) Porque no crea una secuencia de datos para su entrega
+B) Porque no siempre necesita comprobar que el paquete se haya recibido completo
+C) Porque el protocolo TCP no garantiza fidelidad de datos
+D) Porque solo se encarga de entregar los paquetes en el menor tiempo posible
+ANSWER: D
+
+En el protocolo TCP, ¿Cuándo se reenvía un tramo faltante para completar un servicio?
+A) Cuándo la comunicación pasa a ser de uno a muchos
+B) Cuándo se comprueba el paquete y este no se ha recibido por completo
+C) Cuándo se realiza una transferencia mediante conexión entre servidores ajenos
+D) Cuándo la comunicación pasa a ser de uno a uno
+ANSWER: B
+
+¿Cuáles son características del protocolo TCP?
+A) Con conexión, garantiza fidelidad de datos, más lento que UDP y permite comunicaciones de uno a uno
+B) Sin conexión, no garantiza fidelidad de datos, más rápido que UDP y permite comunicación de uno a muchos
+C) Sin conexión, entrega de paquetes a alta velocidad, más ancho de banda que UDP y sin comunicaciones uno a uno
+D) Sin conexión, garantiza fidelidad de empaquetado, más velocidad de transmisión que UDP y permite todo tipo de comunicaciones
+ANSWER: A
+
+¿Cuáles son características del protocolo UDP?
+A) Con conexión, garantiza fidelidad de datos, más lento que TCP y permite comunicación de uno a uno
+B) Sin conexión, no garantiza fidelidad de datos, más rápido que TCP y permite comunicaciones de uno a uno y de uno a muchos
+C) Sin conexión, entrega de paquetes a alta velocidad, más ancho de banda que TCP y sin comunicaciones uno a uno
+D) Sin conexión, garantiza fidelidad de empaquetado, más velocidad de transmisión que TCP y permite todo tipo de comunicaciones
+ANSWER: B
+
+¿Qué es el protocolo SCTP?
+A) Stream controlling transaction protocol
+B) Protocolo de transmisión de control de flujo
+C) Protocolo de capa de puertos seguros
+D) Protocolo de seguridad de la capa de transporte
+ANSWER: B
+
+¿Qué es el protocolo SSL?
+A) Protocolo de capa de puertos seguros
+B) Protocolo de seguridad de la capa de transporte
+C) Protocolo de transmisión de control de flujo
+D) Secure Socket Line
+ANSWER: A
+
+¿Qué es el protocolo TLS?
+A) Tranmission layer scanner
+B) Protocolo de capa de puertos seguros
+C) Protocolo de seguridad de la capa de transporte
+D) Protocolo de transmisión de control de flujo
+ANSWER: C
+
+La capa de transporte es responsable de
+A) La transmisión de datos a través de la red
+B) Proporciona direccionamiento de origen y destino para transportar la trama entre dispositivos
+C) Transferencia interactiva, colocar la trama y acceder por el medio de esta
+D) Ninguna es correcta
+ANSWER: A
+
+¿Cuál es la función del protocolo TLS?
+A) Este coloca información en la trama que identifica qué protocolo de capa de red está siendo usado por la trama
+B) Este Garantiza la fidelidad de los datos
+C) Este proporciona direccionamiento de origen y destino para transportar la trama entre dispositivos
+D) Este proporcionan privacidad e integridad en la comunicación entre dos puntos en una red de comunicación
+ANSWER: D
+
+¿Cuál es la función del protocolo SSL?
+A) Este coloca información en la trama que identifica qué protocolo de capa de red está siendo usado por la trama
+B) Este Garantiza la fidelidad de los datos
+C) Este se encarga de mantener segura una conexión a Internet
+D) Este proporcionan privacidad e integridad en la comunicación entre dos puntos en una red de comunicación
+ANSWER: C
+
+¿Cuál de estos son protocolos de comunicación?
+A) SCTP
+B) SSL y FTP
+C) TLS, SCTP y FTP
+D) Ninguna de las anteriores
+ANSWER: A
+
+¿Qué hace la capa de transporte?
+A) Traslada los datos entre las aplicaciones en dispositivos de la red
+B) Provee principalmente los servicios de envío, enrutamiento y control de congestionamiento de los datos
+C) Define las aplicaciones de red y los servicios de Internet estándar que puede utilizar un usuario
+D) Transferencia fiable dentro del circuito de transmisión de datos
+ANSWER: A
+
+¿Qué hace la segmentación de datos?
+A) Cuando varias aplicaciones están ejecutando a la vez a cada una de estas aplicaciones o servicios, se les asigna una dirección
+B) Facilita el transporte de datos por parte de las capas de red inferiores
+C) Complica el transporte de datos por parte de las capas de red inferiores
+D) Ninguna de las anteriores
+ANSWER: B
+
+¿Qué hace la multiplexación de conversaciones?
+A) Asigna una dirección para que la capa pueda determinar con qué aplicación o servicio se identifican los datos cuándo varias aplicaciones se ejecutan a la vez
+B) Facilita el transporte de datos por parte de las capas de red inferiores
+C) Complica el transporte de datos por parte de las capas de red inferiores
+D) Ninguna de las anteriores
+ANSWER: A
+
+Algunos protocolos de la capa de transporte proveen
+A) Conversaciones orientadas a la conexión
+B) Entrega confiable
+C) Control de flujo
+D) Todas son correctas
+ANSWER: D
+
+¿Cuál de estas operaciones básicas son de la capa de transporte?
+A) Acuse de recibo de los datos recibidos
+B) Retransmisión de cualquier dato sin acuse de recibo
+C) Seguimiento de datos transmitidos
+D) Todas son correctas
+ANSWER: D
+
+¿Qué es un puerto de transporte?
+A) Una dirección IP asignada a un dispositivo de red
+B) Una dirección MAC de un dispositivo de red
+C) Un número que identifica una aplicación o servicio específico en un dispositivo de red
+D) Un protocolo utilizado para el enrutamiento de paquetes
+ANSWER: C
+
+La capa de transporte junto a la capa de red
+A) Proporcionan información acerca de los puertos de conexión
+B) Controlan el flujo de red en conjunto de cada servidor
+C) Trabajan en conjunto como un sistema postal
+D) Ninguna de las anteriores
+ANSWER: C
+
+El protocolo TLS
+A) Controla de flujo
+B) Garantiza que la información transmitida por cada red no pueda ser interceptada ni modificada por elementos no autorizados
+C) Proporciona un número que identifica una aplicación o servicio específico en un dispositivo de red
+D) Facilita el transporte de datos por parte de las capas de red inferiores
+ANSWER: B
+
+¿Para qué sirve la capa de transporte?
+A) Para regular el flujo de información desde el origen hasta el destino
+B) Para trabajar en conjunto de un servidor como un sistema postal
+C) Para conversaciones orientadas a la conexión respecto al ancho de banda
+D) Ninguna de las anteriores
+ANSWER: A
+
+¿Cuáles son responsabilidades principales de la capa de transporte?
+A) Proporcionar información acerca de los puertos de conexión salientes
+B) Control del flujo directo
+C) Segmentación de datos y gestión de cada porción
+D) Seguimiento de la comunicación triple
+ANSWER: C
+
+¿Qué pueden provocar los datos perdidos?
+A) Pueden provocar problemas de interconexionado entre servidores de red
+B) Nunca pueden generar daños
+C) Pueden corromper una comunicación y dejarla incompleta
+D) Provocan daños mínimos, basta con reiniciar el router para solucionarlos
+ANSWER: C
+
+¿Qué es IANA?
+A) Es un organismo de estándares responsable de normas de direccionamiento
+B) Es una dirección MAC de un dispositivo de red
+C) Es el segmento de datos de cada porción
+D) Es un protocolo de capa de puertos seguros
+ANSWER: A
+
+¿Cuál es una función de Netstat?
+A) Indica el protocolo en uso y el ancho de banda máximo de cada puerto de red
+B) Verifica las conexiones a una red
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: B
+
+¿Qué nos garantiza dividir los datos de aplicación en secciones?
+A) Que los datos se transmitan dentro de los límites del medio
+B) Nos falicita el transporte de datos por parte de las capas de red inferiores
+C) Conversaciones orientadas a la conexión respecto al ancho de banda
+D) Ninguna es correcta
+ANSWER: A
+
+¿TCP y UDP gestionan la segmentación de forma distinta?
+A) No
+B) Depende del segmento a gestionar
+C) Si
+D) Nunca, solo cuándo ambos se combinan para realizar la misma función
+ANSWER: C
+
+¿Cuántos pasos requiere el establecimiento de una conexión TCP?
+A) 4
+B) 5
+C) 2
+D) 3
+ANSWER: D
+
+En el encabezado TCP, ¿qué significa el campo URG?
+A) Urgente campo de señalizado interactivo
+B) Urgent cross ground
+C) Ambas son correctas
+D) Ninguna es correcta
+ANSWER: A
+
+En el encabezado TCP, ¿qué significa el campo PSH?
+A) Sincronizar números de secuencia
+B) Función de empuje
+C) Play screen hole
+D) Ninguna es correcta
+ANSWER: B
+
+En el encabezado TCP, ¿qué significa el campo RST?
+A) Función de empuje
+B) Reconfiguración de la conexión
+C) Sincronizar números de secuencia
+D) Read same transport
+ANSWER: B
+
+¿Qué necesita un servidor TCP para establecer la conexión del cliente al servidor?
+A) Necesita reconocer la recepción del segmento SYN del cliente
+B) Necesita reconocer la recepción del segmento ACK del servidor
+C) Necesita reconocer la recepción del segmento ACK del servidor
+D) Ninguna es correcta
+ANSWER A
+
+Durante la configuración de una sesión TCP, ¿cómo se conoce al número de secuencia inicial?
+A) ISN
+B) Número de inicio de transmisión de sesiones
+C) IPN
+D) SNI
+ANSWER: A
+
+¿Qué nos proporcionan los números de secuencia de segmento?
+A) Reconocimiento de sesiones instantáneo
+B) Mayor velocidad de transmisión
+C) Seguridad de transcripciones
+D) Confiabilidad
+ANSWER: D
+
+¿Cuál de estas es una función primaria e importante de TCP?
+A) Asegurar una alta confiabilidad entre servicios
+B) Proporcionar seguridad de transcripciones
+C) Asegurar que cada segmento llegue a su destino
+D) Sincronizar números de secuencia
+ANSWER: C

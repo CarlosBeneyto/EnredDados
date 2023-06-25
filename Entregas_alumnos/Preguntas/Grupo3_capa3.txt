@@ -1,0 +1,350 @@
+¿Que posicion ocupa la capa de red en el modelo OSI?
+A)1
+B)2
+C)3
+D)7
+ANSWER:C
+
+¿Cual es la función de la capa de red?
+A)gestiona el enrutamiento y el envio de datos.
+B)proporciona medios de transmision de datos.
+C)genera datos y que son utilizados por software.
+D)controla conexiones entre ordenadores.
+ANSWER:A
+
+¿Que protocolo NO se utiliza en la capa de red?
+A)IP
+B)ICMP
+C)IGMP
+D)IEEE 802.3
+ANSWER:D
+
+¿Que valor binario tiene la Ip de origen?
+A)32 bits
+B)4 bytes
+C)16 bits
+D)32 bytes
+ANSWER:A
+
+¿Que direccion IP de red tiene una red de clase A?
+A)128
+B)127
+C)64
+D)63
+ANSWER:B
+
+¿Cual de estos tipos NO es cable de red?
+A)UTP
+B)STP
+C)CTP
+D)FTP
+ANSWER:C
+
+¿Que protocolo de enrutamiento dinamico es utilizado normalmente en redes?
+A)RIP
+B)OSPF
+C)BGP
+D)STP
+ANSWER:B
+
+¿Cual es la direccion IP que se utiliza para representar una red en una tabla de enrutamiento?
+A)Direccion de difusión
+B)Dirección de red
+C)Dirección de host
+D)Dirección de subred
+ANSWER:B
+
+¿Cual de estos dispositivos opera en la capa de red del model OSI?
+A)Hub
+B)Switch
+C)Router
+D)NIC
+ANSWER:C
+
+¿Cuál es la función principal del protocolo ICMP?
+A)Proporcionar servicios de enrutamiento
+B)Controlar la congestion de la red
+C)Proportcionar Servicios de autenticación
+D)Proportcionar servicios de control y diagnósticos de errores.
+ANSWER:D
+
+¿Que protocolo de la capa de red se utiliza normalmente para enrutar paquetes?
+A)TCP
+B)UDP
+C)ARP
+D)IP
+ANSWER: IP
+
+Que direccion IP de red tiene una red de clase B
+A)65-129
+B)129-192
+C)64-128
+D)128-191
+ANSWER:D
+
+Que es un paquete en la capa de red?
+A)Un conjunto de tramas
+B)Un conjunto de bytes
+C)Un conjuto de bits
+D)Un conjunto de segmentos
+ANSWER:A
+
+Cual es la funcion del protocolo ARP en la capa de red?
+A)Enviar paquetes a través de la red
+B)Enviar mensajes de error cuando un paquete no llega a su destino
+C)Convertir direcciones IP en direcciones físicas
+D)Establecer conexiones entre dispositivos en la red-
+ANSWER:C
+
+¿Qué es la mascara de subred?
+A)Un número que se utiliza para identificar una red en una red IP.
+B)Un número que se utiliza para identificar un dispositivo en una red IP.
+C)Un número que se utiliza para identificar el número de subredes en una red IP.
+D)Un número que se utiliza para identificar el tamaño de la red en una red IP.
+ANSWER:D
+
+¿Qué es el enrutamiento estático?
+A)Un tipo de enrutamiento en el que los caminos de la red cambian dinámicamente.
+B)Un tipo de enrutamiento en el que se utiliza una tabla de enrutamiento predefinida para enviar datos a través de la red.
+C)Un protocolo de enrutamiento que se utiliza en redes LAN.
+D)Un protocolo de enrutamiento que se utiliza en redes WAN.
+ANSWER:B
+
+¿Qué es una dirección IP?
+A)Un identificador único para un dispositivo en una red
+B)Un número que indica la velocidad de la conexión a Internet
+C)Una contraseña para acceder a una red
+D)Un protocolo para la transferencia de archivos
+ANSWER:
+
+¿Qué es el protocolo ICMP?
+A)Un protocolo para la transferencia de archivos
+B)Un protocolo para la comunicación entre dispositivos de diferentes redes
+C)Un protocolo para la resolución de nombres de dominio
+D)Un protocolo para la transmisión de mensajes de error y control de mensajes en la red
+ANSWER:D
+
+¿Qué es NAT?
+A)Un protocolo de enrutamiento para redes privadas
+B)Un protocolo de seguridad para proteger las redes privadas de los ataques externos
+C)Una técnica para permitir que varias computadoras en una red compartan una dirección IP pública
+D)Una técnica para conectar redes de diferentes tipos y tecnologías
+ANSWER:C
+
+¿Qué es un túnel VPN?
+A)Una conexión segura entre dos redes privadas a través de Internet
+B)Una conexión inalámbrica entre dispositivos en una red
+C)Una técnica para proteger las conexiones inalámbricas de los ataques externos
+D)Una técnica para aumentar el rendimiento de una red
+ANSWER:A
+
+¿Qué es un router?
+A)Un dispositivo que conecta varios dispositivos en una red local
+B)Un dispositivo que conecta dos o más redes y enruta los paquetes de datos entre ellas
+C)Un dispositivo que permite la comunicación inalámbrica entre dispositivos en una red
+D)Un dispositivo que actúa como servidor de archivos en una red
+ANSWER:B
+
+¿Cuál de los siguientes es un ejemplo de protocolo de enrutamiento dinámico?
+A)RIP
+B)ARP
+C)ICMP
+D)TCP
+ANSWER:A
+
+¿Cuál de las siguientes afirmaciones sobre la dirección IP es correcta?
+A)La dirección IP consta de 48 bits
+B)La dirección IP consta de 64 bits
+C)La dirección IP consta de 32 bits
+D)La dirección IP consta de 16 bits
+ANSWER:C
+
+¿Qué es una dirección IP privada?
+A)Una dirección IP asignada a un dispositivo en una red pública
+B)Una dirección IP utilizada para enrutar paquetes de datos a través de Internet
+C)Una dirección IP asignada a un dispositivo en una red privada
+D)Una dirección IP asignada a un servidor de nombres de dominio
+ANSWER:C
+
+¿Qué es un gateway o puerta de enlace?
+A)Un dispositivo que permite a los dispositivos en diferentes redes comunicarse entre sí
+B)Un dispositivo que permite a los dispositivos en la misma red comunicarse entre sí
+C)Un dispositivo que proporciona acceso a Internet
+D)Un dispositivo que permite a los dispositivos conectarse a una red inalámbrica
+ANSWER:A
+
+¿Qué es una red de área local (LAN)?
+A)Una red que cubre una gran área geográfica, como una ciudad o un país
+B)Una red que conecta dispositivos dentro de un edificio o campus
+C)Una red que se utiliza para conectar dispositivos móviles
+D)Una red que se utiliza para enviar mensajes de correo electrónico
+ANSWER:B
+
+¿Cuál de las siguientes opciones es una característica de IPv6 en comparación con IPv4?
+A)Direcciones IP más cortas
+B)Menos espacio de direccionamiento
+C)No soporta enrutamiento jerárquico
+D)Mayor espacio de direccionamiento
+ANSWER:D
+
+¿Cuál de las siguientes afirmaciones es verdadera sobre el protocolo IP?
+A)Es un protocolo de transporte confiable
+B)Es un protocolo de transporte no confiable
+C)Es un protocolo de transporte que garantiza la entrega en orden de los paquetes
+D)Es un protocolo de transporte que se utiliza solo para la transmisión de correo electrónico
+ANSWER:B
+
+¿Cuál es la dirección IP reservada para la red local?
+A)10.0.0.0
+B)172.16.0.0
+C)192.168.0.0
+D)todas las anteriores
+ANSWER:D
+
+¿Qué direcciones IPv4 puede usar un host para hacerle ping a la interfaz de bucle invertido?
+A)127.0.0.1
+B)127.0.0.0
+C)126.0.0.0
+D)126.0.0.1
+ANSWER:A
+
+¿Cómo utiliza la capa de red el valor de MTU?
+A)La capa de red depende de la capa de enlace de datos para establecer la MTU y ajusta la velocidad de transmisión para admitirla.
+B)La capa de enlace de datos pasa la MTU a la capa de red.
+C)La capa de red depende de las capas de niveles superiores para determinar la MTU.
+D)Para aumentar la velocidad de entrega, la capa de red ignora la MTU.
+ANSWER:B
+
+Que direccion IP de red tiene una red de clase C
+A)129-193
+B)128-192
+C)192-255
+D)191-254
+ANSWER:C
+
+La combinación exclusiva de dirección IP y número de puerto es conocido como
+A)Mapeo
+B)Socket
+C)SYN
+D)Netstat
+ANSWER:B
+
+¿Que factor determina tamaño de ventana TCP?
+A)El número de servicios incluidos en el segmento TCP
+B)La cantidad de datos de destino puede procesar a la vez
+C)La cantidad de datos de la fuente es capaz de enviar de una sola vez
+D)La cantidad de datos a transmitir.
+ANSWER:B
+
+Se conoce como protocolo de configuración dinámica de host:
+A)DHCP
+B)DNS
+C)TCP/IP
+D)HTTP
+ANSWER:A
+
+Dada la direccion IP 130.206.100.1, ¿Qué dirección IP representa?
+A)Dirección primaria
+B)Dirección de clase B
+C)Ninguna de las anteriores son correctas
+D)La A y la B son correctas
+ANSWER:D
+
+¿Qué tipo de datagramas IP se envían a la dirección LO?
+A)Direcciones unicast
+B)Direcciones multicast y broadcast
+C)Las dos anteriores
+D)La A y la B mas las direcciones anycast
+ANSWER:C
+
+¿Cómo se envía una petición ARP?
+A)Mediante una difusion IP
+B)Mediante una fisfuin o broadcast del nivel enlace de datos
+C)Mediante el el envia a la dirección IP de destino correspondiente
+D)La A y la B son correctas
+ANSWER:B
+
+En que porotocolo,ARP o RARP, se utilizan servdores?
+A)En ambos protocolos
+B)En el protocolo ARP
+C)En el protocolo RAP
+D)En ninguno de los protocolos
+ANSWER:D
+
+El protocolo ICMP se utiliza para determinar:
+A)La velocidad de transmision de enlace de datos
+B)Para obtener la mascara de subred
+C)Para obtener la MTU de una interfaz
+D)La 3 se correctas
+ANSWER:A
+
+¿Que procedimiento tienen los routers para modificar ssus tablas de encaminamiento?
+A)Mensajes ICMP de ambio de ruta
+B)Mensajes de peticion de ECO
+C)Mensajes SQ
+D)Ninguan de las anteriores
+ANSWER:D
+
+¿Cuál de los siguientes protocolos de encaminamiento dinámico no se utiliza en la actualidad?
+A)IGP
+B)BGP
+C)HGP
+D)GGP
+ANSWER:D
+
+¿Qué parámetros NO permiten configurar el OSPF?
+A)El nombre del sistema final donde se almacena la información de usuario
+B)El costo de cada interfaz
+C)La prioridad del router
+D)La clave de autenticación para validar las actualizaciones del estado del enlace
+ANSWER:A
+
+¿Qué significado tiene el flag H encontrado en las tablas de encaminamiento?
+A)Que la ruta está activa
+B)Que la ruta es específica
+C)Que la ruta es indirecta
+D)Todas son correctas
+ANSWER:B
+
+¿Cuál de las siguientes opciones no se especifica en la cabecera IP?
+A)El registro de ruta seguida por un datagrama
+B)El tamaño máximo de los datagramas de una conexión
+C)El registro de marca de tiempo
+D)Ninguna de las anteriores
+ANSWER:B
+
+¿Qué opciones se deben copiar en todos los fragmentos de datagrama IP?
+A)Encamiamiento desde el orgine flexible
+B)Registro de ruta
+C)Marca de tiempo
+D)ninguna de las anteriores
+ANSWER:A
+
+En el protocolo RARP, ¿qué información se obtiene tras ser aplicado?
+A)La dirección HW de la estación origen
+B)La dirección HW de la estación destino
+C)La dirección del nivel de red
+D)Ninguna de las anteriores
+ANSWER:C
+
+El protocolo ICMP se utiliza para determinar:
+A)La velocidad de transmisión de un enlace de datos
+B)Para obtener la máscara de subred
+C)Para obtener la MTU de una interfaz
+D)Ninguna de las anteriores
+ANSWER:B
+
+¿Qué procedimiento tienen los routers para modificar sus tablas de
+encaminamiento?
+A)Mensajes ICMP de cambio de ruta
+B)Mensajes de petición de ECO
+C)Mensajes SQ
+D)Ninguna de las anteriores es cierta
+ANSWER:D
+
+¿Cuántos octetos ocupa un mensaje IGMP?
+A)2 palabras de 16 bits
+B)2 palabras de 32 bits
+C)2 octetos
+D)4 octetos
+ANSWER:B

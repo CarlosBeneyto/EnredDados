@@ -1,0 +1,349 @@
+En direcciones DHCP ¿Qué ocurre si el Host conectado a una red se apaga?
+A) La dirección regresa al Pool para ser utilizada
+B) La dirección es excluida del Pool
+C) La dirección se cerrará hasta que se vuelva a encender
+D) La dirección desaparece hasta el siguiente intento
+ANSWER: A
+
+El protocolo FTP sirve para
+A) Permitir transferencia de archivos entre sistemas
+B) Permitir transferencia de archivos entre cliente y router
+C) Permitir transferencia de archivos entre sesiones
+D) Transmitir ancho de banda superior al que tenemos
+ANSWER: A
+
+¿Cuál es el protocolo de acceso a mensajes de Internet?
+A) HTTPS
+B) HTTP
+C) SMTP
+D) IMAP
+ANSWER: D
+
+¿Cuál es la función de la capa de aplicación?
+A) Define las aplicaciones de red y servicios de Internet estándar que puede usar un usuario
+B) Conecta todos los servicios de Internet a todos los usuarios conectados que los quieran
+C) Conecta los servicios de Internet que los usuarios estén utilizando en cada momento
+D) Transmitir ancho de banda superior al que tenemos
+ASNWER: A
+
+¿Cuáles de estos protocolos pertenecen a la capa de aplicación?
+A) HTTPS, HCP, POP3
+B) HHTPS, DNS, HCP
+C) HTTPS, TFTP, CPFT
+D) HTTP, BOOTP, POP
+ANSWER: D
+
+¿Cuál de estas es una función de la capa de aplicación?
+A) Sincronizar las aplicaciones
+B) Crear procesos para recuperar datos
+C) Conectar aplicaciones a redes de conexiones de datos
+D) Conecta los servicios de Internet que los usuarios estén utilizando en cada momento
+ASNWER: A
+
+¿De qué se encarga el protocolo Telnet?
+A) Da acceso remoto a servidores y dispositivos de red
+B) Da permisos a servidores y direcciones de red
+C) Da permisos a usuarios dentro de las aplicaciones
+D) Ninguna es correcta
+ASWER: A
+
+La capa de aplicación también se conoce cómo
+A) Capa 2
+B) Capa de conexión
+C) Capa 7
+D) Capa 5
+ANSWER: C
+
+El protocolo IMAP se encarga de
+A) Conectar aplicaciones a redes de conexiones de datos
+B) Recuperar datos del usuario afectado
+C) La transferencia de archivos sin conexión
+D) Ninguna respuesta es correcta
+ASNWER: D
+
+¿Qué protocolo se utiliza para la transferencia interactiva de archivos entre sistemas?
+A) UTP
+B) FTP
+C) TCP
+D) POP
+ANSWER: B
+
+¿Cuál es el protocolo de transferencia de hipertexto?
+A) FTPS
+B) TPS
+C) HTTP
+D) HTTPS
+ANSWER: C
+
+¿Cuál es la función del protocolo TFTP?
+A) Conectar aplicaciones a redes de conexiones de datos
+B) Recuperar datos del usuario afectado
+C) Transferencia interactiva de archivos entre sistemas
+D) Da permisos a usuarios dentro de las aplicaciones
+ANSWER: C
+
+¿Quiénes usan normalmente el protocolo POP?
+A) Routers remotos de servicio directo
+B) Clientes de correo electrónico
+C) Servidores web
+D) Ninguna de las anteriores
+ANSWER: B
+
+¿Qué protocolo es un precursor al protocolo DHCP?
+A) HTTPS
+B) HTTP
+C) POP
+D) BOOTP
+ANSWER: D
+
+¿Cuál es la función de la capa de aplicación sobre los usuarios?
+A) Conecta a los clientes de correo electrónico siempre que estén conectados
+B) Les ayuda a conectarse a aplicaciones de servidores remotos
+C) Les sirve como ventana para acceder a servicios de red
+D) Ninguna de las anteriores
+ANSWER: C
+
+¿Cuál es una función de la capa de aplicación?
+A) Acceso remoto de archivos
+B) Acceso remoto a impresoras
+C) Administración de red
+D) Todas son correctas
+ANSWER: D
+
+¿La capa de aplicación es el nivel más alto en el modelo OSI?
+A) No, el más alto es la capa de transporte
+B) No, el más alto es la capa de red
+C) Si
+D) No, el más alto es la capa de sesión
+ANSWER: C
+
+¿En qué nos ayuda la capa de aplicación?
+A) Si la instalamos, obtendremos alta velocidad de transmisión de datos
+B) Mueve los datos entre nuestro dispositivo y su servidor
+C) Conecta nuestro dispositivo a la red remota deseada
+D) Permite una conexión segura para transmisión de datos
+ANSWER: B
+
+¿Cuál es la función del protocolo POP3?
+A) Mueve los datos entre nuestro dispositivo y su servidor
+B) Sirve para recuperar nuestro correo electrónico de un servidor de correo electrónico
+C) Conecta a los usuarios al correo electrónico deseado del servidor de red
+D) Ninguna es correcta
+ANSWER: B
+
+¿Qué significa el protocolo NTP?
+A) Nets transfer protocol
+B) Protocolo de tiempo de red
+C) Nodo de transmisión de puertos
+D) Ninguna es correcta
+ANSWER: B
+
+¿Cuál es el protocolo de Secure Shell?
+A) SH
+B) SSH
+C) SS
+D) SLH
+ANSWER: B
+
+¿Cuál es la función del protocolo SSH?
+A) Recuperar datos del usuario afectado
+B) Conecta a los usuarios al correo electrónico deseado del servidor de red
+C) Este encripta todos los datos enviados por la red
+D) Permite una conexión segura para transmisión de datos
+ANSWER: C
+
+¿En qué se basa la capa de aplicación para completar el proceso de comunicación?
+A) En los servidores usados por cada usuario en cada momento
+B) En la conexión remota de la red que estemos usando
+C) En las funciones de las capas inferiores
+D) Ninguna es correcta
+ANSWER: C
+
+¿La capa de aplicación soporta aplicaciones de red indirectas?
+A) Si, solo soporta indirectas
+B) No, solo soporta directas
+C) Sí, soporta indirectas y directas
+D) Ninguna respuesta es correcta
+ANSWER: C
+
+En la capa de aplicación encontramos estas dos formas de procesos de software que dan acceso a la red
+A) Servicios de usuario y protocolos de red
+B) Aplicaciones y servicios
+C) Apps y servidores de enrutamiento
+D) Ninguna es correcta
+ANSWER: B
+
+¿Qué protocolo sirve para el envío de correo desde un ordenador a otro?
+A) POP3
+B) POP
+C) SMTP
+D) HTTP
+ANSWER: C
+
+¿Cuándo se ejecuta el protocolo FTPS?
+A) Cuándo la conexión se ha establecido
+B) Justo antes de establecer una conexión
+C) Durante el proceso de transferencia de datos entre usuario y servidor
+D) Ninguna es correcta
+ANSWER: D
+
+¿Es siempre la capa de aplicación el nivel más cercano a nosotros?
+A) Si, siempre
+B) No, siempre es el más lejano
+C) No, puede ser el más cercano o el más lejano
+D) Sí, pero depende de la velocidad de la conexión
+ANSWER: C
+
+¿Cuál es la función del protocolo DNS?
+A) Se usa para resolver nombres de Internet en direcciones IP
+B) Permite transferencia de archivos entre sesiones
+C) Conecta los servicios de Internet que los usuarios estén utilizando en cada momento
+D) Permitir transferencia de archivos entre cliente y router
+ANSWER: A
+
+¿Cuál de estas frases tiene una relación directa con la capa de aplicación?
+A) Navegadores web
+B) No garantiza la fidelidad de los datos
+C) Medio o medios físicos por los que va a viajar la comunicación
+D) Transmitir el flujo de bits a través del medio
+ANSWER: A
+
+¿Dónde ocurren las solicitudes y respuestas de HTTP para cargar páginas web?
+A) En la capa de aplicación
+B) En la capa 7
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: C
+
+¿Qué ocurre en la capa de aplicación?
+A) Es dónde las aplicaciones pueden acceder a los servicios de red
+B) Es dónde se controla el flujo de transmisión de datos entre servidores
+C) Es dónde se generan transferencias activas entre tramas
+D) Ninguna es correcta
+ANSWER: A
+
+¿La capa 7 realiza la función de interfaz de usuario de las aplicaciones?
+A) Sí, es una de sus funciones dentro de las aplicaciones que cada usuario tiene
+B) No, esa no es una función de la capa de aplicación
+C) Si, además realiza procesos de seguridad para el usuario
+D) No, solo realiza funciones de encriptado de aplicaiones
+ANSWER: B
+
+¿Qué proporciona la capa de aplicación a las aplicaciones de software orientadas al usuario?
+A) Conecta a los usuarios al servidor de red remoto deseado en cada momento
+B) Transferencia interactiva de datos hacia servidores remotos
+C) Apps y software de seguridad
+D) Funcionalidades y servicios
+ANSWER: D
+
+¿Cuáles son los dos protocolos principales de la capa de aplicación?
+A) FTP y HTTPS
+B) HTTP y SMTP
+C) DNS y UTP
+D) Ninguna es correcta
+ANSWER: B
+
+¿Con qué capas interactúa la capa 7?
+A) Con todas las capas inferiores a ella
+B) Solo con la capa 6
+C) Solo con las capas 6 y 5
+D) Solo con la capa de sesión
+ANSWER: B
+
+¿Cuál es la principal responsabilidad de la capa de aplicación?
+A) Gestionar la información de las aplicaciones del cliente
+B) Transferencia interactiva de datos hacia servidores remotos
+C) Transmitir el flujo de bits a través del medio
+D) Ninguna es correcta
+ANSWER: A
+
+¿Qué ofrece la capa de aplicación a los clientes?
+A) Permite resolver nombres de Internet en direcciones IP
+B) Transferencia interactiva de datos hacia servidores remotos
+C) Protocolos de comunicación ya definidos y estandarizados
+D) Todas son correctas
+ANSWER: C
+
+¿Los programas que usamos en nuestro ordenador forman parte de la capa de aplicación?
+A) Sí, son aplicaciones que forman parte de esta capa del modelo OSI
+B) No, forman parte de la capa 8
+C) No, estos programas solo hacen uso de la capa de aplicación
+D) Ninguna es correcta
+ANSWER: C
+
+¿La capa de aplicación establece la disponibilidad de los socios de comunicación deseados?
+A) Si
+B) No
+C) Depende de las necesidades del usuario de cada servidor
+D) Depende de la cercanía entre el usuario y el servidor de red remoto
+ANSWER: A
+
+¿Para qué se emplea el protocolo Bootstrap?
+A) Para asignar una dirección IP, una máscara de subred, un gateway predeterminado y un servidor DNS a un host
+B) Para obtener información de dirección IP durante el arranque
+C) Resolver nombres de internet en direcciones IP
+D) Para transferir archivos que conforman las páginas Web de la World Wide Web
+ANSWER: B
+
+Este protocolo permite a los dispositivos de una red obtener direcciones IP y otra información de un servidor de forma automatizada
+A) HTTP
+B) Telnet
+C) DHCP
+D) Ninguna de las anteriores
+ANSWER: C
+
+¿Para qué se emplea el protocolo trivial de transferencia de archivos?
+A) Para transferir archivos que conforman las páginas Web de la World Wide Web
+B) Para la transferencia activa de archivos sin conexión
+C) Para la transferencia interactiva de archivos entre sistemas
+D) Para la transferencia de mensajes y archivos adjuntos de correo electrónico
+ANSWER: B
+
+¿Cuál es el protocolo de configuración dinámica de host?
+A) Telnet
+B) DHCP
+C) HTTP
+D) HTTPS
+ANSWER: B
+
+¿Dónde hay protocolos no pertenecen a la capa de aplicación?
+A) DHCP, HTTP y Telnet
+B) BOOTP, DNS y FTP
+C) POP, POP3 e IMAP
+D) TFTP, NTP y STP
+ANSWER: D
+
+¿Cuál es el protocolo de emulación de terminal?
+A) POP
+B) FTP
+C) Telnet
+D) DNS
+ANSWER: C
+
+¿Es la mensajería electrónica una función de la capa de aplicación?
+A) No, cómo ejemplo de una función de la capa 7 tenemos el acceso remoto a archivos
+B) Si
+C) No, la mensajería como tal no es una función de la capa de aplicación
+D) Ninguna es correcta
+ANSWER: B
+
+¿Qué protocolos de la capa de aplicación están relacionados con el correo electrónico?
+A) SMTP, POP, IMAP y POP3
+B) SMTP, FTP, HTTP y POP
+C) SSH, NTP, HTTP y BOOTP
+D) Todos están relacionados con el correo electrónico
+ANSWER: A
+
+¿Cuál es el protocolo de oficina de correos?
+A) BOOTP
+B) FTP
+C) SMTP
+D) POP
+ANSWER: D
+
+¿Qué define la capa de aplicación?
+A) Define la transferencia de archivos entre sesiones
+B) La transferencia interactiva de datos hacia servidores remotos
+C) Los protocolos que emplean las aplicaciones para el intercambio de datos
+D) Ninguna es correcta
+ANSWER: C

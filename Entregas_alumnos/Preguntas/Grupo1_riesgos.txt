@@ -1,0 +1,370 @@
+1. ¿Qué indicios deben hacerte sospechar sobre un posible anuncio fraudulento publicado en una página web?
+A) Precios chollo.
+B) Pagina con certificación de seguridad
+C) Pagos mediante PayPal.
+D) Correos sospechosos
+ANSWER: A
+
+2. En redes WiFi públicas...
+A) Nunca intercambies información privada con nadie.
+B) Puedes intercambiar información privada si dispones de un antivirus actualizado.
+C) Puedes intercambiar información privada si inmediatamente después te desconectas de la red.
+D) Nunca debes compartir información privada
+ANSWER: A
+
+3. Recibes este correo de tu banco en el que te solicita confirmar tus datos personales y bancarios de manera urgente, supuestamente por motivos de seguridad...
+A) Te parece un poco raro que el banco te solicite esos datos. Decides contrastar la información directamente con el banco antes de realizar ninguna acción.
+B) Te preocupan mucho los temas de seguridad. Por este motivo, haces clic en el enlace que te  facilitan en el correo para ver qué es exactamente lo que necesitan.
+C) Es cierto que el correo te resulta extraño... pero te puede la curiosidad y haces clic en el enlace.
+D) Aceptas sin dudarlo
+ANSWER: A
+
+4. ¿Es una buena práctica utilizar la misma contraseña para acceder a varios servicios de Internet?
+A) No, es mejor utilizar una contraseña diferente para cada servicio.
+B)  Depende, sólo si la contraseña cumple los requisitos mínimos de seguridad: contienen mayúsculas, minúsculas, números y caracteres especiales.
+C) Si, de esta forma no se te olvida y evitas tener que apuntarla en algún papel o cualquier otro sitio.
+D) Claro que si
+
+ANSWER: A
+
+5. El uso de empresas de envío de dinero instantáneo se debe utilizar para
+A) Realizar compras por Internet, ya que permiten recuperar el dinero en caso de fraude.
+B) Realizar compras por Internet de forma anónima, así evitas tener que facilitar tus datos bancarios al vendedor.
+C) Enviar dinero a personas conocidas, pero nunca para realizar pagos por Internet.
+D) Comprar de forma anonima
+ANSWER: C
+
+6. En qué casos no se recomienda hacer uso de la nube...
+A) Para compartir la información con otras personas.
+B) Para almacenar información sensible (DNI, contraseñas, datos personales en general), ya sea propia o ajena, de tipo personal o corporativo.
+C) Para guardar archivos a modo de copia de seguridad.
+D) Para subir informacion personal.
+ANSWER: B
+
+7. Los smartphones y tablets no se infectan con virus.
+A) Cierto. Una de las principales ventajas de los smartphones y tablets es que no se ven afectados por amenazas informáticas.
+B) Mentira. Los programas maliciosos también afectan a estos dispositivos y por este motivo debemos instalar un antivirus específico.
+C) Mentira. Los programas maliciosos también afectan a estos dispositivos aunque a día de hoy, no existen herramientas antivirus para estos dispositivos.
+D) Claro que no
+ANSWER: B
+
+8. Las redes sociales son un servicio que te permiten estar en contacto con otras personas, por eso…
+A) Compartes todo lo que haces con todos tus contactos, para eso es una red social.
+B) Eres cuidadoso con la información que compartes y tienes bien configurados los niveles de privacidad. No te apetece que tu vida se convierta en un "Gran Hermano".
+C) Aceptas todas las solicitudes de amistad que recibes, te gusta tener muchos amigos, así tus publicaciones tienen más éxito (más "me gustas", compartidos, etc.).
+D) Puedes compartir información privada.
+ANSWER: B
+
+9. Un virus informático es capaz de borrar las fotos almacenadas en un ordenador.
+A) Mentira, eso es un bulo que circula para meternos miedo a los usuarios. Los virus lo que hacen es estropear el ordenador impidiendo que funcione correctamente.
+B) Sí, algunos virus pueden provocar la destrucción o borrado de los archivos y quedar irrecuperables.
+C) Sí, aunque una vez que eliminamos el virus del ordenador podemos recuperar toda la información sin problemas.
+D) Solo los videos
+ANSWER: B
+
+10. ¿Es lo mismo un bulo que un hoax?
+A) Sí, son cadenas formadas por envíos y reenvíos de correos electrónicos que generalmente difunden noticias falsas o rumores con el objetivo de obtener direcciones de correo para generar correo basura.
+B) No, los hoax son correos electrónicos no solicitados, principalmente de tipo publicitario y que saturan los buzones de los usuarios.
+C) No, un hoax también conocido como scam, es un correo electrónico que pretende engañar al destinatario bajo cualquier excusa con un objetivo claro: robar su dinero.
+D) Si, es un troyano.
+ANSWER: A
+
+11. Todas las claves de acceso a servicios de Internet son de interés para los delincuentes.
+A) Verdadero
+B) Falso
+C) Solo algunas importantes
+D) Solo las cuentas bancarias
+ANSWER: A
+
+12. Como NO debe estar la central de la instalación de una red física:
+A) Frio y que ventile
+B) Con acceso restringido
+C) Con mucha humedad
+D)  Centralizado
+ANSWER: C
+
+
+
+13. ¿Que es el sistema 2FA (Verificación en dos pasos)?
+A) Un sistema de encriptación de datos
+B) Un método de seguridad para proteger el acceso a una cuenta.
+C) Un tipo de conector
+D) Un tipo de ataque cibernético.
+ANSWER: B
+
+14. ¿Qué es un ataque de "fuerza bruta"?
+A) Un ataque en el que el atacante intenta adivinar la contraseña de un usuario.
+B) Un ataque en el que el atacante envía una gran cantidad de paquetes a un sistema para colapsarlo.
+C) Un ataque en el que el atacante engaña a un usuario para que revele información sensible.
+D) Un ataque en el que el atacante utiliza malware para robar información del usuario.
+Answer: A
+
+15. ¿Cómo debe de ser una contraseña para que sea segura?
+A) Solo números
+B) Solo letras en minuscula
+C) Una combinación de letras en mayúscula y minúscula
+D) Una combinación de letras caracteres especiales y números
+ANSWER: D
+
+16. ¿Cuáles son los principales riesgos que corres al usar internet de forma incorrecta?
+A) Daño de información.
+B) Robo de datos personales.
+C) Problemoas psicologicos
+D) Todas las anteriores.
+
+ANSWER: D
+
+17. ¿Cuál es la mejor manera de mantener una buena postura mientras se utiliza un ordenador?
+A) Tener una silla más alta que la mesa en la que se trabaja
+B) Utilizar silla ajustable con reposabrazos
+C) Extender los brazos lo máximo posible
+D) Tener una mesa mucho más alta que la silla.
+ANSWER: B
+
+18. ¿Que se debe de hacer con los residuos informáticos?
+A) Quemarlos en un lugar seguro
+B) Tirarlos a la basura
+C) Llevarlos a un punto limpio
+D) Tirarlos al contenedor de reciclaje amarillo
+ANSWER: C
+
+18 ¿Qué es el "phishing"?
+A) Un ataque en el que el atacante envía correos electrónicos maliciosos para obtener información confidencial.
+B) Un ataque en el que el atacante explota una vulnerabilidad en un sistema para obtener acceso no autorizado.
+C) Un ataque en el que el atacante envía paquetes a un sistema para sobrecargarlo.
+D) Un ataque en el que el atacante roba información de una red inalámbrica no segura.
+Answer: A
+
+19 ¿Qué es un "firewall"?
+A) Un software o hardware que se utiliza para proteger una red al filtrar el tráfico de red.
+B) Un software que se utiliza para detectar y eliminar malware de un sistema.
+C) Un software que se utiliza para cifrar el tráfico de red.
+D) Un software que se utiliza para proteger los datos almacenados en una red.
+
+Answer: A
+
+20 ¿Qué es un "honeypot"?
+
+A) Un sistema diseñado para atraer a los atacantes y registrar sus actividades.
+B) Un software que se utiliza para detectar y eliminar malware de un sistema.
+C) Un software que se utiliza para cifrar el tráfico de red.
+D) Un software que se utiliza para proteger los datos almacenados en una red.
+
+Answer: A
+
+21. ¿Cuál es la mejor manera de evitar dolor en el cuello usando usando un ordenador?
+A) Tener el monitor bien ajustado
+B) Mover la cabeza muy a menudo
+C) Poner el teclado en una superficie adecuada
+D) Agachar la cabeza mientras se utiliza el ordenador
+ANSWER: B
+
+22. ¿Cuál de las siguientes opciones es una práctica importante para mantener una red física en buen estado?
+A) Cambiar regularmente las contraseñas del router
+B) Mantener actualizado el software antivirus en todos los dispositivos conectados
+C) Hacer copias de seguridad regularmente de los datos de la red
+D) Inspeccionar y limpiar los componentes físicos de la red, como cables y conectores
+ANSWER: D
+
+23 ¿Qué es la latencia en una red?
+A) La capacidad máxima de transmisión de datos.
+B) La distancia entre dos dispositivos
+C) La diferencia de tiempo entre que se solicita y se recibe un paquete.
+D) La frecuencia con la que se transmiten los datos
+ANSWER: C
+
+24 ¿Qué puede causar que una señal sea débil en una red inalámbrica?
+
+A) Que haya muchos dispositivos conectados a la vez.
+B) Que haya un router mal colocado.
+C) Que el software este desactualizado.
+D) Que no se haya “comprado” la suficiente velocidad de internet
+ANSWER: B
+
+25 ¿Cuál es la razón más importante por la que hay que tener el software de un dispositivo actualizado?
+A) Para asegurar que el dispositivo funcione bien.
+B) Para mantener el rendimiento
+C) Para corregir problemas de seguridad
+D) Para ver las nuevas novedades
+ANSWER: B
+
+26. ¿Cómo evitar tener la vista cansada mientras se trabaja con un ordenador?
+A) Tener el brillo muy alto
+B) Bajar el nivel de contraste
+C) Tener mucha luz a tu alrededor
+D) Hacer pausas cortas cada 20/30 minutos
+ANSWER: D
+
+27. ¿Qué es un troyano?
+A) Un caballo de madera
+B) Un archivo que se hace pasar por legitimo para infectar un ordenador al ser instalado
+C) Una forma de encapsular paquetes
+D) Un protocolo de la capa de aplicación
+ANSWER: B
+
+28. ¿Cuántas capas tiene el modelo OSI?
+A) 5
+B) 9
+C) 4
+D) 7
+ANSWER: D
+
+29 ¿Cuántas capas tiene el modelo TCP/IP?
+A) 7
+B) 5
+C) 3
+D) 8
+ANSWER: B
+
+30 ¿Qué es un "proxy"?
+A) Un servidor intermedio que actúa como intermediario entre los clientes y los servidores.
+B) Un software que se utiliza para detectar y eliminar malware de un sistema.
+C) Un software que se utiliza para cifrar el tráfico de red.
+D) Un software que se utiliza para proteger los datos almacenados en una red.
+ANSWR: A
+
+31 ¿Qué es el "spoofing"?
+A) Un ataque en el que el atacante falsifica su dirección IP para engañar a un sistema para que piense que está comunicándose con un usuario legítimo.
+B) Un ataque en el que el atacante utiliza malware para robar información del usuario.
+C) Un ataque en el que el atacante envía correos electrónicos maliciosos para obtener información confidencial.
+D) Un ataque en el que el atacante explota una vulnerabilidad en un sistema para obtener acceso no autorizado.
+Answer: A
+
+32 ¿Qué es un "protocolo seguro de transferencia de hipertexto" (HTTPS)?
+A) Un protocolo de comunicación seguro que se utiliza para enviar y recibir información en la web.
+B) Un protocolo de comunicación que se utiliza para conectarse a redes inalámbricas seguras.
+C) Un protocolo de comunicación que se utiliza para enviar correos electrónicos cifrados.
+D) Un protocolo de comunicación que se utiliza para proteger los datos almacenados en una red.
+ANSWER: A
+
+33 ¿Qué es un "ataque de denegación de servicio" (DDoS)?
+A) Un ataque en el que el atacante envía una gran cantidad de paquetes a un sistema para colapsarlo.
+B) Un ataque en el que el atacante intenta adivinar la contraseña de un usuario.
+C) Un ataque en el que el atacante utiliza malware para robar información del usuario.
+D) Un ataque en el que el atacante engaña a un usuario para que revele información sensible.
+Answer: A
+
+36 ¿Qué es un "certificado digital"?
+A) Un documento electrónico que se utiliza para autenticar la identidad de un usuario en línea.
+B) Un software que se utiliza para detectar y eliminar malware de un sistema.
+C) Un software que se utiliza para cifrar el tráfico de red.
+D) Un software que se utiliza para proteger los datos almacenados en una red.
+Answer: A
+
+35 ¿Qué es un "intruso"?
+A) Una persona o entidad que intenta acceder a un sistema o red sin autorización.
+B) Una persona o entidad que utiliza malware para robar información de un sistema o red.
+C) Una persona o entidad que utiliza técnicas de ingeniería social para engañar a un usuario para que revele información confidencial.
+D) Una persona o entidad que utiliza una red inalámbrica no segura para robar información.
+Answer: A
+
+36 ¿Qué es un "escáner de puertos"?
+A) Una herramienta utilizada para buscar puertos abiertos en un sistema.
+B) Una herramienta utilizada para detectar y eliminar malware de un sistema.
+C) Una herramienta utilizada para cifrar el tráfico de red.
+D) Una herramienta utilizada para proteger los datos almacenados en una red.
+
+Answer: A
+
+37 ¿Qué es un "VPN"?
+A) Una red privada virtual que se utiliza para proteger el tráfico de red de los usuarios.
+B) Un software que se utiliza para detectar y eliminar malware de un sistema.
+C) Un software que se utiliza para cifrar el tráfico de red.
+D) Un software que se utiliza para proteger los datos almacenados en una red.
+Answer: A
+
+38 ¿Qué es un "cifrado"?
+
+A) Un proceso utilizado para proteger los datos mediante la conversión de información en un código secreto.
+
+B) Un proceso utilizado para detectar y eliminar malware de un sistema.
+
+C) Un proceso utilizado para proteger los datos almacenados en una red.
+
+D) Un proceso utilizado para proteger el tráfico de red.
+
+Answer: a
+
+39 ¿Qué es un "ataque de intermediario"?
+A) Un ataque en el que el atacante se intercala entre dos partes para obtener información confidencial.
+B) Un ataque en el que el atacante intenta adivinar la contraseña de un usuario.
+C) Un ataque en el que el atacante utiliza malware para robar información del usuario.
+D) Un ataque en el que el atacante engaña a un usuario para que revele información sensible.
+Answer: A
+
+40) ¿Cuál es el principal objetivo del mantenimiento de una red?
+A) Reducir el tiempo de inactividad
+B) Incrementar el costo de operación
+C) Mejorar la velocidad de conexión
+D) Todas las anteriores
+Answer: A
+
+41) ¿Qué es una auditoría de red?
+A) A Un proceso para identificar problemas en la red
+B) Una revisión de los componentes de la red
+C) Una evaluación del rendimiento de la red
+D) Todas las anteriores
+Answer: B
+
+42) ¿Cuál es la mejor manera de realizar un mantenimiento preventivo en una red?
+A) Esperar a que surjan problemas
+B) Realizar un mantenimiento completo una vez al año
+C) Realizar tareas de mantenimiento en un programa regular
+D) Todas las anteriores
+Answer: C
+
+43) ¿Qué es una red de área local (LAN)
+A) Una red que cubre una ciudad o región
+B) Una red que cubre un edificio o campus
+C) Una red que cubre un país entero
+D) Todas las anteriores
+Answer: B
+
+44) ¿Qué es una red de área amplia (WAN)
+A) Una red que cubre una ciudad o región
+B) Una red que cubre un edificio o campus
+C) Una red que cubre un país entero
+D) Todas las anteriores
+Answer: C
+
+45) ¿Cuál de las siguientes opciones es una razón común por la cual una red podría sufrir una interrupción?
+A) Problemas de hardware
+B) Problemas de software
+C) Problemas de seguridad
+D) Todas las anteriores
+Answer: D
+
+46) ¿Qué es un plan de recuperación ante desastres?
+A) Un plan para proteger la red contra posibles desastres
+B) Un plan para recuperar la red después de un desastre
+C) Un plan para prevenir desastres en la red
+D) Todas las anteriores
+Answer: B
+
+47) ¿Cuál es el mejor método para solucionar problemas en una red?
+A) Adivinar cuál es el problema
+B) Reiniciar el equipo
+C) Usar herramientas de diagnóstico de red
+D) Todas las anteriores
+Answer: C
+
+48) ¿Qué es una dirección IP?
+A) Un identificador único para un dispositivo en una red
+B) Un identificador único para una persona en una red
+C) Un identificador único para una aplicación en una red
+D) Todas las anteriores
+Answer: A
+
+49) ¿Qué es un firewall?
+A) A Un dispositivo de seguridad que ayuda a proteger la red
+B) Un dispositivo que mejora el rendimiento de la red
+C) Un dispositivo que mejora la velocidad de la red
+D) Todas las anteriores
+Answer: A
+
+50) ¿Qué es un switch de red?
+A) Un dispositivo que conecta varios dispositivos en una red
+B) Un dispositivo que mejora el rendimiento de la red
+C) Un dispositivo que mejora la velocidad de la red
+D) Todas las anteriores
+Answer: A

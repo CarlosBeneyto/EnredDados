@@ -1,0 +1,348 @@
+1. ¿En qué capa del modelo Osi reside la capa de red?
+A. Capa 3.
+B. Capa 2.
+C. Capa 6.
+D. Capa 4.
+ANSWER: A
+
+2. ¿Qué cuatro procesos realiza la capa de red para proporcionar transportes integrales?
+A. Direccionamiento de claves, desencapsulamiento,enrutamiento y encapsulamiento.
+B. Direccionamiento IP, desencapsulamiento,routing y encapsulamiento.
+C. Direccionamiento de terminales, encapsulamiento, routing y desencapsulamiento.
+D. Direccionamiento de red, encapsulamiento, enrutamiento y desencapsulamiento.
+ANSWER: C
+
+3. ¿Qué otro nombre recibe la capa de red?
+A. Capa de conexión.
+B. Capa de paquete.
+C. Capa de enlace.
+D. Capa de segmento.
+ANSWER: B
+
+4. ¿Cómo deben de ser las direcciones IP?
+A. Únicas a efectos de identificación.
+B. Únicas a efectos de enrutamiento.
+C. Únicas a efectos de direccionamiento.
+D. Únicas a efectos de entablado IP.
+ANSWER: A
+5. ¿Qué es el routing?
+A. Capa de enlace que brinca servicios para dirigir paquetes a otras redes.
+B. Capa de red que brinca servicios aleatorios para dirigir paquetes a otras redes. 
+C. Capa de red que brinca servicios para dirigir paquetes a otras redes. 
+D. Capa de red que brinda servicios para dirirgir de manera firme los paquetes que llegan a su posición. 
+ANSWER: C
+
+6. ¿Cuáles son los protocolos de la capa de red que se implementan con mayor frecuencia?
+A. ANSI.
+B. ITU.
+C. IPv6.
+D. IPv4 e IPv6.
+ANSWER: D
+
+7. ¿Cuál de estas características básicas de una dirección IP es incorrecta?
+A. Sin conexión.
+B. Mejor esfuerzo.
+C. Independiente de los medios.
+D. Mejor conexión.
+ANSWER: D
+
+8. ¿Cómo se mantiene el encabezado IP?
+A. Cambia desde el origen hasta el destino.
+B. Va cambiando de manera intermitente desde el origen hasta el destino.
+C. Se mantiene igual desde el origen hasta el destino.
+D. No hace nada. 
+ANSWER: C
+
+9. ¿Para qué utilizan los routers el encabezado de paquetes de capa de red?
+A. Encabezado IP.
+B. Routing.
+C. Direccionamiento IP.
+D. Tabla de routing.
+ANSWER: B
+
+10. ¿Cómo se envía un paquete IP al destino?
+A. Sin establecer previamente una conexión.
+B. Estableciendo conexión previamente.
+C. Estableciendo conexión en el momento.
+D. Todas son correctas.
+ANSWER: A
+
+11. ¿Para qué no fue diseñado el IP?
+A. Para orientar el flujo de paquetes.
+B. Para la trama de paquetes.
+C. Para rastrear ni administrar el flujo de paquetes.
+D. Para direccionar los paquetes.
+ANSWER: C
+
+12. Cuando decimos que el IP es un protocolo sin conexión nos referimos a:
+A. No se genera una conexión completa exclusiva antes de enviar los datos.
+B. No se conecta a internet de manera directa.
+C. No se genera una conexión parcial antes de enviar los datos.
+D. No se genera una dirección IP antes de enviar los datos.
+ANSWER: A
+
+13. La IP se considera_______por que no garantiza que se reciban todos los paquetes que se envían
+A. Alternativa.
+B. No fiable.
+C. Libre.
+D. Fiable.
+ANSWER: B
+
+14. ¿Qué ocurre si en el destino faltan paquetes o no se encuentran el orden correcto?
+A. Los protocolos de las capas inferiores deben solucionar los problemas.
+B. Los protocolos de la capa de destino se ocupa del problema.
+C. Los protocolos de capas superiores deben solucionar los problemas.
+D. Los protocolos de la capa de salida debe solucionar el problema.
+ANSWER: C
+
+15. El IP funciona de forma_____de los medios que transportan los datos en las capas más bajas de la pila de protocolos
+A. Independiente.
+B. Precisa.
+C. Dinámica.
+D. Todas son correctas.
+ANSWER: A
+
+16. ¿Cómo se denomina al tamaño máximo de PDU que puede transportarse?
+A. MUT.
+B. TMU.
+C. MTU.
+D. UMT.
+ANSWER: C
+
+17. La capa de____informa a MTU a la capa de ____
+A. Enlace de datos y transporte.
+B. Red y aplicación.
+C. Red y enlace de datos.
+D. Enlace de datos y red.
+ANSWER: D
+
+18. ¿De qué consta el encabezado del paquete IPv4?
+A. Bits.
+B. Números binarios.
+C. Bytes.
+D. Bits y bytes.
+ANSWER: B
+
+19. ¿De estas opciones cuál no és un apartado importante de un encabezado IPv4?
+A. Versión.
+B. Servicios diferenciados.
+C. Tiempo de duración.
+D. Servicios de duración.
+ANSWER: D
+
+20. ¿Cuáles son las limitaciones de IPv4?
+A. Agotamiento de las direcciones MAC, expansión de la tabla de routing de internet y falta de conectividad integral. 
+B. Agotamiento de las direcciones IP, expansión de la tabla de routing de Ethernet y falta de conectividad integral.
+C. Agotamiento de las direcciones IP, expansión de la tabla de routing de internet y falta de conectividad integral. 
+D. Agotamiento de las direcciones IP, expansión de la tabla de routing de FastEthernet t falta de conectividad integral. 
+ANSWER: C
+
+21. ¿De qué no consta el agotamiento de direcciones IP?
+A. IPv4 tiene direcciones IPv4 públicas únicas disponibles.
+B. El aumento de dispositivos nuevos habilitados para IP aumentó la necesidad.
+C. Todas son correctas.
+D. Ninguna és correcta.
+ANSWER: D
+
+22. ¿Cuáles son las ventajas de IPv6 comparada con IPv4?.
+A. Mayor espacio de direcciones mejor manejo de paquetes.
+B. Eliminación de necesidad de NAT.
+C. Todas son correctas.
+D. Ninguna es correcta.
+ANSWER: C
+
+23. ¿De qué consta el mejor manejo de paquetes IPv6?
+A. Menos campos que en IPv4.
+B. Más campos que en IPv4.
+C. Mismos campos en ambos.
+D. La A y la B son correctas.
+ANSWER: A
+
+24. El encabezado de___ es más simple que el de___.
+A. IPv4 e IPv6.
+B. IPv6 e IPv4.
+C. La trama y el segmento.
+D. Ninguna es correcta.
+ANSWER: B
+
+25. ¿Cuál de estas opciones no es una ventaja del uso del encabezado simplificado de IPv6 frente al de IPv4?
+A. Manejo eficaz de los paquetes mayor eficacia del routing.
+B. Configuración automática de direcciones .
+C. No es necesario la traducción entre direcciones publicas y privadas.
+D. És necesario la utilización de direcciones publicas y privadas.
+ANSWER: D
+
+26. ¿De estas opciones cual no es campo del encabezado de IPv6?
+A. Versión.
+B. Clase de flujo.
+C. Clase de trafico.
+D. Etiqueta de flujo.
+ANSWER: B
+
+27. ¿A dónde no se puede enviar los paquetes el host?
+A. A si mismo.
+B. Host local.
+C. Host remoto.
+D. Host alterno.
+ANSWER: D
+
+28. ¿Qué és un gateway predeterminado?
+A. Dispositivo que puede enrutar el trafico.
+B. Dispositivo de redes alternas que se encarga de enrutar el trafico en las tramas.
+C. Dispositivo de red que que puede enrutar el trafico a otras redes. 
+D. Dispositivo de red que puede alternar el trafico a otras redes.
+ANSWER: C
+	
+29. ¿Quién se encarga de enrutar el trafico fuera de la red de area local?
+A. Encabezado Ip.
+B. Tráfico de flujos.
+C. Router.
+D. Trama.
+ANSWER: C
+
+30. ¿Mediante que herramienta el gateway sabe donde enviar el paquete?
+A. Tabla de routing.
+B. Tabla de datos.
+C. Tabla de gateway.
+D. Tabla predeterminada.
+ANSWER: A
+
+31.  Él___ _________ no necesita saber donde enviar el paquete que no sea el gateway predeterminado o el router.
+A. Host externo.
+B. Host emisor.
+C. Host alojado.
+D. Host remitente.
+ANSWER: B
+
+32. ¿Qué elemento incluye una tabla de routing de un host?
+A. Gateway externo.
+B. Host emisor.
+C. Trama.
+D. Gateway predeterminado.
+ANSWER: D
+
+33. ¿Qué genera la configuración de un gateway predeterminado?
+A. Ruta predeterminada en la tabla de routing del host.
+B. Ruta predeterminada de la tabla de routing del host.
+C. Ruta de host predeterminada en la tabala de host.
+D. Ruta de host determinada por el host.
+ANSWER: A
+
+34. ¿Con qué comandos se puede mostrar la tabla de routing en windows?
+A. rtp y net-r.
+B. route print y netsat -r.
+C. print route y -r netsat.
+D. route -r y netsat print.
+ANSWER: B
+
+35. ¿Qué son las direcciones MAC?
+A. Direcciones de acceso al medio.
+B. Direcciones de control de acceso al medio.
+C. Direcciones de acceso al medio controlado.
+D. Direcciones de control al medio accesible.
+ANSWER: A
+
+36. ¿Qué no se incluye en la tabla de routing?
+A. Rutas conectadas directamente.
+B. Rutas remotas.
+C. Rutas aleatorias.
+D. Rutas predeterminadas.
+ANSWER: C
+
+37. ¿Quá es una ruta predeterminada?
+A. Ruta que recibe el paquete cuando existe tabla de routing.
+B. Ruta que no recibe el paquete cuando existe tabla de routing.
+C. Ruta que recibe el paquete cuando no existe tabla de routing.
+D. Ruta que no recibe el paquete cuando no existe tabla de routing.
+ANSWER: C
+
+38. ¿Un router cuándo tiene que consultar con la tabla de routing para determinar donde reenviar el paquete?
+A. Cuando recibe un paquete desde una red remota.
+B. Cuando recibe un paquete desde una red local.
+C. Cuando recibe un paquete destinado de una red local.
+D. Cuando recibe un paquete destinado de un red remota.
+ANSWER: D
+
+39. ¿Qué comando utiliza un router de cisco para visualizar la tabla de routing de IPv4?
+A. view route ip.
+B. show ip route.
+C. show route ip.
+D. view ip route.
+ANSWER: B
+
+40. ¿Qué ocurre cuando hay una coincidencia mientras el router evalúa el encabezado de un paquete entrante para establecer la red de destino?
+A. Se reenvía el paquete mediante el uso de la información especifica de la tabla de routing. 
+B. Se reenvía el paquete mediante el uso de la información especifica del router.
+C. No ocurre nada.
+D. Se reenvía el paquete mediante el uso de la información especifa de la trama del encabezado.
+ANSWER: A
+
+41. ¿Cuál de estas opciones no se muestra en una tabla de routing de IPv4?
+A. Rutas conectadas directamente y remotas.
+B. La forma en la que se obtuvo en cada ruta.
+C. La fecha de creación de la ruta .
+D. La interfaz que se usa para alcanzar la red. 
+ANSWER: C
+
+42. ¿Cuándo la interfaz del router esta configurada y activada se crean de forma automática dos entradas cuales son?
+A. C y L.
+B. C:  y L:.
+C. C y D.
+D. C:  y D:.
+ANSWER: A
+
+43. Cuando un paquete llega a un router destinado a una red_____, enviará el paquete a la dirección de siguiente salto correspondiente a la dirección de red de destino en su tabla de routing.
+A. Alterna.
+B. Alojada.
+C. Remota.
+D. Interna.
+ANSWER: C
+
+44. ¿Qué no necesitan los routers para su funcionamiento?
+A. CPU.
+B. Sistema operativo.
+C. Memoria.
+D. Fuente de alimentación.
+ANSWER: D
+
+45. ¿En qué se centra la certificación CCNA?
+A. Routers de comunidad.
+B. Routers de sucursal.
+C. Routers de LAN.
+D. Routers de WAN.
+ANSWER: B
+
+46. ¿Cuál de  estas memorias no utiliza un router?
+A. RAM.
+B. ROM.
+C. NBRAM.
+D. Flash.
+ANSWER: C
+
+47. ¿Cuáles de estos componentes hardware no forman parte de un router?
+A. Fuente de alimentación.
+B. Ventilador de refrigeración.
+C. SDRAM.
+D. RAM volátil.
+ANSWER: D
+
+48. ¿Cuál es uno de los puertos de un router?
+A. Ranuras para tarjetas de interfaz WAN de baja velocidad.
+B. RJ45 auxiliar.
+C. Puerto de red.
+D. 100GigabitEthernet.
+ANSWER: B
+
+49. ¿En qué se pueden clasificar las conexiones de un router cisco?
+A. Interfaces de router banda y puertos de eliminación.
+B. Interfaces de router banda y puertos de enrutamiento.
+C. Interfaces de router banda y puertos de clasificación.
+D. Interfaces de router banda y puertos de administración.
+ANSWER: D
+	
+50. ¿Cuándo se modifica la configuración de ejecución?
+A. Cuando el administrador cambia ajustes.
+B. Cuando el administrador configura el router.
+C. Cuando el administrador realiza cambios.
+D. Cuando el administrador cambia de router.
+ANSWER: C

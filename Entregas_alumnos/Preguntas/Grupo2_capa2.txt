@@ -1,0 +1,349 @@
+1. ¿Qué función de la capa de enlace se encarga de evitar la saturación del receptor?
+A. Control de protocolos.
+B. Control de acceso al medio.
+C. Control de flujo.
+D. Control de errores.
+ANSWER: C
+
+2. ¿Qué función de la capa de enlace se encarga de establecer los turnos de transmisión para evitar o minimizar el número colisiones?
+A. Direccionamiento físico.
+B. Control de errores.
+C. Control de acceso al medio.
+D. Tramado.
+ANSWER: C
+
+3. ¿Qué función de la capa de enlace se encarga de detectar y solucionar los errores que se generan por el medio de transmisión?
+A. Control de errores.
+B. Control de protocolos.
+C. Control de flujo.
+D. Control de acceso al medio.
+ANSWER: C
+
+4. ¿Qué función de la capa de enlace se encarga de permitir la identificación de equipos en una red local?
+A. Control de errores.
+B. Tramado.
+C. Control de flujo.
+D. Direccionamiento físico.
+ANSWER: D
+
+5. ¿Qué subnivel se relaciona con la capa superior?
+A. Subnivel MAC.
+B. Subnivel UTP.
+C. Subnivel LLC.
+D. Subnivel STP.
+ANSWER: C
+
+6. ¿Qué subnivel se relaciona con la capa inferior?
+A. Subnivel LLC.
+B. Subnivel UTP.
+C. Subnivel STP.
+D. Subnivel MAC.
+ANSWER: D
+
+7. ¿Qué tipo de errores puede tener el control de errores en la capa de enlace?
+A. Error de bit, Error de hexadecimal.
+B. Error de ráfaga, Error de computación.
+C. Error de hexadecimal, Error de computación.
+D. Error de bit, Error ráfaga.
+ANSWER: D
+
+8. ¿Cuál es la estructura básica de una trama?
+A. Cabecera +Control +Datos.
+B. Datos +Cola +Cabecera.
+C. Cabecera +Datos +Cola.
+D. Cabecera +Cola +Datos.
+ANSWER: C
+
+9. ¿Qué tipos de tramas son las más comunes en el protocolo de nivel de enlace?
+A. Ethernet, PPP para redes LAN.
+B. 802.11 para redes WAN, LAN para redes 803.12.
+C. LAN para redes 803.12, WAN.
+D. PPP para redes WAN, Ethernet, 802.11 para redes LAN.
+ANSWER: D
+
+10. ¿En qué redes se utiliza el PPP?
+A. Cable de oro, Bluetooth, Wi-Max.
+B. Telefonía móvil, Cable de cobre.
+C. Cable serie, líneas telefónicas, telefonía móvil, Wi-Fi y fibra óptica. 
+D. FCS, Cable de plata.
+ANSWER: C
+
+11. Dime el nombre completo del subnivel MAC.
+A. Control de acceso al medio.
+B. Control anterior de comisiones.
+C. Control de acceso al momento.
+D. Control de acceso a los medios.
+ANSWER: A
+
+12. Dime el nombre completo del subnivel LLC.
+A. Control de enlace lógico.
+B. Lector led común.
+C. Control de enlace lirico.
+D. Control de enlace locales.
+ANSWER: A
+
+13. ¿Qué comprobación es más conocida por comprobación de paridad y se encarga de un mecanismo más simple para detección de errores?
+A. Comprobación de Redundancia Anchogitudinal ACR.
+B. Comprobación de Redundancia Cíclica CRC.
+C. Comprobación de Redundancia Vertical VCR.
+D. Comprobación de Redundancia Longitudinal LCR.
+ANSWER: C
+
+14. ¿Qué comprobación es más conocida por organizar los bits en forma de tabla?
+A. Comprobación de Redundancia Redundancia Cíclica CRC.
+B. Comprobación de Redundancia Vertical VRC.
+C. Comprobación de Redundancia Anchogitudinal ACR.
+D. Comprobación de Redundancia Longitudinal LCR.
+ANSWER: D
+
+15. ¿Qué comprobación es más conocida por ser el método más eficaz en la detección de errores y que se base en la división binaria?
+A. Comprobación de Redundancia Redundancia Anchogitudinal ACR.
+B. Comprobación de Redundancia Cíclica CRC.
+C. Comprobación de Redundancia Longitudinal LCR.
+D. Comprobación de Redundancia Vertical VCR.
+ANSWER: B
+
+16. ¿Qué Estándares tiene la capa de enlace?
+A. ITA, ISA, ANSU, FATI.
+B. ITE, UGT, SSA, VINI.
+C. IEA, ESO, ITUS, ALO.
+D. IEE, ANSI, ITU, ISO.
+ANSWER: D
+
+17. ¿Qué hace el Framing?
+A. El Framing es el responsable de las comunicaciones de NIC a NIC dentro de la misma red.
+B. El Framing se encarga de proporcionar el direccionamiento utilizado en el transporte de una trama a través de un medio local compartido.
+C. El Framing se divide la secuencia en agrupaciones descifrables, con información de control insertada en el encabezado y el tráiler como valores en diferentes campos.
+D. Todas son correctas.
+ANSWER: C
+
+18. ¿Qué se incluye en los campos de trama?
+A. Indicadores de inicio y finalización de los bits, Direccionamiento, Tipo de conexión.
+B. Direccionamiento de bits, Control, Direccionamiento.
+C. Datos, Indicadores de conexión, Tipo de bits.
+D. Indicadores de inicio y finalización de trama, Direccionamiento, Tipo, Control, Datos, Detección de errores.
+ANSWER: D
+
+19. ¿Qué se incluye en el formato de trama PPP para redes WAN?
+A. Indicador de los protocolos, Control de datos, Datos FCS.
+B. Indicador, Dirección, Control, Protocolo, Datos, FCS.
+C. Protocolo UTP, Control del protocolo, Datos del STP, Direccionamiento del UTP.
+D. Todas son correctas.
+ANSWER: B
+
+20. El ____________ es un procedimiento que le indica al emisor cuantos datos puede transmitir hasta recibir un reconocimiento del receptor. 
+A. Comprobación de redundancia vertical VCR.
+B. Comprobación de redundancia cíclica CRC.
+C. Control de flujo.
+D. Control de errores.
+ANSWER: C
+
+21. La _______________ más conocida por comprobación de paridad, es el mecanismo más simple para detección de errores.
+A. Comprobación de redundancia vertical VCR.
+B. Comprobación de redundancia anchogitudinal ACR.
+C. Comprobación de redundancia longitudinal LCR.
+D. Comprobación de redundancia cíclica CRC.
+ANSWER: A
+
+22. La __________________ es el método más eficaz en la detección de errores y se basa en la división binaria.
+A. Comprobación de redundancia vertical VCR.
+B. Comprobación de redundancia longitudinal LCR.
+C. Comprobación de redundancia cíclica CRC.
+D. Comprobación de redundancia anchogitudinal ACR.
+ANSWER: C
+
+23. La _________________ es un identificador de 6 parejas de dígitos hexadecimales, que corresponde de forma única a una tarjeta o adaptador de red.
+A. Direccionamiento analógico.
+B. Direccionamiento digital.
+C. Direccionamiento físico.
+D. Comprobación de redundancia cíclica CRC.
+ANSWER: C
+
+24. El ________________, proporciona servicios al nivel de red y está implementado en software, en lo que habitualmente conocemos como el driver o controlador de la tarjeta de red.
+A. Subnivel MEC.
+B. Subnivel LLC.
+C. Subnivel LAC.
+D. Subnivel MAC.
+ANSWER: B
+
+25. El _____________________, solicita servicios al nivel físico y está implementado en el hardware de la tarjeta de red.
+A. Subnivel MAC.
+B. Subnivel MEC.
+C. Subnivel LLC.
+D. Subnivel LAC.
+ANSWER: A
+
+26. El _________________, se encarga de establecer una comunicación directa entre dos equipos.
+A. NCP.
+B. PPP.
+C. LCP.
+D. HDLC.
+ANSWER: B
+
+27. ¿Qué capa proporciona un medio para intercambiar datos a través de medios locales comunes?
+A. Capa de transporte.
+B. Capa de enlace.
+C. Capa de red.
+D. Capa física.
+ANSWER: B
+
+28. La __________________ se refiere al trayecto seguido por las señales a través de la topología física, es decir, la manera en que las estaciones se comunican a través del medio físico.
+A. Topología analógico.
+B. Topología física.
+C. Topología lógica.
+D. Topología digital.
+ANSWER: C
+
+29. La ____________________ se refiere a la disposición física de las maquinas, los dispositivos de red y cableado.
+A. Topología digital.
+B. Topología lógica.
+C. Topología analógico.
+D. Topología física.
+ANSWER: D
+
+30. La _____________________ es la distribución física en la cual se encuentran dispuestos los ordenadores que la compones hay que tener en cuenta un numero de factores para determinar cuál topología es la más apropiada para una situación dada.
+A. Topología física.
+B. Topología digital.
+C. Topología a una red local.
+D. Topología lógica.
+ANSWER: C
+
+31. ¿Cuál es el propósito principal del protocolo Spanning Tree?
+A. Evitar bucles en la red.
+B. Mejorar la eficiencia del enrutamiento.
+C. Proporcionar autenticación de red.
+D. Controlar el flujo de tráfico en la red.
+ANSWER: A
+
+32. ¿Qué técnica se utiliza para asignar direcciones IP automáticamente en una red local?
+A. DHCP.
+B. DNS.
+C. NAT.
+D. ARP.
+ANSWER: A
+
+33.¿Cuál es la función principal del protocolo VLAN (Virtual LAN)?
+A. Permitir que los dispositivos en diferentes redes se comuniquen entre sí.
+B. Segmentar una red en subredes virtuales.
+C. Autenticar los dispositivos que se conectan a la red.
+D. Proporcionar un canal seguro para la transmisión de datos.
+ANSWER: B
+
+34. La ____________________, son los dispositivos que puedan transmitir y recibir en los medios, pero no pueden hacerlo simultáneamente.
+A. Comunicación dúplex.
+B. Comunicación full-dúplex.
+C. Comunicación half-dúplex.
+D. Comunicación de datos.
+ANSWER: C
+
+35. La ___________________, son dos dispositivos que pueden transmitir y recibir en los medios al mismo tiempo.
+A. Comunicación dúplex.
+B. Comunicación full-dúplex.
+C. Comunicación half-dúplex.
+D. Comunicación de datos.
+ANSWER: B
+
+36. En conexiones _________, la Capa de enlace de datos tiene que considerar si la comunicación es half-dúplex o full-dúplex.
+A. Punto a punto.
+B. Punto y seguido.
+C. Punto.
+D. Punto a continuación.
+ANSWER: A
+
+37. La _______________, es la que actúa entre la capa de red y la capa física.
+A. Capa de aplicación.
+B. Capa transporte.
+C. Capa de sesión.
+D. Capa de enlace.
+ANSWER: D
+
+38. La _______________ a través de una red debe realizarse libre de errores, sin embargo, muchos factores pueden alterar o eliminar uno o más bits de cada unidad de datos enviada.
+A. Mecanismo de detección.
+B. Transmisión de datos.
+C. Dirección física.
+D. Redundancia.
+ANSWER: B
+
+39. ¿Qué direcciones son únicas a nivel mundial?
+A. Direcciones MEC.
+B. Direcciones LLC.
+C. Direcciones MAC.
+D. Direcciones LAC.
+ANSWER: C 
+
+40. ¿Qué comprobación incrementa bastante la probabilidad de detectar errores de ráfaga?
+A. Comprobación de redundancia cíclica CRC.
+B. Comprobación de redundancia longitudinal LCR.
+C. Comprobación de redundancia vertical VCR.
+D. Comprobación de redundancia horizontal HCR.
+ANSWER: B
+
+41. ¿Qué comprobación puede detectar errores de bit, y errores de ráfaga cuando el número de bits cambiados sea impar?
+A. Comprobación de redundancia cíclica CRC.
+B. Comprobación de redundancia longitudinal LCR.
+C. Comprobación de redundancia horizontal HCR.
+D. Comprobación de redundancia vertical VCR.
+ANSWER: D
+
+42. El CRC utilizado en Ethernet tiene una longitud de 4 _____ y es capaz de detectar cualquier error de ráfaga de 32 _____ o menos.
+A. Bytes y bytes.
+B. Bytes y bits.
+C. Bits y bits.
+D. Bits y bytes.
+ANSWER: B
+
+43. ¿Qué capa puede diseñarse para ofrecer varios servicios?
+A. Capa de red.
+B. Capa de transporte.
+C. Capa de enlace.
+D. Capa física.
+ANSWER: C
+
+44. ¿Qué es la tasa de código?
+A. Es la fracción de la palabra codificada que lleva información no redundante.
+B. Es un byte que de la palabra codificada que lleva información no redundante.
+C. Es la fracción de la palabra codificada que lleva datos no redundantes. 
+D. Todas son correctas.
+ANSWER: A
+
+45. Como se llama la cantidad de posiciones de bits en la que dos palabras codifican.
+A. Distancia de Hamming.
+B. Distancia de Haming.
+C. Distancia de Homming.
+D. Todas son falsas.
+ANSWER: A
+
+46. Como se llama el código que se encarga de codificar y de numera de forma consecutiva, comenzado por el bit 1 a la izquierda, el bit 2 a su derecha inmediata, etc.
+A. Código de Hamming.
+B. Código de Hamig.
+C. Código de Reed-Solomon.
+D. Todas son falsas.
+ANSWER: A
+
+47. Como se llama el código que se encarga de los bloques lineales y con frecuencia también son sistemáticos.
+A. Código Hamming.
+B. Código Reed-Solomon.
+C. Código Haming.
+D. Todas son falsas.
+ANSWER: B
+
+48. Los ___________________ se basan en el tratamiento de cadenas de bits como representaciones de polinomios con coeficientes de 0 y 1 solamente.
+A. Código polinomiales.
+B. Código Reed-Solomon.
+C. Código Hamming.
+D. Código Haming.
+ANSWER: A
+
+49. Por cuantos campos está compuesto un frame.
+A. 3.
+B. 4.
+C. 5.
+D. Todas son falsas.
+ANSWER: B
+
+50. El _______________ se encarga de los procesos de acceso al medio que realiza el hardware. Proporciona direccionamiento de la capa de enlace de datos y acceso a varias tecnologías de red.
+A. Control de acceso al intermedio (IAC).
+B. Control de acceso al medio (MAC).
+C. Control de enlace lógico (LLC).
+D. Control de acceso de Wi-Max (WMCA).
+ANSWER: B

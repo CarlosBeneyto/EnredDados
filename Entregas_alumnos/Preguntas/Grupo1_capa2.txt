@@ -1,0 +1,348 @@
+1 ¿Cuál es el protocolo de ethernet?
+A) 802.3
+B) 802.4
+C) 805.11
+D) 802.12
+ANSWER: A
+
+2 ¿Cuál de estas no es una norma de cable ethernet ?
+A) 802.3ac
+B) 802.3af
+C) 802.11
+D) 802.8
+ANSWER: D
+
+3 ¿Cuál de estas es una norma de cable ethernet?
+A) 802.11
+B) 802.3u
+C) 802.3b
+D) 802.5f
+ANSWER: B
+
+4 ¿Cuál de estas categorías no soporta el cable ethernet y el 100BASE T?
+A) Categoría 5e
+B) Categoría 5
+C) Categoría 6
+D) Categoría 7
+ANSWER: B
+
+5 ¿Cuál de estas categorías puede llevar el GBE?
+A) Categoría 5e
+B) Categoría 5
+C) Categoría 6
+D) Categoría 7
+ANSWER: A
+
+6 ¿Cuál de estas categorías puede llevar el 10 GBE?
+A) Categoría 5e
+B) Categoría 5
+C) Categoría 6
+D) Categoría 7
+ANSWER: C
+
+7 ¿En cuantas subcapas se divide la capa de enlace?
+A) 3
+B) 1
+C) 0
+D) 2
+ANSWER: D
+
+8 ¿Cuál es la norma que define ethernet?
+A) IEEE 802.3
+B) IEEE 803.a
+C) Ethernet_rule13
+D) IRS.15
+ANSWER: A
+
+9 ¿Cuál es la principal función de la capa de enlace de datos?
+A) Establecer y mantener conexiones
+B) Transmitir datos entre dispositivos de red
+C) Asignar direcciones IP
+D) Gestionar la congestión de la red
+ANSWER: B
+
+10 ¿Qué protocolo se utiliza comúnmente en la capa de enlace de datos?
+A) IP
+B) TCP
+C) Ethernet
+D) HTTP
+ANSWER: C
+
+11 ¿Cuál es la unidad de datos en la capa de enlace de datos?
+A) Paquete
+B) Trama
+C) Segmento
+D) Bit
+ANSWER: B
+
+12 ¿Qué es el control de flujo en la capa de enlace de datos?
+A) Gestionar la congestión de la red
+B) Regular la velocidad de transmisión de datos
+C) Establecer conexiones entre dispositivos
+D) Asignar direcciones
+ANSWER:B
+
+13 ¿Cuál es el método de detección de errores utilizado en la capa de enlace de datos?
+A) Verificación de redundancia cíclica (CRC)
+B) Control de flujo
+C) Algoritmo de dijkstra
+D) Ninguno de los anteriores
+ANSWER: D
+
+14 ¿Qué técnica se utiliza para compartir un canal de comunicación en la capa de enlace de datos?
+A) División de frecuencia
+B) División de tiempo
+C) División de código
+D) Todas las anteriores
+ANSWER: D
+
+15 ¿Cuáles subcapas tiene la capa de enlace?
+A) Control de enlace lógico y acceso al medio.
+B) Control de enlace de datos y control de flujo.
+C) Control de errores y control de enlace de datos
+D) Ninguna de las anteriores.
+ANSWER: A
+
+16 ¿Cuál es la función del control de enlace lógico?
+A) Proporcionar identificación de los dispositivos en la red.
+B) Proporcionar acceso al medio compartido.
+C) Proporcionar control de errores.
+D) Proporcionar control de flujo.
+ANSWER: A
+
+17 ¿Cuál de los siguientes es un protocolo de la capa de enlace de datos?
+A) PPP
+B) IP
+C) TCP
+D) a y b
+ANSWER: D
+
+18 ¿Cuál es la función del protocolo ARP?
+A)  asignar direcciones IP
+B)  Resolver direcciones IP a direcciones MAC
+C)  Establecer conexiones entre dispositivos
+D)  Gestionar la congestión de la red
+ANSWER: B
+
+19 ¿Qué es el CSMA/CD?
+A)  Método de acceso múltiple por división de código
+B)  Método de acceso múltiple por división de tiempo
+C)  Método de acceso múltiple por detección de portadora y detección de colisiones
+D)  Método de acceso múltiple por división de frecuencia
+ANSWER: C
+
+20 ¿Cuál de los siguientes es un modo de operación de la capa de enlace de datos?
+A) Full duplex
+B) Half duplex
+C) Simplex
+D) Todos los anteriores
+ANSWER: D
+
+21 ¿Qué es el direccionamiento MAC?
+A) Direccionamiento basado en IP
+B) Direccionamiento basado en hardware
+C) Direccionamiento basado en software
+D) Direccionamiento basado en nombre de dominio
+ANSWER: B
+
+22 ¿Qué es el protocolo de enlace punto a punto (PPP)?
+A)  Protocolo de enrutamiento
+B)  Protocolo de enlace de datos para conexiones punto a punto
+C)  Protocolo de transporte
+D)  Protocolo de aplicación
+ANSWER: B
+
+23 ¿Qué es el control de acceso al medio (MAC) ?
+A)  Control de flujo
+B)  Control de error
+C)  Coordinación del acceso al medio compartido
+D)  Control de congestión
+ANSWER: C
+
+24 ¿Cuál es la longitud de una dirección MAC?
+A)  32 bits
+B)  64 bits
+C)  48 bits
+D)  128 bits
+ANSWER:C
+
+25 ¿Qué es el dominio de colisión?
+A)  Área de una red donde los paquetes pueden colisionar
+B)  Área de una red donde las tramas pueden colisionar
+C)  Área de una red donde los segmentos pueden colisionar
+D)  Área de una red donde los bits pueden colisionar
+ANSWER: B
+
+26 ¿Qué es el protocolo Spanning Tree (STP) ?
+A)  Protocolo de enrutamiento
+B)  Protocolo de transporte
+C)  Protocolo para prevenir bucles en redes conmutadas
+D)  Protocolo de aplicación
+ANSWER: C
+
+27 ¿Cuál de los siguientes es un dispositivo de la capa de enlace de datos?
+A)  Enrutador
+B)  Switch
+C)  Repetidor
+D)  Pasarela
+ANSWER: B
+
+28 ¿Qué es el protocolo de control de enlace lógico (LLC) ?
+A)  Protocolo de enrutamiento
+B)  Protocolo que proporciona control de enlace lógico en la capa de enlace de datos
+C)  Protocolo de transporte
+D)  Protocolo de aplicación
+ANSWER: B
+29 ¿Qué es el dominio de broadcast?
+A)  Área de una red donde los paquetes se difunden
+B)  Área de una red donde las tramas se difunden
+C)  Área de una red donde los segmentos se difunden
+D)  Área de una red donde los bits se difunden
+ANSWER: B
+
+30 ¿Cuál de los siguientes es un método de detección de errores en la capa de enlace de datos?
+A)  Verificación de redundancia cíclica (CRC)
+B)  Control de flujo
+C)  Algoritmo de Dijkstra
+D)  Control de congestión
+ANSWER: A
+
+31 ¿Qué es el protocolo HDLC?
+A)  Protocolo de enrutamiento
+B)  Protocolo de enlace de datos de alto nivel
+C)  Protocolo de transporte
+D)  Protocolo de aplicación
+ANSWER: B
+
+32 ¿Cuál es el propósito de la VLAN?
+A)  Establecer conexiones entre dispositivos
+B)  Gestionar la congestiónde la red
+C)  Segmentar una red en dominios de broadcast más pequeños
+D)  Asignar direcciones IP
+ANSWER: C
+
+33 ¿Qué es el enlace troncal (trunking) ?
+A)  Establecer conexiones entre dispositivos
+B)  Transportar múltiples VLAN a través de un único enlace físico
+C)  Gestionar la congestx de la red
+D)  Asignar direcciones IP
+ANSWER: B
+
+34 ¿Qué es la agregación de enlaces (Link Aggregation) ?
+A)  Establecer conexiones entre dispositivos
+B)  Transportar múltiples VLAN a través de un único enlace físico
+C)  Combinar múltiples enlaces físicos en un enlace lógico de mayor capacidad
+D)  Asignar direcciones IP
+ANSWER: C
+
+35 ¿Qué es el protocolo LACP (Link Aggregation Control Protocol) ?
+A)  Protocolo de enrutamiento
+B)  Protocolo para configurar y gestionar enlaces agregados
+C)  Protocolo de transporte
+D)  Protocolo de aplicación
+ANSWER: B
+
+36 ¿Qué es el control de errores en la capa de enlace de datos?
+transmitidas
+A)  Proceso de detección y corrección de errores en tramas transmitidas
+B)  Proceso de detección y corrección de errores en paquetes transmitidos
+C)  Proceso de detección y corrección de errores en segmentos transmitidos
+D)  Proceso de detección y corrección de errores en bits transmitidos
+ANSWER: A
+
+37 ¿Qué es el protocolo SLIP (Serial Line Internet Protocol) ?
+A)  Protocolo de enrutamiento
+B)  Protocolo de enlace de datos para conexiones serie
+C)  Protocolo de transporte
+D)  Protocolo de aplicación
+ANSWER: B
+
+38 ¿Qué es el protocolo de ventana deslizante en la capa de enlace de datos?
+A)  Método de control de flujo y detección de errores
+B)  Método de control de congestión
+C)  Método de acceso al medio compartido
+D)  Método de asignación de direcciones IP
+ANSWER: A
+
+39 ¿Cuál es la función del protocolo RARP?
+A)  Asignar direcciones IP
+B)  Resolver direcciones IP a direcciones MAC
+C)  Resolver direcciones MAC a direcciones IP
+D)  Gestionar la congestión de la red
+ANSWER: C
+
+40 ¿Qué es el protocolo de ventana deslizante de retroceso N (Go Back N) ?
+A)  Método de control de flujo y detección de errores basado en ventanas deslizantes
+B)  Método de control de congestión basado en ventanas deslizantes
+C)  Método de acceso al medio compartido basado en ventanas deslizantes
+D)  Método de asignación de direcciones IP basado en ventanas deslizantes
+ANSWER: A
+
+41 ¿Qué es el protocolo de ventana deslizante de repetición selectiva (Selective Repeat) ?
+A)  Método de control de flujo y detección de errores que retransmite solo tramas con errores
+B)  Método de control de congestión que retransmite solo tramas con errores
+C)  Método de acceso al medio compartido que retransmite solo tramas con errores
+D)  Método de asignación de direcciones IP que retransmite solo tramas con errores
+ANSWER: A
+
+42 ¿Qué es el protocolo Token Ring?
+A)  Protocolo de enrutamiento
+B)  Protocolo de enlace de datos para redes de anillo con paso de testigo
+C)  Protocolo de transporte
+D)  Protocolo de aplicación
+ANSWER: B
+
+43 ¿Qué es el protocolo FDDI (Fiber Distributed Data Interface) ?
+A)  Protocolo de enrutamiento
+B)  Protocolo de enlace de datos para redes de fibra óptica de alta velocidad
+C)  Protocolo de transporte
+D)  Protocolo de aplicación
+ANSWER: B
+
+44 ¿Qué es el protocolo ATM (Asynchronous Transfer Mode) ?
+A)  Protocolo de enrutamiento
+B)  Protocolo de enlace de datos para redes de conmutación de celdas
+C)  Protocolo de transporte
+D)  Protocolo de aplicación
+ANSWER: B
+
+45 ¿Qué es el protocolo STP (Spanning Tree Protocol) ?
+A)  Protocolo de enrutamiento dinámico para seleccionar la mejor ruta entre dispositivos
+B)  Protocolo que evita bucles indeseados en redes conmutadas
+C)  Protocolo de transporte confiable para garantizar la entrega de paquetes
+D)  Protocolo que gestiona el ancho de banda disponible para diferentes aplicaciones.
+ANSWER: B
+
+46 ¿Cuál es el propósito del algoritmo CSMA/CD?
+A)  Controlar y regular la congestión en una red compartida.
+B)  Detectar y gestionar su resolución.
+C)  Priorizar los paquetes según sus características o necesidades específicas.
+D)  Enviar paquetes solo cuando hay disponibilidad completa del canal.
+ANSWER: B
+
+47 ¿Cómo se resuelven las colisiones en un entorno Ethernet?
+A)  Los dispositivos esperan un periodo aleatorio antes de retransmitir los paquetes.
+B) Las estaciones reciben múltiples señales simultáneamente, pero pueden interpretar correctamente cuál mensaje era más importante según el orden temporal.
+C) Las estaciones transmiten siempre a máxima velocidad y prioridad, mientras que cualquier posible interferencia se considera simplemente como parte de las limitaciones inherentes a esa tecnología..
+D) Las estaciones no pueden enviar información hasta después de recibir un permiso explícito del dispositivo central, lo cual minimiza posibles interrupciones.
+ANSWER: A
+
+48 ¿Cuáles son algunas técnicas comunes utilizadas para mitigar problemas asociados con la duplicación involuntaria (duplexing) ?
+A) Vincular cada puerto conectado mediante cáble separado e intentando evitar conexiones paralelas o redundantes dentro del mismo perímetro físico
+B) Volver a direccionamiento MAC después detectarse cualquier problema, regresando entonces automáticamente al modo simplex por defecto..
+C) Vigilar los patrones típicos tanto inalámbricos cuanto cableados y trabajar diligentemente por anticipar cuales factores desencadenantes podrían generar interrupción ruido u otros tipos dañinos señales digitales
+D）Mantener solamente dos nodos finales activos conectados directamente entre si , asegurándose además que sea imposible añadir nuevos terminales sin autorización previa.
+ANSWER: A
+
+49 ¿Qué significa CSMA/CA?
+A) Control De Acceso Al Medio Cambia Automático
+B) Código Simple Módulo Auxiliar Central Accidente
+C) Acceso múltiple por escucha portadora sin choque
+D) Centro De Servicio Maestro Alterno
+ANSWER: C
+50 ¿Cual es la primera subcapa de la capa de enlace?
+A) LLC
+B) MAC
+C) RTC
+D) Ninguna
+ANSWER: B

@@ -1,0 +1,349 @@
+¿Qué función cumple la capa de aplicación?
+A)Controlar la transferencia de datos entre dispositivos
+B)Establecer y mantener conexiones entre aplicaciones
+C)Realizar la conversión de datos a un formato común
+D)Proporcionar servicios de red a las aplicaciones
+ANSWER: D
+
+¿Qué protocolos de la capa de aplicación se utilizan para la transferencia de archivos?
+A)FTP y TFTP
+B)SMTP y POP3
+C)HTTP y HTTPS
+D)DNS y DHCP
+ANSWER: A
+
+¿Qué protocolo de la capa de aplicación se utiliza para el correo electrónico?
+A)SMTP
+B)FTP
+C)HTTP
+D)Telnet
+ANSWER: A
+
+¿Qué función cumple el protocolo de la capa de aplicación llamado SNMP?
+A)Proporcionar seguridad en la comunicación de red
+B)Administrar dispositivos de red
+C)Controlar la congestión de la red
+D)Realizar el enrutamiento de paquetes
+ANSWER: B
+
+¿Qué protocolo de la capa de aplicación se utiliza para la resolución de nombres de dominio?
+A)SNMP
+B)DHCP
+C)DNS
+D)SMTP
+ANSWER: C
+
+¿Qué protocolo de la capa de aplicación se utiliza para la gestión remota de dispositivos?
+A)Telnet
+B)DNS
+C)SNMP
+D)Las dos primeras son correctas
+ANSWER: D
+
+¿Qué protocolo de la capa de aplicación se utiliza para la transferencia segura de archivos?
+A)FTP
+B)TFTP
+C)SSH
+D)Telnet
+ANSWER: C
+
+¿Qué protocolo de la capa de aplicación se utiliza para la navegación web?
+A)SSH
+B)HTTP
+C)FTP
+D)HTTPS
+ANSWER: B
+
+¿Qué función cumple el protocolo de la capa de aplicación llamado DHCP?
+A)Asignar direcciones IP a los dispositivos de red
+B)Realizar el enrutamiento de paquetes
+C)Proporcionar seguridad en la comunicación de red
+D)Administrar dispositivos de red
+ANSWER: A
+
+¿Cual es la funcion del protocolo DNS en la capa de aplicacion?
+A)Resuelve nombres de Internet en direcciones IP
+B)Se utiliza para proporcionar acceso remoto a servidores y dispositivos de red
+C)Transfiere archivos que conforman las páginas Web de la World Wide Web
+D)Se utiliza para la transferencia de archivos interactiva entre sistemas
+ANSWER: A
+
+¿Cual es la funcion del protocolo Telnet en la capa de aplicacion?
+A)Transfiere mensajes y archivos adjuntos de correo electrónico
+B)Para asignar una dirección IP y direcciones de máscara de subred
+C)Se utiliza para recuperar correo electrónico
+D)Se utiliza para proporcionar acceso remoto a servidores y dispositivos de red
+ANSWER: D
+
+¿Cual es la funcion del protocolo HTTP en la capa de aplicacion?
+A)Se utiliza para la transferencia de archivos interactiva entre sistemas.
+B)Lo utilizan los clientes de correo electrónico para recuperar el correo electrónico de un servidor remoto.
+C)Transfiere archivos que conforman las páginas Web de la World Wide Web.
+D)Resuelve nombres de Internet en direcciones IP.
+ANSWER: C
+
+¿Cual es la funcion del protocolo FTP en la capa de aplicacion?
+A)Se utiliza para obtener información de la dirección IP durante el arranque.
+B)Se utiliza para la transferencia de archivos interactiva entre sistemas.
+C)Se utiliza para recuperar correo electrónico.
+D)Se utiliza para proporcionar acceso remoto a servidores y dispositivos de red.
+ANSWER: B
+
+¿Cual es la funcion del protocolo BOOTP en la capa de aplicacion?
+A)Se utiliza para obtener información de la dirección IP durante el arranque.
+B)Se utiliza para asignar una dirección IP y direcciones de máscara de subred
+C)Lo utilizan los clientes de correo electrónico para recuperar el correo electrónico de un servidor remoto.
+D)Se utiliza para recuperar correo electrónico
+ANSWER: A
+
+¿Cual es la funcion del protocolo IMAP en la capa de aplicacion?
+A)Se utiliza para la transferencia de archivos activa sin conexión.
+B)Se utiliza para la transferencia de archivos interactiva entre sistemas.
+C)que se utiliza para recuperar correo electrónico
+D)Resuelve nombres de Internet en direcciones IP.
+ANSWER: C
+
+¿Cual es la funcion del protocolo TFTP en la capa de aplicacion?
+A)Se utiliza para la transferencia de archivos activa sin conexión.
+B)Se utiliza para la transferencia de archivos interactiva entre sistemas.
+C)Se utiliza para asignar una dirección IP y direcciones de máscara de subred
+D)Resuelve nombres de Internet en direcciones IP.
+ANSWER: A
+
+¿Cual es la funcion del protocolo POP en la capa de aplicacion?
+A)Utiliza para obtener información de la dirección IP durante el arranque.
+B)se utiliza para asignar una dirección IP y direcciones de máscara de subred
+C)transfiere archivos que conforman las páginas Web de la World Wide Web.
+D)Lo utilizan los clientes de correo electrónico para recuperar el correo electrónico de un servidor remoto.
+ANSWER: D
+
+¿Que significa el dominio .com en las pagimas web?
+A)Negocios
+B)Cooperativas
+C)Comercial
+D)Gobierno
+ANSWER: C
+
+¿Que significa el dominio .edu en las pagimas web?
+A)Empleo
+B)Educacion
+C)Informacion
+D)Proveedores de red
+ANSWER: B
+
+¿Que significa el dominio .net en las pagimas web?
+A)Proveedores de red
+B)Dispositivos moviles
+C)Idustria de viajes
+D)Cooperativas
+ANSWER: A
+
+¿Que significa el dominio .org en las pagimas web?
+A)Profesionales
+B)Organizaciones sin fines de lucro
+C)Empleo
+D)Gobierno
+ANSWER: B
+
+¿Cual es el tipo de registro de recursos de DNS con el significado de Inicio de autoridad?
+A)NS
+B)A
+C)CNAME
+D)SOA
+ANSWER: D
+
+¿Cual es el tipo de registro de recursos de DNS con el significado de Servidor de nombres?
+A)SOA
+B)TXT
+C)SPF
+D)NS
+ANSWER: D
+
+¿Cual es el tipo de registro de recursos de DNS con el significado de intercambio de correo?
+A)AAAA
+B)MX
+C)SRV
+D)CNAME
+ANSWER:B
+
+¿Cual es el tipo de registro de recursos de DNS con el significado de Marco de trabajo de politica del emisor?
+A)SPF
+B)TXT
+C)MX
+D)SOA
+ANSWER: A
+
+¿Cuales son las extensiones de text?
+A)plain, html, xml, css
+B)gif, jpeg, tiff
+C)octet-stream, pdf, javascript, zip
+D)mixed, alternative, parallel, digest
+ANSWER: A
+
+¿Cuales son las extensiones de image?
+A)vrml
+B)gif, jpeg, tiff
+C)http, rfc822
+D)mixed, alternative, parallel, digest
+ANSWER: B
+
+¿Cuales son las extensiones de audio?
+A)plain, html, xml, css
+B)vrml
+C)mixed, alternative, parallel, digest
+D)basic, mpeg, mp4
+ANSWER: D
+
+¿Cuales son las extensiones de message?
+A)gif, jpeg, tiff
+B)octet-stream, pdf, javascript, zip
+C)http, rfc822
+D)vrml
+ANSWER: C
+
+¿Cuales son las extensiones de model?
+A)basic, mpeg, mp4
+B)plain, html, xml, css
+C)vrml
+D)octet-stream, pdf, javascript, zip
+ANSWER: C
+
+¿Cual de estas extensiones SMTP autentifica al cliente?
+A)AUTH
+B)BINARYMIME
+C)SIZE
+D)STARTTLS
+ANSWER: A
+
+¿Cual de estas extensiones SMTP dice que el servidor acepta mensajes binarios?
+A)AUTH
+B)SIZE
+C)SHUNKING
+D)BINARYMIME
+ANSWER: D
+
+¿Cual de estas extensiones SMTP dice que es una direccion internacional?
+A)STARTTLS
+B)UTF8SMTP
+C)SIZE
+D)AUTH
+ANSWER: B
+
+¿Cual de estas extensiones SMTP verifica el tamaño del mensaje?
+A)AUTH
+B)CHUNKING
+C)UTF8SMTP
+D)SIZE
+ANSWER: D
+
+¿Cual de estas extensiones SMTP dice que el servidor acepta mensjaes extensos en partes?
+A)CHUNKING
+B)STARTTLS
+C)SIZE
+D)AUTH
+ANSWER: A
+
+¿Cual de estas extensiones SMTP cambia a transporte seguro?
+A)STARTTLS
+B)SIZE
+C)BINARYMIME
+D)AUTH
+ANSWER: A
+
+¿Para que se usa http?
+A)FTP
+B)Archivo local
+C)Hipertexto (HTML)
+D)Medios de flujo continuo
+ANSWER: C
+
+¿Para que se usa https?
+A)FTP
+B)Hipertexto con seguridad
+C)Llamas multimedia
+D)Informacion del navegador
+ANSWER: B
+
+¿Para que se usa file?
+A)FTP
+B)Hipertexto
+C)Enviar correo electronico
+D)Archivo local
+ANSWER: D
+
+¿Para que se usa mailto?
+A)Enviar correo electronico
+B)FTP
+C)llamadas multimedia
+D)Archivo local
+ANSWER: A
+
+¿Para que se usa rtsp?
+A)Informacion del navegador
+B)llamadas multimedia
+C)FTP
+D)Medios de flujo continuo
+ANSWER: D
+
+¿Para que se usa sip?
+A)Hipertexto con seguridad
+B)Llamadas multimedia
+C)Informacion del navegador
+D)Enviar correo electronico
+ANSWER: B
+
+¿Para que se usa about?
+A)Archivo local
+B)FTP
+C)Informacion del navegador
+D)Medios de flujo continuo
+ANSWER: C
+
+¿Que es GET en HTTP?
+A)Leer la pagina web
+B)Adjutar a una pagina web
+C)Almacenar una pagina web
+D)Todo lo anterior
+ANSWER: A
+
+¿Que es PUT en HTTP?
+A)Leer encabezado de la pagina web
+B)Almacenar unapagina web
+C)Consultar las opciones para una pagina
+D)Eliminar la pagina
+ANSWER: B
+
+¿Que es POST en HTTP?
+A)Eliminar la pagina web
+B)Repetir la solicitud entrante
+C)Conectarse a traves de un proxy
+D)Adjuntar a una pagina web
+ANSWER: D
+
+¿Que es TRACE en HTTP?
+A)Leer una pagina web
+B)Almacenar una pagina web
+C)Repetir la solicitud entrante
+D)Nada de lo anterior
+ANSWER: C
+
+¿Que es HEAD en HTTP?
+A)Conectarse a traves de un proxy
+B)Leer el encabezado de una pagina web
+C)Consultar las opciones para una pagina
+D)Almacenar una pagina web
+ANSWER: B
+
+¿Que es DELETE en HTTP?
+A)Eliminar una pagina web
+B)Repetir la solicitud entrante
+C)leer una pagina web
+D)Nada de lo anterior
+ANSWER: A
+
+¿Que es CONNECT en HTTP?
+A)Almacenar una pagina web
+B)Eliminar una pagina web
+C)Repetir solicitud entrante
+D)Nada de lo anterior
+ANSWER: D

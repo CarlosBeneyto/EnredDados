@@ -1,0 +1,349 @@
+ 1. ¿Qué tipo de cableados hay?
+A. Par trenzado
+B. Coaxial
+C. Fibra óptica
+D. Todas son correctas
+ANSWER: D
+
+2. ¿Qué significa LAN?
+A. Red de área local
+B. Red de antenas locales
+C. Red de aislamiento
+D. Red de instalación local
+ANSWER: A
+
+3. ¿Qué elementos físicos y lógicos tiene una LAN?
+A. Restricción geográfica
+B. Velocidad de respuesta
+C. Aceleración magnética
+D. Perímetros locales
+ANSWER: A
+
+4. ¿Qué significa WAN?
+A. Red de área inalámbrica
+B. Red de área amplia
+C. Red de área social
+D. Red de área privada
+ANSWER: B
+
+5.¿Con qué se podría conectar una red inalámbrica?
+A. Bluetooth
+B. Wi-Fi
+C. WiMAX
+D. Todas son correctas
+ANSWER: D
+
+6.¿Cuál de estas topologias es correcta?
+A. En estrella
+B. De grados
+C. De avión
+D. En punta
+ANSWER: A
+
+7. ¿Qué familia de protocolos usuales hay?
+A. NetWare
+B. Todas son correctas
+C. AppleTalk
+D. TCP/IP
+ANSWER: B
+
+8. ¿De qué se encarga la capa física?
+A. Define el medio físico de transmisión
+B. Define modificación de redes
+C. Dice que tipo de topologías usa una LAN
+D. Define el medio físico de totalidad
+ANSWER: A
+
+9. Dime los principios fundamentales de la capa física.
+A. Los componentes físicos
+B. La codificación de datos
+C. La señalización.
+D. Todas son correctas
+ANSWER: D
+
+10. El rendimiento es la medida de transferencia de ____ a través de los medios durante un período de tiempo determinado.
+A. Metros
+B. Giga Bytes
+C. Bits
+D. Kilómetros
+ANSWER: C
+
+11. ¿Qué grupo de códigos usa la capa física?
+A. 4B/5B
+B. 4C/5B
+C. 4A/5A
+D. 4E/5E
+ANSWER: A
+
+12. El ancho de banda ____ mide la cantidad de información que puede fluir desde un lugar hacia otro en un período de tiempo determinado.
+A. analógica
+B. Óptica
+C. Digital
+D. Inalámbrico
+ANSWER: C
+
+13. ¿Qué es el rendimiento?
+A. Es la medida que se utiliza para saber cuantos bits tiene un Giga bit
+B. Es la medida de transferencia de bits a través de los medios durante un período de tiempo determinado.
+C. Es la medida de transferencia de metros a través de los medios durante un período de tiempo determinado.
+D. Ninguna es correcta
+ANSWER: B
+
+14. ¿Qué conexiones utiliza la capa física?
+A. Coaxial
+B. UTP
+C. RJ-45
+D. Todas son correctas
+ANSWER: D
+
+15. ¿Qué elementos utiliza UTP?
+A. Tipos de cable
+B. Longitudes de los cables,
+C. Conectores y terminación de los cables
+D. Todas son correctas.
+ANSWER: D
+
+16. El cable coaxial consiste en un conductor de cobre rodeado de una capa de aislante ____.
+A. Rígido
+B. Flexible
+C. Suelto
+D. Ancho
+ANSWER: B
+
+17. ¿En qué estándar se trata de una LAN inalámbrica (WLAN) que utiliza CSMA/CA?
+A. IEEE 802.11
+B. Todas son correctas
+C. IEEE 802.3
+D. IEEE 802.af
+ANSWER: A 
+
+18. ¿Qué significan las siglas AP?
+A. Punto de acceso inalámbrico
+B. Punto de alineación
+C. Alpacas peludas
+D. Punto de acceso local
+ANSWER: A
+
+19. ¿Qué tipos de errores hay de empalme y terminación en la fibra óptica?
+A. Desalineación, separación de los extremos y acabado final
+B. Alineación, separación de extremos y acabado final
+C. Desalineación, unión de los extremos y acabado final
+D. Ninguna es correcta
+ANSWER: A
+
+20. ¿Qué conectores de medios de fibra hay?
+A. ST, SP, LC monomodo
+B. SP, SC, LC monomodo
+C. ST, SC, LC monomodo
+D. Todas son correctas
+ANSWER: C
+
+21. ¿Qué partes componen un router inalámbrico?
+A. Antenas inalámbricas
+B. Puertos de conmutación Ethernet
+C. Un puerto de internet
+D. Todas son correctas
+ANSWER: D
+
+22. La capa física del dispositivo receptor pasa bits, ¿hasta qué capa de nivel superior?
+A. Aplicación
+B. Presentación
+C. Red
+D. Enlace de datos
+ANSWER: D
+
+23. ¿Qué medios utilizan patrones de microondas para representar bits?
+A. Cobre
+B. Inalámbrica
+C. Fibra óptica
+D. Imantado
+ANSWER: B
+
+24. ¿Qué medios utilizan patrones de luz para representar bits?
+A. Cobre
+B. Inalámbrica
+C. Fibra óptica
+D. Imantada
+ANSWER: C
+
+25. ¿Qué medios usan pulsos eléctricos para representar bits?
+A. Cobre
+B. Inalámbrica
+C. Fibra óptica
+D. Imantada
+ANSWER: A
+
+26. ¿Cuál de estos es el nombre de la capacidad de un medio para transportar datos?
+A. Ancho de banda
+B. Rendimiento
+C. Capacidad de transferencia útil
+D. Ninguna es correcta
+ANSWER: A
+
+27. ¿Cuál de estos es una medida de la transferencia de bits a través de los medios?
+A. Ancho de banda
+B. Rendimiento
+C. Capacidad de transferencia útil
+D. Ninguna es correcta
+ANSWER: B
+
+28. ¿Cuál de los siguientes tipos de cables de fibra óptica utiliza diodos emisores de luz (LED) como transmisor de fuente de luz de datos?
+A. Multimodo
+B. Monomodo
+C. Multimodo dúplex
+D. Monomodo dúplex
+ANSWER: A
+
+29. ¿Qué PDU recibe la capa física para la codificación y transmisión?
+A. Trama
+B. Segmento
+C. Paquete
+D. Todas son correctas
+ANSWER: A
+
+30. ¿Qué es la atenuación en la transmisión de datos en capa física y cómo afecta la calidad de la señal
+A. La atenuación se refiere a la reducción de la amplitud de la señal durante la transmisión a través del medio de transmisión. lo que puede resultar en uan señal débil o ruidosa
+B. La atenuación se refiere al aumento de la amplitud de la señal durante la transmisión a través del medio de transmisión, lo que puede resultar en una señal fuerte o ruidosa
+C. La atenuación se refiere a la disminución del ancho de banda disponible en la red, lo que está directamente relacionado con la velocidad de transmisión de datos
+D. La atenuación se refiere a la disminución de la cantidad de colisiones que pueden ocurrir en la red, lo qu está directamente relacionado con la velocidad de transmisión de datos.
+ANSWER: A
+
+31. ¿Que significan las siglas FTTH?
+A. Cableado FTP para el hogar
+B. Fibra óptica para el hombre
+C. Fibra óptica para el hogar
+D. Cableado FTP para el hombre
+ANSWER: C
+
+32. Dime cuál es un problema de implementación de medios de fibra óptica.
+A. Manejo más cuidadoso que los medios de cobre
+B. Más barato
+C. Menos fácil de instalar
+D. Ninguna es correcta
+ANSWER: A
+
+33. ¿Cuáles son los tipos de señales utilizados en la transmisión de datos en la capa física y cómo se diferencian entre sí?
+A. Las señales analógicas y digitales se diferencian en su forma de onda, donde las analógicas son continuas y las digitales son discretas
+B. Las señales de banda de base y moduladas se diferencian en su forma de onda, donde las señales de banda base son analógicas y las moduladas son digitales
+C. Las señales electrónicas y ópticas se diferencian en su tipo de energía, donde las electrónicas y ópticas se diferencian en su tipo de energía, donde las electrónicas utilizan electrones y las ópticas utilizan fotones
+D. Las señales de microondas y ondas de radio se diferencian en su frecuencia, donde las microondas son de alta frecuencia y las ondas de radio son de baja frecuencia.
+ANSWER: A
+
+34. Ventajas de usar grupos de códigos
+A. Reducción del nivel de error en los bits
+B. Todas son correctas
+C. Ayuda para igualar los bits de datos de los bits de control
+D. Aceleran el proceso de envío
+ANSWER: B
+
+35. Dime los métodos de señalización
+A. Amplitud
+B. Frecuencia
+C. Fase
+D. Todas son correctas
+ANSWER: D
+
+36. ¿Cuál es la función principal de la capa física en la transmisión de datos en la red?
+A. Crear las señales que representan los bits de cada trama en los medios
+B. Proporcionar direccionamiento físico a los dispositivos
+C. Determinar la ruta que los paquetes siguen a través de la red
+D. Controlar el acceso de datos a los medios
+ANSWER: A
+
+37. En la mayoría de las LAN (Redes de área local) empresariales, ¿qué conector se utiliza con el cable de networking de par trenzado?
+A. BNC
+B. RJ-45 Tipo F
+C. RJ-11
+D. Ninguna es correcta
+ANSWER: B
+
+38. ¿Cuál es el efecto que puede producir la aplicación incorrecta de un conector en un cable de la red?
+A. Los datos se reenviarán al nodo incorrecto.
+B. Los datos que se transmitan a través de ese cable pueden sufrir la pérdida de señal.
+C. Se implementará un método de señalización incorrecto para los datos transmitidos en ese cable.
+D. Cambiará el método de codificación para los datos enviados en ese cable para resarcir la conexión incorrecta.
+ANSWER: B
+
+39. ¿Cuándo se utiliza una cable de conexión directa en una red?
+A. Cuando se conecta un router a través del puerto de consola
+B. Cuando se conecta un switch a otro switch
+C. Cuando se conecta un host a un switch
+D. Cuando se conecta un router a otro router
+ANSWER: C
+
+40. ¿Cuál de los siguientes tipos de ruido es el resultado de la generación aleatoria de electrones dentro de un conductor?
+A. Ruido térmico
+B. Ruido de intermodulación
+C. Ruido impulsivo
+D. Ruido de disparo de Schottky
+ANSWER: A
+
+41. ¿Qué significan las siglas LLC?
+A. Control de acceso lógico
+B. Control de acceso local
+C. Control de accesibilidad lógica
+D. Control de áreas latentes
+ANSWER: A
+
+42. ¿Qué es la modulación de amplitud y cómo funciona?
+A. La modulación de amplitud es un método de modulación que consiste en variar la amplitud de una señal portadora para representar la información que se desea transmitir
+B. La modulación de amplitud es un método de modulación que consiste en variar la frecuencia de una señal portadora para representar la información que se desea transmitir
+C. La modulación de amplitud es un método de modulación que consiste en variar la fase de una señal portadora para representar la información que se desea transmitir
+D. La modulación de amplitud no es un método de modulación utilizado en la transmisión de señales
+ANSWER: A
+
+43. ¿Cuál NO es un tipo de ruido de aparición de señales?
+A. Térmico
+B. Impulsivo
+C. Inducido
+D. Vibrante
+ANSWER: D
+
+44. ¿Cómo es una señal digital?
+A. Discreta
+B. Abusiva
+C. Regresiva
+D. Continua
+ANSWER: A
+
+45. Los medios no transportan el/la ____ como una única entidad.
+A. Paquete
+B. Trama
+C. Segmento
+D. Colisión
+ANSWER: B
+
+46. ¿Cuál es el propósito de la técnica de multiplexación por división de frecuencia? (FDM)?
+A. La FDM se utiliza para combinar varias señales de diferentes longitudes de onda en una sola señal
+B. L a FDM se utiliza para combinar varias señales de diferentes longitudes de onda en una sola señal
+C. La FDM se utiliza para dividir una señal en diferentes canales de frecuencia para su transmisión simultánea
+D. La FDM no es una técnica de transmisión utilizada en comunicaciones.
+ANSWER: C
+
+47. La capacidad de transferencia útil es la medida de ____ utilizables transferidos durante un período de tiempo determinado
+A. Megas
+B. Bits
+C. Datos
+D. Grupos
+ANSWER: C
+
+48. ¿Qué significa bit?
+A. Binario ilocalizable
+B. Binario digital
+C. Binario hexadecimal
+D. Ninguna es correcta
+ANSWER: B
+
+49. ¿Qué es la fibra óptica y cómo se utilizan las propiedade de la luz para transmitir información a través de ella?
+A. La fibra óptica es un cable de cobre qu se utiliza para transmitir señales eléctricas de un dispositivo a otro
+B. La fibra óptica es un cable que utiliza ondas electromagnéticas para transmitir información de un dispositivo a otro
+C. La fibra óptica es un cable que utiliza rayos de luz para transmitir información de un dispositivo a otro
+D. La fibra óptica se utiliza únicamente para la conexión de redes de computadoras inalámbricas
+ANSWER: C
+
+50. De forma teórica, ¿cuál es el medio que soporta mayores distancias?
+A. Fibra óptica
+B. Cable coaxial
+C. Microondas
+D. Cable UTP
+ANSWER: C 

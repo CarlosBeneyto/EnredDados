@@ -1,0 +1,352 @@
+
+
+1.¿Qué subcapa de la capa de enlace de datos prepara una señal que se transmitirá en la capa física?
+a) LLC.
+b) MAC.
+c) HDLC.
+d) NIC.
+Respuesta: b) MAC.
+
+2.En las instalaciones LAN donde existen potenciales peligros eléctricos o de interferencia electromagnética, ¿qué tipo de medios se recomienda para el cableado backbone?
+a) coaxial.
+b) fibra.
+c) UTP Cat5.
+d) STP.
+Respuesta: b) Fibra.
+
+3.¿Mediante qué dispositivo se puede examinar un tendido de fibra instalado para verificar fallas, integridad y rendimiento de los medios?
+a) inyector de luz.
+b) OTDR.
+c) TDR.
+d) multímetro.
+Respuesta: d) OTDR.
+
+4.Qué tipo de señal se utiliza en la capa física para transmitir datos a través de un medio?
+a) Señal analógica.
+b) Señal digital.
+c) Señal mixta.
+d) Señal hibrida
+Respuesta: b) Señal digital.
+
+5.¿Qué componente de la capa física se encarga de la conversión de señales digitales a analógicas?
+a) Transmisor
+b) Receptor
+c) Modulador
+d) Emulador
+Respuesta: c) Modulador.
+
+6.¿Qué es la atenuación de la señal en la capa física?
+a) La disminución de la señal a medida que se transmite por un medio.
+b) La amplificación de la señal a medida que se transmite por un medio.
+c) La modificación de la señal por interferencias externas.
+d) La disminución de la señal por interferencias externas.
+Respuesta: a) La disminución de la señal a medida que se transmite por un medio.
+
+7.¿Qué tipo de cable se utiliza para transmitir señales digitales a larga distancia en la capa física?
+a) Cable coaxial.
+b) Fibra óptica.
+c) Cable de par trenzado.
+d) RJ45.
+Respuesta: b) Fibra óptica.
+
+8.¿Cuál es la función principal de los repetidores en la capa física?
+a) Amplificar la señal para compensar la atenuación.
+b) Convertir señales digitales a analógicas.
+c) Proteger la señal de interferencias externas.
+Respuesta: a) Amplificar la señal para compensar la atenuación.
+
+9.¿Qué es la latencia en la capa física?
+a) El tiempo que tarda la señal en transmitirse a través del medio.
+b) La calidad de la señal transmitida.
+c) La cantidad de datos que se pueden transmitir por unidad de tiempo.
+d) El tiempo que tarda la señal en transmitir por una unidad de tiempo.
+Respuesta: a) El tiempo que tarda la señal en transmitirse a través del medio.
+
+10.¿Qué es la impedancia en la capa física?
+a) La resistencia del medio de transmisión a la señal.
+b) La capacidad del medio de transmisión para transmitir datos a alta velocidad.
+c) La medida de la cantidad de datos que se pueden transmitir por unidad de tiempo.
+d) La capacidad de la cantidad de datos que se pueden transmitir por unidad de tiempo.
+Respuesta: a) La resistencia del medio de transmisión a la señal.
+
+11.¿Qué es el ancho de banda en la capa física?
+a) La cantidad de datos que se pueden transmitir por unidad de tiempo.
+b) La cantidad de información que se puede almacenar en un medio de almacenamiento.
+c) La gama de frecuencias que se pueden transmitir a través de un medio.
+d) La gama de información que se puede trasmitir.
+Respuesta: c) La gama de frecuencias que se pueden transmitir a través de un medio.
+
+12.¿Qué es el retardo en la capa física?
+a) El tiempo que tarda la señal en llegar a su destino.
+b) El tiempo que tarda la señal en transmitirse a través del medio.
+c) La medida de la cantidad de datos que se pueden transmitir por unidad de tiempo.
+d) La medida  de la cantidad de datos que llegan a su destino al ismo tiempo.
+Respuesta: b) El tiempo que tarda la señal en transmitirse a través del medio.
+
+13.¿Cuál es el propósito de la capa física en el modelo OSI?
+a) Proporcionar un medio de transmisión para los datos.
+b) Establecer y mantener conexiones entre dispositivo.
+c) Proporcionar servicios de red para las aplicaciones.
+d) Establecer y mantener servicios de red para las aplicaciones.
+Respuesta: b) Establecer y mantener conexiones entre dispositivo.
+
+14.¿Cuál es el medio de transmisión más rápido en la capa física?
+a) Cable coaxial.
+b) Fibra óptica.
+c) Cable de par trenzado.
+d) Cable RJ45.
+Respuesta: b) Fibra óptica.
+
+15.¿Qué es el ruido en la capa física?
+a) Interferencias internas que disminuyen la calidad de la señal.
+b) La distorsión de la señal a través del medio físico.
+c) La cantidad de datos que se pueden transmitir por unidad de tiempo.
+d) La pérdida de señal debido a la longitud del medio de transmision.
+Respuesta: a) Interferencias internas que disminuyen la calidad de la señal.
+
+16.¿Qué método utiliza la capa física para transmitir datos?
+a) Señales eléctricas.
+b) Señales magnéticas.
+c) Señales ópticas.
+d) Todas las anteriores.
+Respuesta: d) Todas las anteriores.
+
+17.¿Cuál es la unidad básica de la capa física?
+a) Bit.
+b) Byte.
+c) Palabra.
+d) Registro.
+Respuesta: a) Bit.
+
+18.¿Qué tipo de medio de transmisión puede ser afectado por la interferencia electromagnética (EMI)?
+a) Cable de fibra óptica.
+b) Cable de par trenzado sin blindaje (UTP).
+c) Cable de par trenzado con blindaje (STP).
+d) Cable coaxial.
+Respuesta: b) Cable de par trenzado sin blindaje (UTP).
+
+19. ¿Qué tipo de conector se utiliza comúnmente en los cables de fibra óptica?
+a) Conector RJ-45.
+b) Conector BNC.
+c) Conector ST.
+d) Conector DB-9.
+Respuesta: c) Conector ST.
+
+
+20. ¿Cuál es el propósito del control de acceso al medio (MAC) en Ethernet?
+a) Proporcionar seguridad en la red.
+b) Proporcionar enrutamiento de red.
+c) Proporcionar control de flujo de datos.
+d) Proporcionar acceso equitativo a la red.
+Respuesta: d) Proporcionar acceso equitativo a la red.
+
+21. ¿Cuál es el objetivo de la capa física en un modelo híbrido de redes?
+a) Gestionar el flujo de datos en la red.
+b) Establecer y mantener la conexión física entre dispositivos.
+c) Encriptar los datos en tránsito.
+d) Ninguna de las anteriores.
+Respuesta: b) Establecer y mantener la conexión física entre dispositivos.
+
+
+22. ¿Cuál es la unidad de medida utilizada para la velocidad de transmisión de datos en la capa física?
+a) Kilobits por segundo (Kbps)
+b) Megabytes por segundo (MB/s)
+c) Gigahertz (GHz)
+d) Ninguna de las anteriores.
+Respuesta: a) Kilobits por segundo (Kbps)
+
+23. ¿Cuál es la principal función de la capa física en un modelo híbrido de redes?
+a) Comprobar la integridad de los datos.
+b) Encapsular los datos.
+c) Transformar los datos en señales eléctricas.
+d) Ninguna de las anteriores.
+Respuesta: c) Transformar los datos en señales eléctricas.
+
+24. ¿Qué dispositivo se encarga de convertir las señales digitales en señales analógicas?
+a) Modulador.
+b) Demodulador.
+c) Router.
+d) Ninguna de las anteriores.
+Respuesta: a) Modulador.
+
+25. ¿Cuál es la principal desventaja de las señales analógicas en comparación con las señales digitales?
+a) Son más fáciles de interceptar.
+b) Tienen un ancho de banda menor.
+c) Son más propensas a errores.
+d) Ninguna de las anteriores.
+Respuesta: c) Son más propensas a errores.
+
+26. ¿Qué tipo de cable se utiliza comúnmente para la transmisión de datos en redes Ethernet?
+a) Cable de fibra óptica.
+b) Cable coaxial.
+c) Cable de par trenzado.
+d) Ninguna de las anteriores.
+Respuesta: c) Cable de par trenzado.
+
+27. ¿Cuál es la función del conector RJ-45 en la capa física?
+a) Conectar dispositivos a la red.
+b) Transformar las señales eléctricas en señales digitales.
+c) Modular las señales digitales en señales analógicas.
+d) Ninguna de las anteriores.
+Respuesta: a) Conectar dispositivos a la red.
+
+28. ¿Qué tipo de señales se utilizan para la transmisión de datos en redes inalámbricas?
+a) Señales eléctricas.
+b) Señales de radio.
+c) Señales de luz.
+d) Ninguna de las anteriores.
+Respuesta: b) Señales de radio.
+
+29. ¿Qué tipo de antena se utiliza comúnmente en redes inalámbricas?
+a) Antena omnidireccional.
+b) Antena direccional.
+c) Antena parabólica.
+d) Ninguna de las anteriores.
+Respuesta: a) Antena omnidireccional.
+
+30. ¿Qué elementos componen la capa física en un enfoque híbrido?
+a) Servidores, bases de datos y aplicaciones web.
+b) Dispositivos móviles, sensores y redes inalámbricas.
+c) Sistema operativo, controladores de dispositivo y protocolos de red.
+d) Navegadores web, clientes de correo electrónico y aplicaciones de ofimática.
+Respuesta: b) Dispositivos móviles, sensores y redes inalámbricas.
+
+31. ¿Cuál es la longitud máxima permitida para un cable de par trenzado en una red Ethernet de 100 Mbps?
+a) 100 metros.
+b) 200 metros.
+c) 300 metros.
+d) 400 metros.
+Respuesta: a) 100 metros.
+
+32. ¿Qué tipo de señal se utiliza para la transmisión de datos en redes de televisión por cable?
+a) Señal analógica.
+b) Señal digital.
+c) Señal de radiofrecuencia.
+d) Señal de luz.
+Respuesta: c) Señal de radiofrecuencia.
+
+33. ¿Qué es el tiempo de propagación en la capa física?
+a) La velocidad a la que se transmiten los datos.
+b) La cantidad de datos que se transmiten en un determinado periodo de tiempo.
+c) El tiempo que tarda una señal en llegar a su destino.
+d) La frecuencia de la señal transmitida.
+Respuesta: c) El tiempo que tarda una señal en llegar a su destino.
+
+34. ¿Cuál es la principal ventaja de las señales digitales en comparación con las señales analógicas?
+a) Tienen un ancho de banda mayor.
+b) Son más resistentes a interferencias.
+c) Son más económicas de implementar.
+d) No requieren conversión analógica-digital.
+Respuesta: b) Son más resistentes a interferencias.
+
+35. ¿Qué es la modulación de amplitud en la capa física?
+a) La técnica de combinar varias señales en una sola señal compuesta.
+b) La técnica de combinar varias frecuencias en una sola señal compuesta.
+c) La técnica de variar la amplitud de una señal en función de los datos a transmitir.
+d) La técnica de variar la fase de una señal en función de los datos a transmitir.
+Respuesta: c) La técnica de variar la amplitud de una señal en función de los datos a transmitir.
+
+36. ¿Cuál es el tipo de cable utilizado para la conexión de redes de área local de alta velocidad como 10 GbE?
+a) Cable de fibra óptica.
+b) Cable coaxial.
+c) Cable de par trenzado blindado.
+d) Cable de par trenzado sin blindaje.
+Respuesta: a) Cable de fibra óptica
+
+37. ¿Qué es la modulación de fase en la capa física?
+a) La técnica de combinar varias señales en una sola señal compuesta.
+b) La técnica de combinar varias frecuencias en una sola señal compuesta.
+c) La técnica de variar la amplitud de una señal en función de los datos a transmitir.
+d) La técnica de variar la fase de una señal en función de los datos a transmitir.
+Respuesta: d) La técnica de variar la fase de una señal en función de los datos a transmitir
+
+38. ¿Qué tipo de cable se utiliza comúnmente para conectar un router a un módem de cable?
+a) Cable de fibra óptica.
+b) Cable coaxial.
+c) Cable de par trenzado blindado.
+d) Cable de par trenzado sin blindaje.
+Respuesta: b) Cable coaxial.
+
+39. ¿Cuál es el tipo de conector utilizado en los cables de par trenzado?
+a) Conector BNC.
+b) Conector SC.
+c) Conector RJ-45.
+d) Conector RCA.
+Respuesta: c) Conector RJ-45.
+
+40. ¿Qué es el ancho de banda en la capa física?
+a) La velocidad a la que se transmiten los datos.
+b) La cantidad de datos que se transmiten en un determinado periodo de tiempo.
+c) La cantidad de información que puede ser transmitida en una unidad de tiempo.
+d) La frecuencia de la señal transmitida.
+Respuesta: c) La cantidad de información que puede ser transmitida en una unidad de tiempo.
+
+41. ¿Qué es la modulación de frecuencia en la capa física?
+a) La técnica de combinar varias señales en una sola señal compuesta.
+b) La técnica de combinar varias frecuencias en una sola señal compuesta.
+c) La técnica de variar la amplitud de una señal en función de los datos a transmitir.
+d) La técnica de variar la fase de una señal en función de los datos a transmitir.
+Respuesta: b) La técnica de combinar varias frecuencias en una sola señal compuesta.
+
+42. ¿Cuál es el tipo de cable utilizado para la conexión de redes de área local de baja velocidad como 10BASE-T?
+a) Cable de fibra óptica.
+b) Cable coaxial.
+c) Cable de par trenzado blindado.
+d) Cable de par trenzado sin blindaje.
+Respuesta: d) Cable de par trenzado sin blindaje.
+
+43. ¿Qué es la atenuación en la capa física?
+a) La pérdida de señal a medida que esta se transmite a través de un medio.
+b) La amplificación de la señal para mejorar su calidad.
+c) La propagación de la señal en diferentes direcciones.
+d) La interferencia de señales de diferentes fuentes.
+Respuesta: a) La pérdida de señal a medida que esta se transmite a través de un medio.
+
+44. ¿Qué es el tiempo de retardo en la capa física?
+a) La velocidad a la que se transmiten los datos.
+b) La cantidad de datos que se transmiten en un determinado periodo de tiempo.
+c) El tiempo que tarda una señal en llegar a su destino.
+d) La frecuencia de la señal transmitida.
+Respuesta: c) El tiempo que tarda una señal en llegar a su destino.
+
+45. ¿Qué es la codificación de línea en la capa física?
+a) La técnica de combinar varias señales en una sola señal compuesta.
+b) La técnica de convertir los datos digitales en señales analógicas para su transmisión.
+c) La técnica de variar la amplitud de una señal en función de los datos a transmitir.
+d) La técnica de variar la fase de una señal en función de los datos a transmitir.
+Respuesta: b) La técnica de convertir los datos digitales en señales analógicas para su transmisión.
+
+46. ¿Cuál es el tipo de conector utilizado en los cables de fibra óptica?
+a) Conector BNC.
+b) Conector SC.
+c) Conector RJ-45.
+d) Conector RCA.
+Respuesta: b) Conector SC.
+
+47. ¿Qué es la polarización en la capa física?
+a) La técnica de combinar varias señales en una sola señal compuesta.
+b) La técnica de variar la amplitud de una señal en función de los datos a transmitir.
+c) La orientación de la onda electromagnética que se transmite.
+d) La técnica de variar la fase de una señal en función de los datos a transmitir.
+Respuesta: c) La orientación de la onda electromagnética que se transmite.
+
+48. ¿Qué es el jitter en la capa física?
+a) La variación en el tiempo de llegada de las señales a su destino.
+b) La interferencia de señales de diferentes fuentes.
+c) La pérdida de señal a medida que esta se transmite a través de un medio.
+d) La propagación de la señal en diferentes direcciones.
+Respuesta: a) La variación en el tiempo de llegada de las señales a su destino.
+
+49. ¿Qué es la reflexión en la capa física?
+a) El rebote de la señal en un extremo del medio de transmisión.
+b) La absorción de la señal por el medio de transmisión.
+c) La interferencia de señales de diferentes fuentes.
+d) La variación en el tiempo de llegada de las señales a su destino.
+Respuesta: a) El rebote de la señal en un extremo del medio de transmisión.
+
+50. ¿Qué es el espectro electromagnético en la capa física?
+a) El rango de frecuencias de las señales electromagnéticas que se pueden transmitir.
+b) El número máximo de dispositivos que se pueden conectar a una red.
+c) El rango de distancia que puede cubrir una señal de red inalámbrica.
+d) El número de bits que se pueden transmitir en un segundo.
+Respuesta: a) El rango de frecuencias de las señales electromagnéticas que se pueden transmitir.

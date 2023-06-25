@@ -1,0 +1,349 @@
+﻿¿Cuál es el propósito principal de la capa de aplicaciones en el modelo OSI?
+A) Proporcionar servicios de enrutamiento de paquetes a través de la red
+B) Proporcionar servicios de segmentación y reensamblado de datos
+C) Proporcionar servicios de detección y corrección de errores en la transmisión de datos
+D) Proporcionar servicios de comunicación de usuario a usuario
+ANSWER: D
+
+¿Qué protocolo se utiliza comúnmente para enviar correo electrónico?
+A) HTTP
+B) SMTP
+C) FTP
+D) DNS
+ANSWER: B
+
+¿Cuál es el propósito de los protocolos HTTP y HTTPS?
+A) Para enviar y recibir correos electrónicos
+B) Para transferir archivos a través de la red
+C) Para acceder a sitios web y transferir información entre el servidor y el cliente
+D) Para controlar y monitorear el tráfico de red
+ANSWER: C
+
+¿Cuál es el propósito de los protocolos FTP y SFTP?
+A) Para enviar y recibir correos electrónicos
+B) Para transferir archivos a través de la red
+C) Para acceder a sitios web y transferir información entre el servidor y el cliente
+D) Para controlar y monitorear el tráfico de red
+ANSWER: B
+
+¿Qué protocolo se utiliza para la resolución de nombres de dominio en Internet?
+A) HTTP
+B) SMTP
+C) DNS
+D) DHCP
+ANSWER: C
+
+¿Cuál es el protocolo utilizado para enviar correo electrónico en Internet?
+A) SMTP
+B) HTTP
+C) FTP
+D) DNS
+ANSWER: A
+
+¿Cuál es el protocolo utilizado para la transmisión de archivos en una red?
+A) FTP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Cuál es el protocolo utilizado para la navegación web?
+A) HTTP
+B) SMTP
+C) FTP
+D) DNS
+ANSWER: A
+
+¿Qué protocolo se utiliza para la resolución de nombres de dominio en una red?
+A) DNS
+B) SMTP
+C) FTP
+D) HTTP
+ANSWER: A
+
+¿Cuál es el protocolo utilizado para la conexión remota a un ordenador en una red?
+A) RDP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Qué protocolo se utiliza para la transmisión de audio y vídeo en línea?
+A) RTSP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Qué protocolo se utiliza para la transferencia de hipertexto seguro?
+A) HTTPS
+B) HTTP
+C) FTP
+D) DNS
+ANSWER: A
+
+13 ¿Qué protocolo se utiliza para la transferencia de ficheros en línea?
+A) FTP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Qué protocolo se utiliza para la mensajería instantánea en una red?
+A) XMPP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Qué protocolo se utiliza para la transmisión de voz sobre IP (VoIP)?
+A) SIP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Cuál es el protocolo utilizado para la transferencia de correo electrónico entre servidores?
+A) POP3
+B) SMTP
+C) IMAP
+D) HTTP
+ANSWER: B
+
+¿Qué protocolo se utiliza para la transferencia de archivos entre dispositivos en una red local?
+A) FTP
+B) HTTP
+C) DNS
+D) SMTP
+ANSWER: A
+
+18¿Qué protocolo se utiliza para la transmisión de datos en tiempo real en una red?
+A) RTP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Cuál es el protocolo utilizado para el acceso remoto a servidores Unix?
+A) SSH
+B) FTP
+C) SMTP
+D) HTTP
+ANSWER: A
+
+¿Qué protocolo se utiliza para la gestión de redes en una LAN?
+A) SNMP
+B) SMTP
+C) FTP
+D) HTTP
+ANSWER: A
+
+¿Cuál es el protocolo utilizado para la comunicación entre dispositivos móviles en una red?
+A) Bluetooth
+B) Wi-Fi
+C) ZigBee
+D) NFC
+ANSWER: A
+
+¿Qué protocolo se utiliza para la transmisión de datos en tiempo real en una videoconferencia?
+A) RTCP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+23 ¿Cuál es el protocolo utilizado para la conexión a una base de datos en una red?
+A) ODBC
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Qué protocolo se utiliza para la transmisión de archivos multimedia a través de la web?
+A) RTMP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Cuál es el protocolo utilizado para la transferencia de datos de correo electrónico desde un servidor a un cliente?
+A) IMAP
+B) POP3
+C) SMTP
+D) HTTP
+ANSWER: B
+
+¿Qué protocolo se utiliza para acceder a sitios web y transferir información entre el servidor y el cliente?
+A) HTTP
+B) SMTP
+C) DNS
+D) FTP
+ANSWER: A
+
+¿Qué protocolo se utiliza para transferir archivos a través de la red?
+A) HTTP
+B) SMTP
+C) DNS
+D) FTP
+ANSWER: D
+
+¿Qué protocolo se utiliza para la transferencia de archivos segura?
+A) FTPS
+B) SFTP
+C) SCP
+D) FTP
+ANSWER: B
+
+¿Qué protocolo se utiliza para la conexión remota a otros dispositivos?
+A) RDP
+B) SSH
+C) Telnet
+D) VNC
+ANSWER: A
+
+¿Qué protocolo se utiliza para la transmisión de voz y video en tiempo real?
+A) RTP
+B) RTSP
+C) SIP
+D) H323
+ANSWER: A
+
+¿Qué protocolo se utiliza para la gestión de correo electrónico?
+A) POP3
+B) IMAP
+C) SMTP
+D) SNMP
+ANSWER: C
+
+¿Qué protocolo se utiliza para la gestión de red y la supervisión de dispositivos?
+A) POP3
+B) IMAP
+C) SNMP
+D) SMTP
+ANSWER: C
+
+¿Cuál es el protocolo utilizado para la resolución de nombres de dominio en Internet?
+A) DNS
+B) FTP
+C) SMTP
+D) HTTP
+ANSWER: A
+
+¿Qué protocolo se utiliza para la comunicación de voz y video en línea?
+A) SIP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Cuál es el protocolo utilizado para el intercambio de archivos en una red P2P?
+A) BitTorrent
+B) FTP
+C) SMTP
+D) HTTP
+ANSWER: A
+
+¿Qué protocolo se utiliza para la transferencia de archivos de gran tamaño a través de Internet?
+A) FTP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Cuál es el protocolo utilizado para la transmisión de mensajes de texto en tiempo real en una red?
+A) IRC
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Qué protocolo se utiliza para la transmisión de archivos de audio y video en una red local?
+A) DLNA
+B) SMTP
+C) HTTP
+D) DNS
+
+ANSWER: A
+¿Cuál es el protocolo utilizado para la gestión de recursos en una red?
+A) SNMP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Qué protocolo se utiliza para la conexión remota a un servidor Unix?
+A) SSH
+B) FTP
+C) SMTP
+D) HTTP
+ANSWER: A
+
+¿Cuál es el protocolo utilizado para la gestión de listas de correo electrónico en una red?
+A) LISTSERV
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Qué protocolo se utiliza para la transmisión de mensajes de voz en tiempo real en una red?
+A) VoIP
+B) SMTP
+C) HTTP
+D) DNS
+ANSWER: A
+
+¿Cuál de los siguientes no es un lenguaje de programación orientado a objetos?
+A) Java
+B) C++
+C) Python
+D) PHP
+ANSWER: D
+
+¿Cuál es el componente principal del sistema operativo encargado de administrar los recursos del sistema y proporcionar servicios a las aplicaciones?
+A) Kernel
+B) Shell
+C) Driver
+D) API
+ANSWER: A
+
+¿Qué protocolo se utiliza para la conexión remota segura a otros dispositivos?
+A) RDP
+B) SSH
+C) Telnet
+D) VNC
+ANSWER: B
+
+¿Cuál de los siguientes no es un sistema operativo de código abierto?
+A) Windows
+B) Linux
+C) FreeBSD
+D) OpenBSD
+ANSWER: A 
+
+¿Cuál es el lenguaje de programación más utilizado para la creación de aplicaciones móviles?
+A) Java
+B) Swift
+C) Objective-C
+D) Kotlin
+ANSWER: B 
+
+¿Qué protocolo se utiliza para la transferencia de archivos entre sistemas UNIX?
+A) NFS
+B) CIFS
+C) SMB
+D) AFP
+ANSWER: A 
+
+¿Cuál de los siguientes es un sistema de gestión de base de datos relacional de código abierto?
+A) SQL Server
+B) Oracle
+C) MySQL
+D) PostgreSQL
+ANSWER: D
+
+¿Cuál es el sistema de gestión de versiones más popular utilizado por los desarrolladores de software?
+A) Git
+B) SVN
+C) Mercurial
+D) CVS
+ANSWER: A 

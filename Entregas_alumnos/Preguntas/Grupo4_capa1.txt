@@ -1,0 +1,349 @@
+¿Con qué nombre se le conoce también a la capa física?
+A) Capa 7
+B) Capa de cableado
+C) Capa 1
+D) Capa óptica
+ANSWER: C
+
+¿Qué especificaciones define la capa física?
+A) Eléctricas, mecánicas, de procedimiento y funcionales
+B) Electrónicas, cableadas y funcionales
+C) Electrónicas, cableadas, de porcedimiento y funcionales
+D) Cableadas, eléctricas y electrónicas
+ANSWER:A
+
+¿Cuál es una de las funciones principales de la capa física?
+A) Codificar en señales los dígitos binarios que representan las tramas de la capa de Enlace de datos
+B) Representar el cableado mediante señales de protección
+C) Identificar el cableado de cada red y enumerarlo
+D) Adaptar el cableado físico a las instalaciones de cada usuario
+ANSWER: A
+
+¿Cuáles son sus tipos de representaciones de señales en los medios físicos?
+A) Señales electromagnéticas, mangnéticas y de microondoas
+B) Señales inalámbricas, eléctricas y magnéticas
+C) Señales eléctricas, representativas, y de microondoas
+D) Señales magnétivas, representativas y electromagnéticas
+ANSWER: C
+
+¿De qué tipo son las señales de microondas?
+A) Cableadas
+B) Inalámbricas y cableadas
+C) Ninguna
+D) Inalámbricas
+ANSWER: D
+
+¿Cuál es una función de la capa física?
+A) Definir el medio o medios físicos por los que va a viajar la comunicación
+B) Definir las características materiales
+C) Definir las características eléctricas para la transmisión
+D) Todas son correctas
+ANSWER: D
+
+La capa física se encarga de garantizar la fiabilidad de una conexión
+A) Siempre garantiza una conexión segura
+B) Nunca garantiza la conexión
+C) Solo garantiza la conexión, no su fiabilidad
+D) Solo garantiza la fiabilidad de la conexión
+ANSWER: C
+
+¿Cuál es el medio más usado para la comunicación de redes locales?
+A) El cable STFP
+B) El cable de cobre
+C) El cable de fibra óptica
+D) El cableado inalámbrico
+ANSWER: B
+
+¿Por cuántos pares de cables sólidos está formado el cable de cobre?
+A) 4 pares
+B) 8 pares
+C) 2 pares
+D) 12 pares
+ANSWER: A
+
+¿Cuál es la función de los cables verdes y naranjas en el cable de cobre?
+A) Garantizar una conexión contínua y sin cortes
+B) Transmitir y recibir datos
+C) Transmitir datos lo antes posible
+D) Recibir los datos de todos los usuarios y filtrarlos
+ANSWER: B
+
+¿Para qué se utiliza el par azul en el cable de cobre?
+A) Para filtrar los datos a transmitir
+B) Para transmitir y recibir datos
+C) Para sistemas de control
+D) Para la voz analógica
+ANSWER: D
+
+¿Para qué se emplea el par de color café en el cable de cobre?
+A) Para garantizar una conexión segura y sin cortes
+B) Para sistemas de control
+C) Para transmitir y recibir datos
+D) Para la voz analógica
+ANSWER: B
+
+¿Por cuántos cables está formado el cable de cobre?
+A) 4 cables
+B) 12 cables
+C) 8 cables
+D) 24 cables
+ANSWER: C
+
+¿Qué categorías existen en el cable de cobre?
+A) Categorías 3, 4, y 6A
+B) Categorías 1, 2, 4, 6O y 7
+C) Categorías 3, 5, 5E, 6 y 6A
+D) Categorías 1, 4, 6A, 7E y 8
+ANSWER: C
+
+¿Para qué se empleaban los cables de categoría 3?
+A) Para la voz analógica
+B) Para controlar sistemas de control
+C) Para comunicaciones telefónicas
+D) Para comunicaciones entre servidores
+ANSWER: C
+
+¿Qué no es cierto sobre la categoría 5?
+A) Garantiza que la señal transmitida en un par llegue igual desde un punto A hasta un punto B
+B) Evita la interferencia electromagnética de los otros cables
+C) Garantiza una mayor protección frente a posibles ataques
+D) Evitar ruidos externos al cable
+ANSWER: C
+
+¿Qué diferencia al cable de categoría 5E sobre el de categoría 5?
+A) Soporta mayor ancho de banda
+B) Permite mayor distancia de transmisión
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: A
+
+¿Qué problema soluciona el cableado de fibra óptica?
+A) Conexiones inestables
+B) distáncias demasiado larga
+C) Problemas de seguridad
+D) Todas son correctas
+ANSWER: B
+
+¿Cuál es el medio de transmisión que usa luz para transmitir datos?
+A) Cable de cobre
+B) Cable coaxial
+C) Fibra óptica
+D) Onda de radio
+ANSWER: C
+
+¿Qué nos indica la cantidad de datos que se transmiten en un canal de comunicación en un tiempo determinado?
+A) Ancho de banda
+B) Velocidad de transmisión
+C) Latencia
+D) Jitter
+ANSWER: B
+
+¿Qué técnica se usa para reducir la interferencia electromagnética en un cable de par trenzado?
+A) Blindaje
+B) Apantallamiento
+C) Polarización
+D) Modulación
+ANSWER: A
+
+¿Cuál es el medio de transmisión más común en redes Ethernet?
+A) Fibra óptica
+B) Cable coaxial
+C) Par trenzado
+D) Radiofrecuencia
+ANSWER: C
+
+¿Qué es el ancho de banda de una señal de red?
+A) La cantidad de datos que se pueden transmitir en una unidad de tiempo
+B) La distancia máxima que puede recorrer la señal
+C) La cantidad de ruido que puede tolerar la señal sin errores
+D) La capacidad máxima de un enlace de comunicaciones para transmitir datos a través de una conexión de red
+ANSWER: D
+
+¿Cuál es el propósito de la capa física?
+A) Establecer la conexión lógica entre los dispositivos
+B) Proporcionar servicios de enrutamiento
+C) Realizar la codificación y decodificación de los datos
+D) Transmitir y recibir datos a través del medio físico
+ANSWER: D
+
+¿Qué es un medio de transmisión?
+A) El dispositivo que envía los datos
+B) El dispositivo que recibe los datos
+C) El canal físico a través del cual se transmiten los datos
+D) El protocolo utilizado para enviar los datos
+ANSWER: C
+
+¿Cuál es la desventaja de los medios de transmisión inalámbricos?
+A) La velocidad de transmisión es baja
+B) Son más susceptibles a las interferencias
+C) Son más costosos que los medios alámbricos
+D) Todas son correctas
+ANSWER: D
+
+¿Cuáles son desventajas de la fibra óptica?
+A) Fragilidad y uso de transmisores y receptores más costos
+B) No transmite energía eléctrica y es la menos segura
+C) S ancho de banda es demasiado bajo
+D) Todas son incorrectas
+ANSWER: A
+
+¿Cuáles son ventajas de la fibra óptica?
+A) Un gran ancho de banda y un pequeño tamaño
+B) Un gran ancho de banda y una transmisión perfecta
+C) No puede transmitir potencias elevadas, siendo más seguro
+D) No produce errores ni interferéncias
+ANSWER: A
+
+¿Cuáles son conectores para el cable de cobre?
+A) RJ45 y micro-uSB
+B) RJ12, RJ24 y Jacks
+C) RJ11 y RJ45
+D) RJ45 y USB-C
+ANSWER: C
+
+¿Que colores de cable maneja un conector RJ45?
+A) Rojo, blanco rosa, azul, blanco azul, verde, blanco verde, marrón y blanco marrón
+B) Rojo, blanco rojo, azul, blanco azul, verde, blanco verde, marrón, y blanco marrón
+C) Naranja, blanco naranja, azul, blanco azul, verde, blanco verde, marrón y blanco marrón
+D) Rojo, blanco rojo, azul, blanco azul, verde, blanco verde, marrón y toma tierra
+ANSWER: C
+
+¿Cómo afecta el orden de los cables en un conector RJ45?
+A) El orden no importa, no afecta a su funcionamiento
+B) Se deben ordenar siempre de una misma forma
+C) Se pueden ordenar de dos posibles maneras
+D) Se deben ordenar según posibilidades de la instalación
+ANSWER: C
+
+Los estándares de la capa física especifican los requisitos de
+A) Señales, conexiones y seguridad
+B) Señales, conectores y cables
+C) Señales, velocidad de tranmisión y seguridad
+D) Todas son correctas
+ANSWER: B
+
+¿Cuáles son funciones principales de la capa física?
+A) Codificación de datos y señalización
+B) Seguridad de red y transmisión
+C) Señalización y ancho de banda necesário
+D) Todas son correctas
+ANSWER: A
+
+¿Qué características de una señal pueden cambiar los bits para representarse en el medio?
+A) Amplitud, frecuencia y fase
+B) Amplitud, frecuencia y ancho de banda
+C) Frecuencia, velocidad y transferéncia
+D) Ancho de banda, velocidad de transmisión y amplitud
+ANSWER: A
+
+¿Cuáles son las partes del cable UTP?
+A) Protección metálica, par trenzado y portección plástica para los cables
+B) Par trenzado, revestimento plástico y aislante
+C) Malla antimagnética, par trenzado y aislante
+D) Revestimiento exterior, par trenzado, aislamiento de plástico codificado por color
+ANSWER: D
+
+¿Cuáles son los principales tipos de cables UTP que se obtienen al usar convenciones específicas de cableado?
+A) Cable directo, semicruzado y transpuesto
+B) Cable de Ethernet, cable de RJ45 y de RJ11
+C) Cable directo de Ethernet, cruzado Ethernet y Transpuesto
+D) Cable alámbrico, inalámbrico y mixto
+ANSWER: C
+
+¿Qué es el cable coaxial?
+A) Consiste en un conductor de cobre rodeado de una capa de aislante flexible
+B) Pueden usarse para conectar los nodos de una LAN a los dispositivos intermedios
+C) Es un cable sin uso en la actualidad
+D) Es un cable divido por colores con una muy buena protección
+ANSWER: A
+
+¿Cómo funciona los medios inalámbricos?
+A) Transportan señales magnéticas mediante frecuencias de microondas y radiofrecuencias
+B) Transportan señales eléctricas mediante frecuencias de microondas y radiofrecuencias
+C) Transportan señales electrónicas mediante frecuencias de microondas y radiofrecuencias
+D) Transportan señales electromagnéticas mediante frecuencias de microondas y radiofrecuencias
+ANSWER: D
+
+¿Cuáles son las principales tecnologías para redes inalámbricas?
+A) Wi-Fi, Bluetooth, WiMAX y GSM
+B) Wi-Fi, Ethernet y Wi-FiMAX
+C) Wi-Fi, Ethernet, WiMAX y Wi-FiMAX
+D) Wi-Fi, GRS, Ethernet y Bluetooth
+ANSWER: A
+
+¿Cuáles son los tipos de conectores de la fibra óptica?
+A) SP, SL y ST
+B) ST, SC y LC
+C) SR, ST y BS
+D) SC, RT y RS
+ANSWER: B
+
+¿Cómo se conoce al conector ST?
+A) Conector de punta recta
+B) Conector suscriptor
+C) Conector Lucent
+D) Conector multimodo
+ANSWER: A
+
+¿Qué frase coincide con un conector SC?
+A) Ampliamente usado con fibra multimodo
+B) Está adquiriendo popularidad en su uso con fibra monomodo
+C) Los medios de fibra óptica no se alinean con precisión al unirlos
+D) Usa un mecanismo de doble efecto para asegurar la inserción positiva
+ANSWER: D
+
+¿Cuáles es un problema de la instalación de fibra óptica?
+A) Más costosos
+B) Manejo más cuidadoso que los medios de cobre
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: C
+
+¿Qué es el rendimiento?
+A) En esta técnica, 4 bits de datos se convierten en símbolos de un código de 5 bits
+B) Es la medida de transferencia de bits a través de los medios durante un período de tiempo determinado
+C) Es la medida de datos utilizables transferidos durante un período de tiempo determinado
+D) Mide la cantidad de información que puede fluir desde un lugar hacia otro
+ANSWER: B
+
+¿Qué es la codificación Manchester?
+A) Es la medida de datos utilizables transferidos durante un período de tiempo determinado
+B) Esta provee una forma simple de codificar secuencias de bits
+C) En esta técnica, 4 bits de datos se convierten en símbolos de un código de 5 bits
+D) Mide la cantidad de información que puede fluir desde un lugar hacia otro
+ANSWER: B
+
+¿Qué es la señalización NRZ?
+A) En esta técnica, 4 bits de datos se convierten en símbolos de un código de 5 bits
+B) Este provee una forma simple de codificar secuencias de bits
+C) Es un esquema que usa un nivel de tensión diferente para cada uno de los dígitos binarios
+D)Es la medida de datos utilizables transferidos durante un período de tiempo determinado
+ANSWER: C
+
+¿Qué es la codificación?
+A) Es un método usado para convertir un stream de bits de datos en un código predefinido
+B) Es un esquema que usa un nivel de tensión diferente para cada uno de los dígitos binarios
+C) Es la medida de transferencia de bits a través de los medios durante un período de tiempo determinado
+D) Este provee una forma simple de codificar secuencias de bits
+ANSWER: A
+
+¿Cuáles son los 3 tipos básicos de medios de red para representar los datos?
+A) Cable de fibra, cable de cobre y cable Ethernet
+B) Cable UTP, cable STP y cable FTP
+C) Cable de cobre, fibra e inalámbrico
+D) Cable UTP, cable FTP y cable de cobre
+ANSWER: C
+
+¿Qué elementos definidos podemos encontrar en un cable UTP?
+A) Tipo de cables, longitud, conectores, terminación y métodos para realizar pruebas del cable
+B)Tipo de cables, longitud, velocidad, conectores y pruebas de funcionamiento
+C) Ancho de banda, velocidad de transmisión, conectores y funcionamiento en la red
+D) Todas son correctas
+ANSWER: A
+
+¿Qué diferéncias hay entre el cable UTP y la fibra óptica?
+A) Los cables de fibra óptica son más delgados y livianos
+B) Los cables de fibra óptica se estima que tiene un tiempo de ciclo de vida útil mayor
+C) La fibra óptica no se ve afectado por la interferencia electromagnética ni por la interferencia de radiofrecuencia
+D) Todas son correctas
+ANSWER: D

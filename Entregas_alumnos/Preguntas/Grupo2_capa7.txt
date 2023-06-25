@@ -1,0 +1,353 @@
+¿Cuál es la principal función del protocolo DNS en la capa de aplicación del modelo TCP/IP?
+A) Proporcionar seguridad a la red.
+B) Resolver nombres de dominio en las direcciones IP.
+C) Gestionar las conexiones de red.
+D) Comprimir los datos durante la transmisión
+ANSWER: B
+
+¿Qué tipos de registros DNS se utilizan para resolver una dirección de correo electrónico?
+A) Registro PTR.
+B) Registro MX.
+C) Registro A.
+D) Registro NS.
+ANSWER: B
+
+¿Cómo se llama el proceso de traducción de un nombre de dominio en una dirección IP por el protocolo DNS?
+A) Name resolution.
+B) Address resolution.
+C) DNS resolution
+D) Domain resolution.
+ANSWER: A
+
+¿Qué es un registro CNAME en el DNS?
+A) Un registro que especifica que un nombre que dominio es un alias para otro nombre de dominio.
+B) Un registro que especifíca información de autoridad para un dominio.
+C) Un registro que especifica el tiempo de vida de una entrada de DNS.
+D) Un registro que especifica la dirección IP para un servidor de correo.
+ANSWER: A
+
+¿Cuál es el puerto utilizado para las consultas del protocolo DNS en la capa de transporte del modelo TCP/IP?
+A) Puerto 21
+B) Puerto 53
+C) Puerto 80
+D) Puerto 443
+ANSWER: B
+
+¿Qué es un registro MX en el protocolo TCP/IP híbrido?
+A) Un registro que asocia un nombre de dominio con una dirección IP.
+B) Un registro que asocia una dirección IP con un nombre de dominio.
+C) Un registro que identifica el servidor DNS autoritativo para un dominio.
+D) Un registro que identifica el servidor de correo electrónico para un dominio.
+ASNWER: D
+
+¿Qué es un registro NS en el protocolo TCP/IP híbrido?
+A) Un registro que asocia un nombre de dominio con una dirección IP.
+B) Un registro que asocia una dirección IP con un nombre de dominio.
+C) Un registro que identifica el servidor DNS autoritativo para un dominio.
+D) Un registro que identifica el servidor de correo electrónico para un dominio.
+ANSWER: C
+
+¿Qué es un registro SOA en el protocolo TCP/IP híbrido?
+A) Un registro que asocia un nombre de dominio con una dirección IP.
+B) Un registro que asocia una dirección IP con un nombre de dominio.
+C) Un registro que identifica el servidor DNS autoritativo para un dominio.
+D) Un registro que identifica el servidor de correo electrónico para un dominio.
+ANSWER: D
+
+¿Qué es el protocolo HTTP y cuál es su función dentro de la capa de aplicación del modelo TCP/IP híbrido?
+A) Un protocolo de transferencia de archivos diseñado para descargar archivos grandes.
+B) Un protocolo de correo electrónico utilizado para enviar mensajes de correo electrónico entre servidores.
+C) Un protocolo utilizado para proporcionar información sobre la ubicación de los servidores de correo electrónico para un dominio.
+D) Un protocolo utilizado para establecer comunicación entre clientes y servidores web para la transferencia de archivos multimedia y páginas web.
+ANSWER: D
+
+¿Cuál es la función del protocolo FTP en la capa de aplicación del modelo TCP/IP híbrido?
+A) Proporcionar servicios de transferencia de correo electrónico entre servidores.
+B) Proporcionar servicios de transferencia de archivos entre clientes y servidores.
+C) Proporcionar servicios de resolución de nombres de dominio.
+D) Proporcionar servicios de autenticación y seguridad en línea.
+ANSWER: B
+
+¿Qué es un agente de usuario dentro de la capa de aplicación del protocolo TCP/IP híbrido?
+A) Un programa informático que controla el flujo de datos en la red.
+B) Un programa informático que proporciona servicios de transferencia de archivos.
+C) Un programa informático que actúa como intermediario entre el usuario y el servidor.
+D) Un programa informático que proporciona servicios de seguridad en línea.
+ANSWER: C
+
+¿Qué es la capa de aplicación del protocolo TCP/IP híbrido y cuál es su función?
+A) Es la capa que se encarga de controlar la transferencia de datos de extremo a extremo.
+B) Es la capa que se encarga de establecer y mantener la conexión entre los dispositivos de red.
+C) Es la capa que se encarga de proporcionar servicios de aplicaciones de red.
+D) Es la capa que se encarga de convertir los datos de una red a otra.
+ANSWER: C
+
+¿Qué es el protocolo Telnet en la capa de aplicación del modelo TCP/IP?
+A) Un protocolo de transferencia de archivos.
+B) Un protocolo de transferencia de correo electrónico.
+C) Un protocolo de administración remota de sistemas.
+D) Un protocolo de seguridad en línea.
+ANSWER: C
+
+¿Qué tipo de aplicaciones de red se ejecutan en la capa de aplicación del modelo TCP/IP híbrido?
+A) Aplicaciones que facilitan la transferencia de archivos.
+B) Aplicaciones que facilitan la comunicación y el intercambio de datos entre los usuarios.
+C) Aplicaciones que gestionan la seguridad en línea.
+D) Aplicaciones que monitorizan y gestionan el rendimiento de la red.
+ANSWER: B
+
+¿En los tiempos de ARPANET como se llamaba su único archivo?
+A) name.txt.
+B) host.exe.
+C) name.exe.
+D) hosts.txt.
+ANSWER: D
+
+¿En el archivo hosts.txt, que se listaba?
+A) Nombres de usuarios y sus direcciones IP.
+B) Comandos de las computadoras.
+C) Nombres de computadoras y sus direcciones IP.
+D) Nombres de las direcciones IP.
+ANSWER: C
+
+¿Cual és la esencia de DNS?
+A) Esquema no jerarquico de nombre basado en dominios y un sistema de base de datos distribuido para implementar este esquema en nombres.
+B) Esquema jerarquico de nombre basado en dominios y un sistema base de datos distribuido para implementar este esquema en nombres.
+C) Proporcionar una capa de seguridad adicional para la transmisión de datos a través de la red.
+D) Proporcionar una capa de deominios adicionales para la transmisión de datos.
+ANSWER: B
+
+¿Qué comando es utilizado por POP3 para el inicio de sesión en el servidor de correo electrónico?
+A) CONNECT.
+B) USER.
+C) LOGIN.
+D) PASSWORD.
+ANSWER: B
+
+¿Qué proporciona un registro SOA?
+A) Nombre de la fuente primaria de información sobre la zona del servidor de nombres, la dirección de correo electrónico de su administrador,
+un número de serie único, varias banderas y temporizadores.
+B) Nombre de la fuente secunadria de información sobre la zona del servidor de nombres, la dirección de correo electrónico de su administrador,
+un número de serie único, varias banderas y temporizadores.
+C) Nombre de la fuente primaria de información sobre la zona del servidor de nombres, la dirección de correo electrónico de su administrador,
+un número de serie variable, varias banderas y temporizadores.
+D) Nombre de la fuente secundaria de información sobre la zona del servidor de datos, la dirección de correo electrónico de su administrador,
+un número de serie único, varias banderas y temporizadores.
+ANSWER: A
+
+¿Cúal és una de las principales funciones de la capa de aplicación?
+A) Permitir las comunicaciones de datos entre procesos de las aplicaciones en los mismos hosts.
+B) Permitir las comunicaciones de datos entre procesos de las aplicaciones en diferentes hosts.
+C) Permitir los intercambios de datos entre procesos de las aplicaciones de diferentes hosts.
+D) Permitir los intercambios de datos entre procesos de las aplicaciones en los mismos hosts.
+ANSWER: C
+
+¿Qué protocólos de aplicación utilizan el protocolo TCP como su protocolo de transporte?
+A) Telnet, SSH y POP.
+B) HTTP, FTP y SMTP
+C) FTP, SSH y POP
+D) Telnet, SSH y FTP
+ANSWER: B
+
+¿Qué protocólo de aplicación se utiliza para transferir archivos entre hosts en una red TCP/IP?
+A) HTTP
+B) SMTP
+C) FTP
+D) SSH
+ANSWER: C
+
+¿Cuál es la función principal del protocolo SMTP?
+A) Establecer conexión remótas.
+B) Enviar correos electronicos.
+C) Acceder a sitios web.
+D) Transferir archivos.
+ANSWER:B
+
+¿Cómo se llama el comando utilizado por el protocolo SMTP para enviar correo electrónico?
+A) GET.
+B) PUT.
+C) MAIL FROM.
+D) SET.
+ANSWER: B
+
+¿Cuál es la función principal de MIME?
+A) Establecer conexiones remotas.
+B) Transferir archivos de manera segura.
+C) Ampliar las capacidades de los correos electronicos.
+D) Acceder a sitios web.
+ANSWER: C
+
+¿Qué tipo de contenido puede procesar MIME en los correos electrónicos?
+A) Texto, imágenes, audio, vídeo y otros formatos.
+B) Texto, bits, audio, vídeo y otros formatos.
+C) Texto, imágenes, bits, vídeo y otros formatos.
+D) Texto, imágenes, audio, vídeo y bits.
+ANSWER: A
+
+¿Qué comando es utilizado por MIME para enviar correos electrónicos con archivos adjuntos?
+A) Mail From.
+B) Put.
+C) Get.
+D) Content-Disposition.
+ANSWER: D
+
+¿Cómo se llama el comando utilizado por POP3 para descargar correos electrónicos del servidor?
+A) FORWARD.
+B) SEND.
+C) RETR.
+D) REPLY.
+ANSWER: C
+
+¿Cuál es el propósito de la capa de aplicación en el protocolo TCP/IP?
+A) Proporcionar un medio físico para la transmisión de datos entre dispositivos.
+B) Establecer y mantener conexiones entre dispositivos.
+C) Proporcionar servicios y aplicaciones para usuarios finales.
+D) Dividir datos en paquetes para su transimisión eficiente.
+ANSWER: C
+
+¿Qué protocolo de la capa de aplicación se utiliza para la transmisión de correo electrónico?
+A) HTTP
+B) FTP
+C) SMTP
+D) DNS
+ANSWER: C
+
+¿Qué protocolo de la capa de aplicación se utiliza para la navegación web?
+A) HTPP
+B) FTP
+C) SMTP
+D) DNS
+ANSWER: A
+
+¿Qué servicio de la capa de aplicación permite a los usuarios conectarse y trabajar en una red remota?
+A) FTP
+B) Telnet
+C) DNS
+D) SMTP
+ANSWER: B
+
+¿Qué protocolo se utiliza para resolver nombres de dominio en la capa de aplicación del protocolo TC/IP?
+A) SMTP
+B) TCP
+C) DNS
+D) FTP
+ANSWER: C
+
+¿Qué significa DNS en el protocolo TCP/IP?
+A) Domain Name System
+B) Dynamic Network Service
+C) Data Network Security
+D) Digital Naming System
+ANSWER: A
+
+¿Cuál es la función principal del DNS en el protocolo TCP/IP?
+A) Convertir nombres de dominio en direcciones IP
+B) Convertir direcciones IP en nombres de dominio
+C) Proporcionar seguridad en la red
+D) Establecer la comunicación entre dispositivos de red
+ANSWER: A
+
+¿Cuál es el formato utilizado para representar los nombres de dominio en el DNS?
+A) Decimal
+B) Binario
+C) Hexadecimal
+D) Alfanumérico
+ANSWER: D
+
+¿Cuál es la longitud máxima permitida para un nombre de dominio en el DNS?
+A)  63 caracteres
+B)  128 caracteres
+C)  255 caracteres
+D)  No hay límite de longitud
+ANSWER: C
+
+¿Cuál es el tipo de registro DNS utilizado para mapear un nombre de dominio a una dirección IP?
+A)  CNAME
+B)  NS
+C)  A
+D)  MX
+ANSWER: C
+
+¿Cuál es el registro DNS utilizado para delegar la autoridad sobre un subdominio a otro servidor de nombres?
+A)  CNAME
+B)  NS
+C)  A
+D)  MX
+ANSWER: B
+
+¿Qué tipo de registro DNS se utiliza para crear un alias para un nombre de dominio existente?
+A)  CNAME
+B)  NS
+C)  A
+D)  MX
+ANSWER: A
+
+¿Cuál es la función de un servidor de nombres en el DNS?
+A)  Convertir nombres de dominio en direcciones IP
+B)  Almacenar registros DNS
+C)  Proporcionar seguridad en la red
+D)  Facilitar la comunicación entre dispositivos de red
+ANSWER: B
+
+¿Qué hace la capa de aplicación en el modelo híbrido/mixto de 5 capas?
+A) La capa que maneja la comunicación con otras aplicaciones y sistemas.
+B) La capa que se encarga de la representación visual de la información al usuario.
+C) La capa que gestiona la lógica de negocio de la aplicación.
+D) La capa que interactúa con la base de datos.
+ANSWER: A
+
+¿Qué es una API?
+A) Un conjunto de herramientas para la creación de bases de datos.
+B) Un conjunto de herramientas para la creación de interfaces de usuario.
+C) Un conjunto de herramientas para la creación de aplicaciones web.
+D) Un conjunto de herramientas para la interacción entre aplicaciones y sistemas.
+ANSWER: D
+
+¿Qué es un patrón de arquitectura MVC?
+A) Un patrón que separa la interfaz de usuario de la lógica de negocio y los datos.
+B) Un patrón que se centra en la creación de objetos.
+C) Un patrón que se centra en la manipulación de datos.
+D) Todas son falsas.
+ANSWER: A
+
+¿Por qué es importante utilizar una conexión segura al usar Telnet?
+A) Para permitir la entrada no autorizada a un sistema remoto.
+B) Para garantizar la transferencia rápida de datos.
+C) Para asegurar la compatibilidad entre distintas versiones de Telnet.
+D) Todas son incorrectas.
+ANSWER: D
+
+¿Qué protocolo se encarga de facilitar el intercambio de información de administración entre dispositivos de red?
+A) DHCP
+B) HTTP
+C) NAT
+D) SNMP
+ANSWER: D
+
+El____________ es un protocolo de capa de aplicación cuya función principal es asignar los parámetros de red de forma automática.
+A) DNS
+B) NAT.
+C) DHCP.
+D) SMTP
+ANSWER: C
+
+¿Cuál es el propósito principal del protocolo NTP en la capa de aplicación del protocolo TCP/IP?
+A) Administrar dispositivos en la red.
+B) Proporcionar servicios de tansferencia de archivos.
+C) Sincronizar los relojes de los dispositivos en la red.
+D) Todas son correctas.
+ANSWER: C
+
+¿Cuál es el propósito principal del protocolo DNSSEC en la capa de aplicación del protocolo TCP/IP?
+A) Proporcionar servicios de correo electrónico seguros.
+B) Porporcionar una capa adicional de seguridad para la resolución de nombres de dominio.
+C) Proporcionar servicios de transferencia seguros.
+D) Ninguna respuesta es correcta.
+ANSWER: B
+
+¿Qué tipo de conexión proporciona Telnet?
+A) Una conexión segura mediante el cifrado de los datos.
+B) Una conexión en tiempo real de doble vía.
+C) Una conexión que utiliza un cliente y un servidor Telnet
+D) Todas las respuestas son correctas.
+ANSWER: B

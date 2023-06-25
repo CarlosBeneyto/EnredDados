@@ -1,0 +1,349 @@
+La capa de red también se conoce cómo
+A) Capa 2
+B) Capa 3
+C) Capa de sesión
+D) Todas son incorrectas
+ANSWER: B
+
+La capa de red proporciona
+A) Conectividad y selección de ruta entre dos sistemas de hosts que pueden estar ubicados en redes geográficamente distintas
+B) Información en la trama que identifica qué protocolo de capa de red está siendo usado por la trama
+C) Direccionamiento de origen y destino para transportar la red entre dispositivos
+D) Información de control como direccionamiento y está ubicada al comienzo de la trama
+ANSWER: A
+
+¿Cuántos bits tienen las direcciones IPv4?
+A) 16
+B) 64
+C) 32
+D) 128
+ANSWER: C
+
+¿Cuántos bits tienen las direcciones IPv6?
+A) 16
+B) 32
+C) 64
+D) 128
+ANSWER: D
+
+Las funciones principales de la capa de red son
+A) Redireccionamiento, funcionamiento, conexión y descifrado
+B) Direccionamiento, funcionamiento, lanzamiento y reencapsulamiento
+C) Direccionamiento, encapsulamiento, enrutamiento y desencapsulamiento
+D) Interconexionado, descifrado, analizado y reenvío
+ANSWER: C
+
+¿En qué consiste el direccionamiento?
+A) Este es capaz de proporcionar un mecanismo para direccionar los datos a los equipos finales
+B) Este agrega un encabezado o etiqueta que contiene la dirección de origen y destino de los datos
+C) Este proporciona un servicio que es capaz de dar la ruta más rápida y eficaz para llegar a dirección final
+D) Este proporciona conectividad y selección de ruta entre dos sistemas de hosts
+ANSWER: A
+
+¿En qué consiste el encapsulamiento?
+A) Este proporciona conectividad y selección de ruta entre dos sistemas de hosts
+B) Este es capaz de proporcionar un mecanismo para direccionar los datos a los equipos finales
+C) Este proporciona un servicio que es capaz de dar la ruta más rápida y eficaz para llegar a dirección final
+D) Este agrega un encabezado o etiqueta que contiene la dirección de origen y destino de los datos
+ANSWER: D
+
+¿En qué consiste el enrutamiento?
+A) Este proporciona un servicio que es capaz de dar la ruta más rápida y eficaz para llegar a dirección final
+B) Este es capaz de proporcionar un mecanismo para direccionar los datos a los equipos finales
+C) Este agrega un encabezado o etiqueta que contiene la dirección de origen y destino de los datos
+D) Este proporciona conectividad y selección de ruta entre dos sistemas de hosts
+ANSWER: A
+
+¿En qué consiste el desencapsulamiento?
+A) Este proporciona un servicio que es capaz de dar la ruta más rápida y eficaz para llegar a dirección final
+B) Este se encarga de leer el encabezado del paquete recibido para verificar si su dirección de destino es la suya
+C) Este agrega un encabezado o etiqueta que contiene la dirección de origen y destino de los datos
+D) Este es capaz de proporcionar un mecanismo para direccionar los datos a los equipos finales
+ANSWER: B
+
+¿Que versiones IP encontramos en esta capa?
+A) IPver3 e IPver7
+B) IPvs1 e IPvs5
+C) IPv4 e IPv6
+D)Todas son correctas
+ANSWER: C
+
+¿Cuáles son características de IPv4?
+A) Agrega un encabezado o etiqueta que contiene la dirección de origen y destino de los datos y redirecciona el servicio de red
+B) Opera independientemente del medio que lleva los datos y proporciona un servicio que es capaz de dar la ruta más rápida
+C) No establece conexión antes de enviar los paquetes de datos y no se usan encabezados para garantizar la entrega de paquetes
+D) Todas son correctas
+ANSWER: C
+
+¿Cuáles son campos de un protocolo IPv4?
+A) Dirección IP origen, dirección IP destino, TTL y ToS
+B) Dirección IP continua, dirección IPv4 destino y LoR
+C) Dirección de origen, tiempo de vida y LoR
+D) Longitud del paquete, dirección IP origen y LoR
+ANSWER: A
+
+Las redes se pueden agrupar según su
+A) Ancho de banda, velocidad y transmisión en red
+B) Ubicación geográfica, propósito y propiedad
+C) Calidad de muestreo, período de vida y longitud total
+D) Todas son correctas
+ANSWER: B
+
+¿Cuáles son problemas comunes en redes grandes?
+A) Degradación del rendimiento y seguridad
+B) Administración de paquetes de servidores
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: A
+
+¿Qué es un broadcast?
+A) Es un dispositivo que ofrece una conexión Wi‑Fi
+B) Es una manera de organizar secciones de datos para que sean transferidos por una red de ordenadores
+C) Es un conjunto de equipos conectados por medio de cables
+D) Es un mensaje desde un host hacia todos los otros hosts en la red
+ANSWER: D
+
+¿IP tiene conexión?
+A) Si
+B) No, IP crea una conexión de extremo a extremo dedicada antes de enviar los datos
+C) No, IP no crea una conexión de extremo a extremo dedicada antes de enviar los datos
+D) Todas son incorrectas
+ANSWER: C
+
+¿IP tiene funcionalidad para administrar o recuperar paquetes no recibidos o dañados?
+A) No
+B) Si, esto se debe a que los paquetes contienen información para saber si la entrega fue exitosa o no
+C) Si, esto se debe a que los paquetes contienen diálogos para saber si la entrega fue exitosa o no
+D) Si, esto se debe a que los paquetes contienen servicios para informar al cliente de la entrega
+ANSWER: A
+
+¿Qué significa MTU?
+A) Main trouble unit
+B) Mención de transporte única
+C) Unidad de transmisión máxima
+D) Modern transmision unit
+ANSWER: C
+
+¿Cuándo ocurre la fragmentación de paquetes?
+A) Cuando el paquete es demasiado inestable para la red del servidor de destino
+B) Cuando un router debe dividir un mismo paquete IPv6 entre varias redes de servidores
+C) Cuando un dispositivo intermedio debe reenviar un paquete IPv4 de un medio a otro con una MTU más pequeña
+D) Todas son incorrectas
+ANSWER: C
+
+¿IP requiere de campos adicionales en el encabezado para mantener una conexión establecida?
+A) Si, este proceso acelera la transmisión de IP
+B) Depende del ancho de banda necesario para el campo
+C) No, este proceso reduce en gran medida la sobrecarga de IP
+D) Todas son incorrectas
+ANSWER: C
+
+¿Cuál de las funciones principales es la capaz de proporcionar un mecanismo para direccionar los datos a los equipos finales?
+A) Direccionamiento
+B) Encapsulamiento
+C) Enrutamiento
+D) Desencapsulamiento
+ANSWER: A
+
+¿Cuál de las funciones principales agrega un encabezado o etiqueta que contiene la dirección de origen y destino de los datos?
+A) Enrutamiento
+B) Desencapsulamiento
+C) Encapsulamiento
+D) Direccionamiento
+ANSWER: C
+
+¿Cuál de las funciones se encarga de leer el encabezado del paquete para verificar si su dirección de destino es la suya?
+A) Desencapsulamiento
+B) Enrutamiento
+C) Direccionamiento
+D) Encapsulamiento
+ANSWER: A
+
+¿Cuál de las funciones se encarga de proporcionar un servicio que es capaz de dar la ruta más rápida y eficaz para llegar a la dirección final?
+A) Enrutamiento
+B) Desencapsulamiento
+C) Direccionamiento
+D) Encapsulamiento
+ANSWER: A
+
+¿Entre IPv4 e IPv6 cuál es el más antiguo?
+A) IPv4
+B) IPv6
+C) A y B
+D) Ninguna es correcta
+ANSWER: A
+
+Es un campo de 8 bits en el encabezado IPv4 que se usa para determinar la prioridad de cada paquete
+A) Longitud total
+B) Versión
+C) Servicios diferenciados o DiffServ
+D) Todas las anteriores
+ANSWER: C
+
+Esta característica de IP significa que el transporte de paquetes IP no está limitado a un medio en particular
+A) Entrega servicio mínimo
+B) Entrega servicio máximo
+C) Independiente de los medios
+D) Sin conexión
+ANSWER: C
+
+Un router debe dividir el paquete cuando se reenvía de un medio a otro con una MTU menor, este proceso se denomina
+A) Enrutamiento
+B) Fragmentación de paquetes
+C) Balanceo de carga
+D) Direccionamiento
+ANSWER: B
+
+¿Cuál es el formato de las direcciones del protocolo de Internet IPv4?
+A) Notación decimal
+B) Notación hexadecimal
+C) Código binario
+D) Ninguna de las anteriores
+ANSWER: A
+
+¿Cuál es el formato de las direcciones del protocolo de internet IPv6?
+A) Notación decimal
+B) Notación hexadecimal
+C) Código binario
+D) Ninguna de las anteriores
+ANSWER: B
+
+¿Qué es la capa de red?
+A) Es una capa que define las aplicaciones red y los servicios de internet estándar que puede utilizar un usuario
+B) Es una capa que garantiza que los paquetes lleguen en secuencia sin errores
+C) Es una capa del Modelo OSI la cual está en la capa 4 y se encarga de llevar a red todo lo que le mandan de las capas anteriores
+D) Es una capa que proporciona conectividad y selección de ruta entre dos sistemas de host que pueden estar ubicados en redes geográficamente distintas
+ANSWER: D
+
+¿Cuál es la función de un enrutador?
+A) Asegurar el enrutamiento de paquetes entre redes o determinar la ruta que debe tomar el paquete de datos
+B) Conectar equipos en red formando una red LAN
+C) Se encarga de la interconexión de dispositivos cableados
+D) A y B
+ANSWER: A
+
+¿Qué son los paquetes?
+A) Bloques de información que tiene la capa anterior
+B) Son todos los datos enviados por internet que se dividen en fragmentos más pequeños
+C) A y B
+D) Ninguna de las anteriores
+ANSWER: B
+
+En una red IPv4, cuando se agrega una dirección a un dispositivo final, se lo denomina
+A) Host
+B) Paquete
+C) Enrutamiento
+D) Encapsulamiento
+ANSWER: A
+
+Las características básicas de IPv4 son
+A) Servicio sin conexión
+B) Servicio de mejor intento
+C) Independiente de los medios
+D) Todas las anteriores
+ANSWER: D
+
+La función del router es
+A) Seleccionar las rutas y dirigir paquetes hacia su destino
+B) Seleccionar frame de datos y dirigir estos hacia su destino
+C) Mapea las direcciones IP
+D) Codifica los paquetes
+ANSWER: A
+
+¿Qué nos indica la longitud total de un paquete IP?
+A) El tamaño del paquete
+B) El identificador original del paquete
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: A
+
+Si el host de destino está en la misma red que el host de origen, ¿el paquete a enviar necesita de un router?
+A) Si, el paquete puede llevar una PDU de la capa de transporte
+B) No, se construye en la capa 3 para transportar el PDU
+C) Si, la comunicación se produce entre dos hosts de diferentes redes
+D) No, se envía entre los dos hosts en el medio local
+ANSWER: D
+
+¿Qué es el gateway predeterminado?
+A) Es un dispositivo de servidores que garantiza que los paquetes lleguen en secuencia sin errores
+B) Llamado también puerta de enlace, es un dispositivo que permite interconectar redes
+C) Este es un tipo de router que mantiene una tabla de enrutamiento para cada red
+D) Todas son falsas
+ANSWER: B
+
+¿Qué es el enrutamiento?
+A) Es el servicio sin conexión
+B) Es el identificador original del paquete
+C) Es un dispositivo de servidores que garantiza que los paquetes lleguen en secuencia sin errores
+D) Es el proceso de selección de rutas en cualquier red
+ANSWER: D
+
+¿Cuántas direcciones IP debe tener un terminal?
+A)1
+B)3
+C)5
+D)2
+ANSWER: A
+
+¿Qué dos tipos de encabezado IP tiene el encapsulamiento?
+A) Recepción y extracción
+B) Extracción y posición
+C) Envió y recepción
+D) Envió y demostración
+ANSWER: C
+
+¿Por qué dispositivos es examinado es el encabezado IP?
+A) Routers y SAI
+B) Routers y switches
+C) Switches y repetidores
+D) Repetidores y columnas
+ANSWER: B
+
+¿Cuál es el término para dividir un paquete IP al reenviarlo de un medio a otro medio con una MTU más pequeña?
+A) Encapsulación
+B) Fragmentación
+C) Segmentación
+D) Serialización
+ANSWER: B
+
+¿Qué método de entrega no garantiza que el paquete se entregará completamente sin errores?
+A)sin conexión
+B)mejor esfuerzo
+C)independiente de los medios
+D)con conexión
+ANSWER: B
+
+¿Qué porción de la dirección de la capa de red utiliza un router para reenviar paquetes?
+A) Dirección de broadcast
+B) Porción de red
+C) Dirección de gateway
+D) Porción de host
+ANSWER: B
+
+Si la gateway por defecto está configurada de forma incorrecta en el host, ¿cuál es el impacto sobre las comunicaciones?
+A) No hay impacto sobre las comunicaciones
+B) El host puede comunicarse con otros hosts en redes remotas, pero no se puede comunicar con hosts de la red local
+C) El host no puede comunicarse en la red local
+D) El host puede comunicarse con otros hosts en la red local, pero no se puede comunicar con hosts de redes remotas
+ANSWER: D
+
+¿Cuál es el propósito de una gateway por defecto?
+A) Dirección permanente a una computadora
+B) Redireccionar una computadora a una red proporciona una
+C) Identificar la red con la cual está conectada una computadora
+D) Identificar al dispositivo que permite que se comuniquen computadoras de la red local con dispositivos de otras redes
+ANSWER: D
+
+¿Cuál de las siguientes opciones es correcta para un sistema sin conexión?
+A) El servidor envía un acuse de recibo al origen solicitando el envío del siguiente paquete
+B) No se establece contacto con el destino antes de enviar un paquete
+C) Se establece contacto con el destino antes de enviar un paquete
+D) El servidor envía un acuse de recibo al origen indicando que se ha recibido el paquete
+ANSWER: B
+
+¿Qué información se agrega durante la encapsulación en la capa 3 de OSI?
+A) Número de puertos de origen y destino
+B) MAC de origen y destino
+C) Protocolo de aplicaciones de origen y destino
+D) Dirección de IP y destino
+ANSWER: D

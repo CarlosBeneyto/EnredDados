@@ -1,0 +1,349 @@
+¿Cómo se le conoce también a la capa de enlace de datos?
+A) Capa 2
+B) Capa de sesión
+C) Capa 1
+D) Capa 3
+ANSWER: A
+
+¿Cuál es la función de la capa de enlace de datos?
+A) Conectar los dispositivos a su destino
+B) Proporcionar tránsito de datos confiable a través de un enlace físico
+C) Proporcionar una red entre usuario y servidor
+D) Suministrar servicios de red a las aplicaciones del usuario
+ANSWER: B
+
+¿Qué incluye siempre una trama?
+A) Datos, paquetes y sesiones
+B) Datos, direccionamiento y aplicación
+C) Datos, encabezado y tráiler
+D) Datos, direccionamiento y enlace
+ANSWER: C
+
+En una trama, ¿qué son los datos?
+A) Es el paquete desde la capa de red que contiene el cuerpo del mensaje encapsulado
+B) Contienen información de control como direccionamiento y está ubicado al comienzo del paquete
+C) Contienen información de control agregada al final del paquete de datos
+D) Se utilizan para resolver nombres de Internet en direcciones IP
+ANSWER: A
+
+En una trama, ¿qué contiene el encabezado?
+A) Contiene información para resolver nombres de Internet en direcciones IP
+B) Contienen información de control agregada al final del paquete de datos
+C) Contienen información de control como direccionamiento y está ubicado al comienzo del paquete
+D) Contiene información de control como direccionamiento y está ubicado al comienzo de la trama
+ANSWER: D
+
+En una trama, ¿Qué contiene el tráiler?
+A) Contienen información de control agregada al final del paquete de datos
+B) Contiene información de control agregada al final de la trama
+C) Contiene información de control como direccionamiento y está ubicado al comienzo de la trama
+D) Contiene información para resolver nombres de Internet en direcciones IP
+ANSWER: B
+
+¿Cuáles son los campos que solemos encontrar en el formateo de los datos para la transmisión?
+A) Campos indicadores de comienzo y detención, campos del tipo de PDU, campos de control, campos de datos y campos finales
+B) Campos iniciales, campos de seguridad y campos de detección de PDU
+C) Campos de datos, campos de calidad, campos de transmisión y campos de detección de PDU
+D) Campos de la clase de PDU, campos de detención y comienzo, campos de seguridad y campos de colisión
+ANSWER: A
+
+La capa de enlace de datos
+A) Contiene información de control como direccionamiento y está ubicado al comienzo de la trama
+B) Marca los límites de comienzo y finalización de la transmisión
+C) Suministra servicios de red a las aplicaciones del usuario
+D) Prepara los paquetes de capa de red para la transmisión a través de alguna forma de medio
+ANSWER: D
+
+Esta capa se encarga de
+A) Direccionamiento físico, topología de red y acceso al medio
+B) Detección de errores, velocidad de transmisión y control de flujo
+C) Distribución de tramas, acceso a los servidores y seguridad
+D) Acceso al medio, ancho de banda permitido y conexiones
+ANSWER: A
+
+¿Qué es LLC?
+A) Línea lógica de conexiones
+B) Líneas lógicas continuamente
+C) Control de enlace lógico
+D) Long logic cable
+ANSWER: C
+
+¿Que es MAC?
+A) Menú de acceso controlado
+B) Media access controller
+C) Main access control
+D) Control de acceso al medio
+ANSWER: D
+
+¿Cuáles son protocolos de la capa 2?
+A) FTP, Frame Relay, Telnet e IMAP
+B) PPP, Ethernet, HDLC y ATM
+C) ATM, HDLC, BOOTP e IMAP
+D) HDLC, BOOTP, IMAP y FTP
+ANSWER: B
+
+¿Qué hace el control de enlace lógico?
+A) Coloca información en la trama que identifica qué protocolo de capa de red está siendo usado por la trama
+B) Se utiliza para resolver nombres de Internet en direcciones IP
+C) Se usa para proporcionar acceso remoto a servidores y dispositivos de red
+D) Se utiliza para la transferencia interactiva de archivos entre sistemas
+ANSWER: A
+
+¿Qué hace el control de acceso al medio?
+A) Coloca información en la trama que identifica qué protocolo de capa de red está siendo usado por la trama
+B) Proporciona a la capa de enlace de datos el direccionamiento y la delimitación de datos
+C) Se utiliza para resolver nombres de Internet en direcciones IP
+D) Se usa para proporcionar acceso remoto a servidores y dispositivos de red
+ANSWER: B
+
+Cuándo la subcapa MAC proporciona encapsulación de datos, se encarga de
+A) Transferencia interactiva, colocar la trama y acceso por el medio
+B) Colocar información de la trama, encontrar el direccionamiento y control del medio
+C) Delimitación del marco, direccionamiento y detección de errores
+D) Delimitación del destino, acceso controlado y acceso seguro
+ANSWER: C
+
+¿Cuáles son funciones que realiza un router en cada salto?
+A) Acepta una trama de un medio, desencapsula la trama y vuelve a encapsular el paquete en una nueva trama
+B) Coloca la información de la trama, la desencapsula y reenvía el paquete
+C) Coloca la nueva trama, la conecta y reenvía la nueva trama
+D) Accede a la trama, desencapsula el paquete de esta y reenvía el resultado a la siguiente trama
+ANSWER: A
+
+¿Cuáles forman parte de los estándares de la capa de enlace de datos?
+A) ITU, IEE, FTP y STP
+B) IEEE, ITU-T, ISO y ANSI
+C) IMAP, IEEE, ISO y STP
+D) ITU, IEEE, STP e IMAP
+ANSWER: B
+
+La capa de enlace de datos IEEE 802 LAN/MAN consta de dos subcapas
+A) Control de enlace lógico y control de acuerdo al medio
+B) LLC y MAC
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: B
+
+En la subcapa MAC, ¿En qué consiste el direccionamiento?
+A) Este marca los límites de comienzo y finalización de la transmisión
+B) Coloca la nueva trama, la conecta y reenvía la nueva trama
+C) Proporciona direccionamiento de origen y destino para transportar la trama entre dispositivos
+C) Incluye un avance utilizado para detectar errores de transmisión
+ANSWER:
+
+¿Cuál de estas frases acerca de la capa 2 es falsa?
+A) Permite que las capas superiores accedan a los medios
+B) Controla cómo se colocan y reciben los datos en los medios
+C) Suministra servicios de red a las aplicaciones del usuario
+D) Intercambia tramas entre puntos finales a través de los medios de red
+ANSWER: C
+
+¿Qué se utiliza para transportar la trama a través de los medios locales compartidos?
+A) Direccionamiento IP
+B) Direccionamiento proporcionado en la capa de enlace de datos
+C) El número de puerto
+D) Ninguna de las anteriores
+ANSWER: B
+
+¿Cuáles son las formas físicas usadas para transportar señales de datos?
+A) Los medios
+B) Las personas
+C) Los dispositivos
+D) Todas las anteriores
+ANSWER: A
+
+¿Qué se compone de dos o más dispositivos conectados a un medio común?
+A) Una red
+B) Un nodo
+C) Un sistema de comunicación
+D) Un router
+ANSWER: A
+
+¿Cuántos bits tiene una dirección MAC?
+A) 12
+B) 48
+C) 24
+D) 32
+ANSWER: B
+
+La regulación de la colocación de tramas de datos en los medios es conocida como
+A) Token ring
+B) Ethernet
+C) Control de acceso al medio
+D) Ninguna de las anteriores
+ANSWER: C
+
+¿Qué se usa para determinar si la trama llegó sin errores al dispositivo destino?
+A) La dirección IP
+B) El campo de datos
+C) El encabezado
+D) El tráiler
+ANSWER: D
+
+Es un dispositivo en una red
+A) Trama
+B) Nodo
+C) Medio
+D) Ninguna de las anteriores
+ANSWER: A
+
+Este protocolo se implementa en redes LAN y están definidas en los estándares IEEE 802.2 y 802.3
+A) Wifi
+B) Ethernet
+C) Wireless
+D) Token Ring
+ANSWER: B
+
+Este elemento de la trama contiene información de control, como direccionamiento y está ubicado al comienzo de la PDU
+A) Tráiler
+B) Encabezado
+C) Datos
+D) Ninguna de las anteriores
+ANSWER: B
+
+Proporciona a la capa de enlace de datos el direccionamiento y la delimitación de datos
+A) El control de enlace lógico LLC
+B) CSMA/CD
+C) El control de acceso a los medios MAC
+D) Todas las anteriores
+ANSWER: C
+
+¿Cuál es el estándar de las redes inalámbricas o Wi-Fi?
+A) 802.3
+B) 802.5
+C) 802.13
+D) 802.11
+ANSWER: D
+
+¿Que estándar es implementado en redes Token bus?
+A) 802.3
+B) 802.4
+C) 802.13
+D) 802.11
+ANSWER: B
+
+A las direcciones del dispositivo en la capa de enlace de datos se las llama
+A) Direcciones multicast
+B) Direcciones IP
+C) CSMA/CD
+D) Direcciones físicas
+ANSWER: D
+
+¿Qué organización define estándares para la capa de acceso a la red? Es decir, las capas físicas y de enlace de datos OSI
+A) Cisco
+B) IANA
+C) IEEE
+D) IETF
+ANSWER: C
+
+Los estándares IEEE 802 LAN/MAN son específicos para
+A) LAN, MAN, WMAN, y WRAN
+B) LAN, WLAN, WPAN y otros
+C) LAN, WSAN, TAN y WLAN
+D) WLAN, MLAN, TLAN y otros
+ANSWER: B
+
+¿Cuál de las siguientes opciones es el nombre oficial de la dirección que el fabricante asigna a cada tarjeta de interfaz de red NIC?
+A) Direccion Nick
+B) Direccion MAC
+C) Direccion IP
+D) Direccion Origen
+ANSWER: B
+
+¿Qué dispositivo se utiliza para conectar redes LAN que se encuentran geográficamente separadas?
+A) Hub
+B) Router
+C) Puente
+D) Repetidor
+ANSWER: B
+
+En la subcapa MAC, ¿qué hace la detección de errores?
+A) comprueba la calidad del enlace usado
+B) Incluye un avance utilizado para detectar errores de transmisión
+C) Proporciona direccionamiento de origen y destino para transportar la trama entre dispositivos
+D) Se utiliza para la transferencia interactiva de archivos entre sistemas
+ANSWER: B
+
+En la subcapa MAC, ¿qué hace la delimitación del marco?
+A) Es el proceso de encuadre que ofrece delimitadores importantes para identificar los campos dentro de un marco
+B) Proporciona direccionamiento de origen y destino para transportar la trama entre dispositivos
+C) Incluye un avance utilizado para detectar errores de transmisión
+D) Se utiliza para la transferencia interactiva de archivos entre sistemas
+ANSWER: A
+
+¿Qué estándar se utiliza para redes Bluetooth?
+A) IEEE 802.16
+B) IEEE 802.3
+C) IEEE 802.15
+D) IEEE 802.4
+ANSWER: C
+
+¿Qué estándar se emplea para redes WiMax?
+A) IEEE 804.15
+B) IEEE 802.5
+C) IEEE 802.15
+D) IEEE 802.16
+ANSWER: D
+
+¿Qué estándar se usa para redes de control de enlace lógico?
+A) IEEE 802.3
+B) IEEE 802.4
+C) IEEE 802.2
+D) IEEE 802.5
+ANSWER: C
+
+Las interfaces del router
+A) Comprueban la calidad del enlace usado
+B) Encapsulan el paquete en la trama apropiada
+C) Proporcionan direccionamiento de origen y destino para transportar la trama entre dispositivos
+D) Controlan cómo se colocan y reciben los datos en los medios
+ANSWER: B
+
+La subcapa LLC
+A) Toma los datos del protocolo de red
+B) Encapsula el paquete en la trama apropiada
+C) Incluye un avance utilizado para detectar errores de transmisión
+D) Comprueba la calidad del enlace usado
+ANSWER: A
+
+En las redes de computadoras, un nodo es un dispositivo que
+A) Puede recibir, crear, almacenar o reenviar datos a lo largo de una ruta de comunicación
+B) Se utiliza para resolver nombres de Internet en direcciones IP
+C) Se utiliza para transferir archivos que conforman las páginas Web de la World Wide Web
+D) Proporcionar un servicio de comunicaciones
+ANSWER: A
+
+La capa de enlace de archivos
+A) Realiza la detección de errores y rechaza cualquier trama corrupta
+B) Controla cómo se colocan y reciben los datos en los medios
+C) Permite que las capas superiores accedan a los medios
+D) Todas son falsas
+ANSWER: D
+
+¿Qué hace referencia al semidúplex?
+A) La subcapa MAC proporciona control de acceso a medios, permitiendo que múltiples dispositivos se comuniquen a través de un medio compartido
+B) La subcapa LLC proporciona control de acceso a medios, permitiendo que múltiples dispositivos se comuniquen a través de un medio compartido
+C) Ambas son correctas
+D) Ambas son incorrectas
+ANSWER: A
+
+¿Cuál de estas no es una función que pueda relizar un router?
+A) Reenvía la nueva trama apropiada para el medio de ese segmento de la red física
+B) Vuelve a encapsular el paquete en una nueva trama
+C) Desencapsula la trama
+D) Controla cómo se colocan y reciben los datos en los medios
+ANSWER: D
+
+La capa de enlace de datos
+A) Controla cómo se mueven y transforman los datos en los medios
+B) Permite que las capas inferiores accedan a los medios
+C) Realiza la detección de cambios y rechaza cualquier cambio no detectado
+D) Todas son falsas
+ANSWER: D
+
+Las comunicaciones full-duplex
+A) Requieren control de acceso
+B) No requieren control de acceso
+C) Ambas son correctas
+D) Ambas son falsas
+ANSWER: B
